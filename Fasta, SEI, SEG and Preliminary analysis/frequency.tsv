@@ -1,0 +1,927 @@
+function	count
+ olfactory receptor	362
+ uncharacterized protein	134
+ keratin-associated protein	87
+ histone	39
+ protein	34
+ putative uncharacterized protein	29
+ zinc finger protein	27
+ melanoma-associated antigen	24
+ taste receptor type 2 member	23
+ probable G-protein coupled receptor	18
+ histone H2B type	18
+ transmembrane protein	17
+ late cornified envelope protein	16
+ histone H2A type	16
+ forkhead box protein	16
+ coiled-coil domain-containing protein	15
+ transcription factor	14
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	14
+ humanin-like	10
+ ankyrin repeat domain-containing protein	8
+ G-protein coupled receptor	8
+ transcription elongation factor A protein-like	8
+ tigger transposable element-derived protein	7
+ mas-related G-protein coupled receptor member	7
+ peptidyl-prolyl cis-trans isomerase A-like	7
+ proline-rich protein	7
+ ras-related protein	6
+ retrotransposon Gag-like protein	6
+ small integral membrane protein	6
+ zinc finger BED domain-containing protein	6
+ cTAGE family member	6
+ RING finger protein	6
+ zinc finger and BTB domain-containing protein	6
+ ubiquitin specific peptidase 17-like family member	6
+ zinc finger CCHC domain-containing protein	5
+ trace amine-associated receptor	5
+ leucine-rich repeat-containing protein	5
+ potassium voltage-gated channel subfamily A member	5
+ 5-hydroxytryptamine receptor	5
+ putative protein	5
+ forkhead box protein D4-like	5
+ achaete-scute homolog	5
+ carbohydrate sulfotransferase	5
+ cdc42 effector protein	4
+ putative olfactory receptor	4
+ armadillo repeat-containing X-linked protein	4
+ protein sprouty homolog	4
+ testis-specific Y-encoded-like protein	4
+ vomeronasal type-1 receptor	4
+ heterogeneous nuclear ribonucleoprotein C-like	4
+ somatostatin receptor type	4
+ putative UPF0607 protein	4
+ putative POM121-like protein	4
+ sphingosine 1-phosphate receptor	4
+ suppressor of cytokine signaling	4
+ neurogenic differentiation factor	4
+ ADP-ribosylation factor-like protein	4
+ EP300-interacting inhibitor of differentiation	4
+ POU domain, class 3, transcription factor	4
+ beta-1,3-galactosyltransferase	4
+ E3 ubiquitin-protein ligase	4
+ heat shock 70 kDa protein	4
+ transcription initiation factor TFIID subunit	3
+ RIMS-binding protein	3
+ histone H2A-Bbd type	3
+ kelch repeat and BTB domain-containing protein	3
+ 60S ribosomal protein	3
+ testis-specific serine/threonine-protein kinase	3
+ actin-like protein	3
+ ubiquitin carboxyl-terminal hydrolase	3
+ muscarinic acetylcholine receptor	3
+ BTB/POZ domain-containing protein	3
+ factor VIII intron 22	3
+ membrane progestin receptor	3
+ C-C chemokine receptor type	3
+ dnaJ homolog subfamily B member	3
+ putative exonuclease	3
+ oligodendrocyte transcription factor	3
+ pleckstrin homology-like domain family A member	3
+ nucleosome assembly protein 1-like	3
+ inactive ubiquitin carboxyl-terminal hydrolase 17-like protein	3
+ hydroxycarboxylic acid receptor	3
+ melanocortin receptor	3
+ P2Y purinoceptor	3
+ small integral membrane protein 10-like protein	3
+ centromere protein V like	3
+ putative keratin-associated protein	3
+ small proline-rich protein	3
+ kelch-like protein	3
+ paraneoplastic antigen	3
+ heterogeneous nuclear ribonucleoprotein	2
+ dual specificity protein phosphatase	2
+ DDB1- and CUL4-associated factor 4-like protein	2
+ TRAF-interacting protein with FHA domain-containing protein	2
+ SERTA domain-containing protein	2
+ proto-oncogene	2
+ OTU domain-containing protein	2
+ calmodulin-like protein	2
+ prothymosin	2
+ paraneoplastic antigen-like protein	2
+ solute carrier family 35 member	2
+ heat shock protein	2
+ endogenous Bornavirus-like nucleoprotein	2
+ acidic leucine-rich nuclear phosphoprotein 32 family member	2
+ galactoside 2-alpha-L-fucosyltransferase	2
+ cysteinyl leukotriene receptor	2
+ collagen alpha-3(IX)	2
+ putative	2
+ lysine-specific demethylase	2
+ inward rectifier potassium channel	2
+ sterile alpha motif domain-containing protein	2
+ V(D)J recombination-activating protein	2
+ pyrin domain-containing protein	2
+ polyadenylate-binding protein	2
+ trafficking protein particle complex subunit	2
+ elongin-A3 member	2
+ solute carrier family 25 member	2
+ tripartite motif-containing protein	2
+ interferon alpha-1/13	2
+ N-formyl peptide receptor	2
+ class A basic helix-loop-helix protein	2
+ nanos homolog	2
+ RNA-binding motif protein,	2
+ protein atonal homolog	2
+ alpha-(1,3)-fucosyltransferase	2
+ glucose-dependent insulinotropic	2
+ insulinoma-associated protein	2
+ class E basic helix-loop-helix protein	2
+ testis-expressed protein	2
+ relaxin-3 receptor	2
+ ATP-sensitive inward rectifier potassium channel	2
+ leukotriene B4 receptor	2
+ POM121-like protein	2
+ phosphatidylinositol N-acetylglucosaminyltransferase subunit	2
+ kelch domain-containing protein	2
+ protein phosphatase 1 regulatory subunit	2
+ APC membrane recruitment protein	2
+ actin-related protein	2
+ beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase	2
+ potassium voltage-gated channel subfamily S member	2
+ zinc finger X-linked protein	2
+ homeobox protein	2
+ tumor necrosis factor alpha-induced protein 8-like protein	2
+ A-kinase anchor protein	2
+ twist-related protein	2
+ G-protein coupled receptor-associated sorting protein	2
+ putative nucleotidyltransferase	2
+ tetratricopeptide repeat protein	2
+ biogenesis of lysosome-related organelles complex 1 subunit	2
+ atypical chemokine receptor	2
+ olfactory receptor 4F3/4F16/4F29 isoform	2
+ transcriptional activator protein	2
+ uncharacterized protein KIAA0040 isoform	2
+ vegetative cell wall protein	2
+ helix-loop-helix protein	2
+ testis-specific chromodomain protein Y	2
+ polyadenylate-binding protein 1-like	2
+ methyl-CpG-binding domain protein 3-like	2
+ putative transmembrane protein	2
+ ribonuclease P protein subunit	2
+ DDB1- and CUL4-associated factor 12-like protein	2
+ testis-specific XK-related protein, Y-linked	2
+ DDB1- and CUL4-associated factor 8-like protein	2
+ neuropeptides B/W receptor type	2
+ protocadherin beta-8	1
+ calcium-binding and spermatid-specific protein	1
+ glycerol kinase	1
+ G protein-regulated inducer of neurite outgrowth 3 isoform	1
+ POU domain, class 5, transcription factor	1
+ protocadherin beta-16	1
+ Bardet-Biedl syndrome 12 protein isoform	1
+ zinc finger protein 2	1
+ polyadenylate-binding protein 4-like isoform	1
+ MORF4 family-associated protein 1-like	1
+ probable UDP-sugar transporter protein	1
+ G protein-regulated inducer of neurite outgrowth	1
+ cytochrome c oxidase subunit 7B2, mitochondrial	1
+ UNC119-binding protein	1
+ translocating chain-associated membrane protein 1-like	1
+ cysteine-rich PAK1	1
+ mitochondrial ornithine transporter	1
+ spermatogenic leucine zipper protein	1
+ protocadherin beta-9	1
+ protocadherin beta-14	1
+ protocadherin beta-13	1
+ protocadherin beta-12	1
+ protocadherin beta-11	1
+ chromosome-associated kinesin	1
+ mediator of RNA polymerase II transcription subunit	1
+ protocadherin beta-10	1
+ protocadherin beta-5	1
+ transketolase-like protein	1
+ protocadherin beta-1	1
+ brain acid soluble protein	1
+ ectoderm-neural cortex protein 1 isoform	1
+ alpha-1,3-mannosyl-glycoprotein	1
+ uncharacterized	1
+ putative germ cell-less protein-like	1
+ histone cluster 2, H3c	1
+ rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein	1
+ proline-rich basic protein	1
+ rho-related GTP-binding protein RhoH isoform	1
+ toll-like receptor 1 isoform	1
+ protocadherin beta-7	1
+ toll-like receptor 2 isoform	1
+ N-alpha-acetyltransferase 11 isoform	1
+ protocadherin beta-6 isoform 1	1
+ zinc finger protein 518B isoform	1
+ toll-like receptor 6 isoform	1
+ protocadherin beta-15	1
+ protocadherin beta-3	1
+ protocadherin beta-2	1
+ protein FAM200B isoform	1
+ beta-2 adrenergic	1
+ D(1A) dopamine	1
+ fibronectin type III domain-containing protein	1
+ IgA-inducing protein homolog	1
+ annexin-2	1
+ beta-actin-like protein	1
+ protocadherin beta-4	1
+ putative uncharacterized protein encoded by	1
+ ATP synthase subunit g 2,	1
+ protein SCO2 homolog, mitochondrial	1
+ polycystic kidney disease and receptor for egg jelly-related protein	1
+ T-complex protein 1 subunit theta-like	1
+ protein phosphatase 1 regulatory subunit 29	1
+ protein Tob2 isoform	1
+ lactosylceramide 4-alpha-galactosyltransferase isoform	1
+ somatostatin receptor type 3 isoform	1
+ claudin-5 isoform	1
+ dendritic cell nuclear protein	1
+ zinc finger protein 70 isoform	1
+ zinc finger BED domain-containing protein 4 isoform	1
+ platelet glycoprotein IX	1
+ transmembrane protein with metallophosphoesterase domain isoform	1
+ uncharacterized membrane protein C3orf80	1
+ serine palmitoyltransferase small subunit	1
+ leucine-rich repeat neuronal protein 1	1
+ hydroxyacyl-thioester dehydratase type 2,	1
+ xin actin-binding repeat-containing protein 1 isoform	1
+ 7-alpha-hydroxycholest-4-en-3-one	1
+ platelet glycoprotein V	1
+ uncharacterized protein C22orf46 isoform	1
+ thrombomodulin	1
+ alternative prion protein	1
+ MMP24 opposite	1
+ protein GDF5OS, mitochondrial	1
+ major centromere autoantigen	1
+ CCAAT/enhancer-binding protein beta isoform	1
+ prion-like protein doppel	1
+ NTF2-related export protein	1
+ adenylyltransferase and sulfurtransferase	1
+ FAST kinase domain-containing protein 5,	1
+ putative DPH3 homolog	1
+ nuclear receptor-interacting protein 1 isoform	1
+ leucine-rich repeat transmembrane protein FLRT3	1
+ zinc finger SWIM domain-containing protein 1 isoform	1
+ bladder cancer-associated protein isoform	1
+ uncharacterized protein C21orf62	1
+ suppressyn	1
+ dnaJ homolog subfamily C member	1
+ sodium/myo-inositol	1
+ leucine-rich repeat-containing protein 3	1
+ potassium voltage-gated channel subfamily E member	1
+ keratin-associated protein 19-6 isoform	1
+ ATP-sensitive inward rectifier potassium channel 15 isoform	1
+ SCP2 sterol-binding domain-containing protein	1
+ P2Y purinoceptor 14 isoform	1
+ Sjoegren syndrome nuclear autoantigen 1	1
+ endogenous retrovirus group K member 7 Gag	1
+ spermatogenesis-associated protein 12 isoform	1
+ FOXL2 neighbor protein isoform	1
+ CGG triplet repeat-binding protein 1 isoform	1
+ endogenous retrovirus group PABLB member 1 Env	1
+ alpha-2C adrenergic	1
+ D(1B) dopamine	1
+ neuropeptide Y receptor type	1
+ proactivator polypeptide-like 1	1
+ putative RNA-binding protein	1
+ toll-like receptor 10 isoform	1
+ zinc finger protein 42	1
+ DDB1- and CUL4-associated factor	1
+ extracellular superoxide dismutase [Cu-Zn]	1
+ heparan sulfate glucosamine 3-O-sulfotransferase 1	1
+ fibroblast growth factor-binding protein 1	1
+ pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial	1
+ protein mab-21-like	1
+ something about silencing protein	1
+ endogenous retrovirus group MER34 member 1 Env polyprotein	1
+ fibroblast growth factor-binding protein 2	1
+ disintegrin and metalloproteinase domain-containing protein 29	1
+ EPM2A-interacting protein	1
+ SLIT and NTRK-like protein 3	1
+ transmembrane protein 158	1
+ tRNA methyltransferase 10 homolog C	1
+ WD repeat-containing protein	1
+ urocortin-2	1
+ three-prime repair exonuclease 1 isoform	1
+ dihydrofolate reductase 2,	1
+ amphoterin-induced protein 3	1
+ C-X-C chemokine receptor type 6 isoform	1
+ carboxypeptidase N subunit 2 isoform	1
+ protein O-linked-mannose beta-1,4-N-acetylglucosaminyltransferase 2 isoform	1
+ leucine-rich repeat-containing protein 3B isoform	1
+ C-C chemokine receptor type 4 isoform	1
+ serine palmitoyltransferase small subunit B isoform	1
+ probable G-protein coupled receptor 160 isoform	1
+ chemokine XC receptor 1 isoform	1
+ probable G-protein coupled receptor 171 isoform	1
+ histamine H1 receptor isoform	1
+ zinc finger protein 860 isoform	1
+ uncharacterized protein C3orf18 isoform	1
+ solute carrier family 35 member G2 isoform	1
+ lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase isoform	1
+ olfactory receptor 5H6 isoform	1
+ interferon alpha-17	1
+ haloacid dehalogenase-like hydrolase domain-containing protein	1
+ 39S ribosomal protein L41,	1
+ calcineurin subunit B type	1
+ ribonuclease P protein subunit p25-like	1
+ interferon epsilon	1
+ orexigenic neuropeptide QRFP	1
+ adropin	1
+ immediate early response gene 5-like	1
+ phospholipid phosphatase	1
+ zinc finger and BTB domain-containing protein 5 isoform	1
+ probable E3 ubiquitin-protein ligase RNF183 isoform	1
+ actin-like protein 10	1
+ leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 2 isoform	1
+ E3 ubiquitin-protein ligase TRIM32 isoform	1
+ olfactory receptor 1B1 isoform	1
+ nuclear factor interleukin-3-regulated protein isoform	1
+ myogenesis-regulating glycosidase isoform	1
+ recQ-mediated genome instability protein 1 isoform	1
+ transmembrane protein 246 isoform	1
+ protein phosphatase 1 regulatory subunit 26 isoform	1
+ tubulin beta	1
+ phosphatidylinositol 4,5-bisphosphate 5-phosphatase	1
+ thymosin	1
+ olfactory receptor 1J2 isoform	1
+ olfactory receptor 1L8 isoform	1
+ interferon alpha-2	1
+ aldehyde dehydrogenase X, mitochondrial	1
+ tumor suppressor candidate gene 1	1
+ notch-regulated ankyrin repeat-containing	1
+ histidine-rich carboxyl terminus protein	1
+ apical junction component 1	1
+ beta-1,3-galactosyl-O-glycosyl-glycoprotein	1
+ small regulatory polypeptide of amino acid	1
+ growth arrest-specific protein 1	1
+ interferon alpha-5	1
+ interferon alpha-8	1
+ interferon alpha-10	1
+ interferon alpha-4	1
+ interferon alpha-16	1
+ interferon alpha-21	1
+ interferon beta	1
+ interferon omega-1	1
+ cAMP-dependent protein kinase catalytic subunit	1
+ T-cell acute lymphocytic leukemia protein	1
+ ras-related GTP-binding protein	1
+ dolichol	1
+ GTP-binding protein	1
+ interferon kappa	1
+ interferon alpha-6	1
+ interferon alpha-7	1
+ interferon alpha-14	1
+ mid1-interacting protein	1
+ putative type-1 protein phosphatase inhibitor	1
+ ferritin heavy polypeptide-like	1
+ CPX chromosomal region candidate gene 1	1
+ three prime repair exonuclease	1
+ C1GALT1-specific chaperone	1
+ SLIT and NTRK-like protein 4	1
+ GTPase ERas	1
+ DEAD box protein	1
+ probable G-protein coupled receptor 173 isoform	1
+ endogenous retrovirus group FC1 Env	1
+ sex-determining region Y	1
+ transmembrane protein 250 isoform	1
+ PWWP domain-containing protein MUM1L1 isoform	1
+ ubiquitin carboxyl-terminal hydrolase 51 isoform	1
+ spindlin-3 isoform	1
+ lysophosphatidic acid receptor 4 isoform	1
+ protein FAM133A isoform	1
+ protein FAM156A/FAM156B isoform	1
+ melanoma-associated antigen 2 isoform	1
+ melanoma-associated antigen 8 isoform	1
+ ubiquitin carboxyl-terminal hydrolase 26 isoform	1
+ armadillo repeat-containing X-linked protein 2 isoform	1
+ putative nucleotidyltransferase FAM46D isoform	1
+ melanoma-associated antigen 9 isoform	1
+ cytochrome b-c1 complex subunit 6-like,	1
+ type-2 angiotensin II	1
+ phosphoglycerate mutase	1
+ gap junction beta-1	1
+ ataxin-3-like	1
+ putative transcription factor SPT20 homolog-like 2	1
+ transcription factor SPT20 homolog-like 1	1
+ mortality factor 4-like protein	1
+ SLIT and NTRK-like protein 2	1
+ transcriptional regulator	1
+ putative testis-expressed protein	1
+ mitochondrial pyruvate carrier 1-like	1
+ ferritin, heavy polypeptide-like	1
+ carbohydrate sulfotransferase 7	1
+ negative regulator of P-body	1
+ nuclear cap-binding protein subunit	1
+ protein BHLHb9	1
+ long intergenic non-protein coding RNA	1
+ TEX13 family member	1
+ embryonic testis differentiation homolog	1
+ cerebellar degeneration-related antigen	1
+ glutamate dehydrogenase 2, mitochondrial	1
+ huntingtin-interacting protein	1
+ potassium voltage-gated channel subfamily E regulatory beta subunit	1
+ replication protein A 30 kDa	1
+ paraneoplastic antigen-like protein 5 isoform	1
+ eukaryotic peptide chain release factor GTP-binding subunit	1
+ NLR family pyrin domain-containing protein	1
+ inactive serine protease 35	1
+ kidney-associated antigen	1
+ gap junction beta-7	1
+ syncytin-2	1
+ histone H2B type 1-D isoform	1
+ zinc finger and BTB domain-containing protein 12 isoform	1
+ high mobility group nucleosome-binding domain-containing protein 4 isoform	1
+ alpha-(1,3)-fucosyltransferase 9 isoform	1
+ transmembrane protein 200A isoform	1
+ uncharacterized protein C6orf141 isoform	1
+ E3 ubiquitin-protein ligase RNF182 isoform	1
+ protein FAM50B isoform	1
+ grainyhead-like protein 2 homolog isoform	1
+ dual specificity protein phosphatase 22 isoform	1
+ probable G-protein coupled receptor 63 isoform	1
+ FAM10 family protein	1
+ arf-GAP with GTPase, ANK repeat and PH domain-containing protein	1
+ olfactory receptor 2H1 isoform	1
+ olfactory receptor 5V1 isoform	1
+ rho guanine nucleotide exchange factor	1
+ endogenous retrovirus group 3 member 1 Env polyprotein	1
+ inactive Ufm1-specific protease	1
+ G-protein coupled estrogen receptor	1
+ hypoxia-inducible lipid droplet-associated	1
+ leucine-rich repeat neuronal protein 3	1
+ zinc finger CCCH-type domain-containing-like isoform	1
+ ankyrin repeat domain-containing protein SOWAHA	1
+ ferritin, mitochondrial	1
+ leucine-rich repeat-containing protein 70	1
+ protein phosphatase inhibitor 2-like protein	1
+ short transmembrane mitochondrial protein	1
+ gap junction alpha-1	1
+ claudin-20	1
+ small ubiquitin-related modifier	1
+ NKAP-like	1
+ ret finger protein-like	1
+ trophoblast glycoprotein	1
+ protein myomixer	1
+ checkpoint protein	1
+ cardiac	1
+ tubulin-specific chaperone	1
+ histone H4-like protein type	1
+ 12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid	1
+ histone cluster 1,	1
+ prostate and breast cancer overexpressed gene 1	1
+ FK506-binding	1
+ splicing factor 3B subunit	1
+ gap junction alpha-10	1
+ mas-related G-protein coupled receptor	1
+ hepatoma-derived growth factor-like protein	1
+ phosphoglycerate kinase	1
+ testis development-related protein	1
+ protein enabled	1
+ corticoliberin	1
+ sodium/bile acid cotransporter 5	1
+ peroxisome biogenesis factor	1
+ COMM domain-containing protein	1
+ putative POU domain, class 5, transcription factor	1
+ CCAAT/enhancer-binding protein	1
+ proto-oncogene serine/threonine-protein kinase	1
+ zinc fingers and homeoboxes protein	1
+ zinc finger protein 623 isoform	1
+ ribosome biogenesis regulatory protein	1
+ activity-regulated cytoskeleton-associated	1
+ leucine zipper protein	1
+ transcriptional and immune response	1
+ pleckstrin homology domain-containing family F member	1
+ zinc finger protein 41	1
+ zinc fingers and homeoboxes protein 2 isoform	1
+ arylamine N-acetyltransferase 2 isoform	1
+ small integral membrane protein 18 isoform	1
+ glutamate-rich protein 1 isoform	1
+ RNA-binding protein 12B isoform	1
+ protein phosphatase 1 regulatory subunit 3B isoform	1
+ protein FAM110B isoform	1
+ kelch repeat and BTB domain-containing protein 11 isoform	1
+ proline-rich proteoglycan	1
+ tRNA wybutosine-synthesizing protein 2	1
+ syncytin-1	1
+ nuclear protein	1
+ small integral membrane protein 30	1
+ neurosecretory protein VGF	1
+ frizzled-9	1
+ TLR4 interactor with leucine rich repeats	1
+ poly(A) polymerase	1
+ leucine-rich repeat-containing protein 4	1
+ dnaJ homolog subfamily C member 30	1
+ ZBED6 C-terminal-like	1
+ Krueppel-like factor	1
+ E3 ubiquitin-protein ligase RNF133	1
+ protein FAM200A isoform	1
+ GTPase IMAP family member	1
+ ribose-phosphate pyrophosphokinase	1
+ RING finger protein 148	1
+ metallo-beta-lactamase domain-containing protein 1 isoform	1
+ cyclic AMP-responsive element-binding protein 5 isoform	1
+ olfactory receptor 2F1 isoform	1
+ probable G-protein coupled receptor 22 isoform	1
+ transmembrane protein 184A isoform	1
+ protein ELFN1 isoform	1
+ probable G-protein coupled receptor 85 isoform	1
+ fidgetin-like protein 1 isoform	1
+ enolase-phosphatase	1
+ muscarinic acetylcholine receptor M2 isoform	1
+ fer3-like	1
+ zinc finger HIT domain-containing protein	1
+ four-jointed box protein 1	1
+ cell cycle exit and neuronal differentiation protein	1
+ endosialin	1
+ Fanconi anemia group F	1
+ acetylgalactosaminyl-O-glycosyl-glycoprotein	1
+ ubiquilin-like	1
+ fin bud initiation factor homolog	1
+ LRRN4 C-terminal-like protein	1
+ colorectal cancer-associated protein	1
+ uncharacterized protein LOC100287896 isoform	1
+ UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8	1
+ serine/arginine-rich splicing factor 8 isoform	1
+ complement C1q tumor necrosis factor-related protein 4 isoform	1
+ hydrolethalus syndrome protein 1 isoform	1
+ olfactory receptor 6T1 isoform	1
+ olfactory receptor 8B2 isoform	1
+ olfactory receptor 2AT4 isoform	1
+ ATP-sensitive inward rectifier potassium channel 11 isoform	1
+ olfactory receptor 52N4 isoform	1
+ olfactory receptor 8B3 isoform	1
+ rho-related GTP-binding protein RhoG isoform	1
+ P2Y purinoceptor 2 isoform	1
+ cytochrome c oxidase assembly factor 4 homolog, mitochondrial isoform	1
+ uncharacterized protein LOC101927503 isoform	1
+ neurogenin-3 isoform	1
+ neuropeptide Y receptor type 4 isoform	1
+ olfactory receptor 13A1 isoform	1
+ threonine synthase-like 1 isoform	1
+ zinc finger protein 518A isoform	1
+ basic proline-rich	1
+ protein DDI1 homolog	1
+ BH3-like motif-containing cell death	1
+ olfactory receptor 4C3	1
+ putative cancer susceptibility gene HEPN1	1
+ macrophage-expressed gene 1 protein	1
+ olfactory marker	1
+ upstream-binding factor 1-like protein	1
+ trophoblast glycoprotein-like	1
+ casein kinase 2, alpha 1	1
+ proapoptotic nucleolar protein	1
+ H19 opposite tumor	1
+ keratin-associated protein 5-4 isoform	1
+ olfactory receptor 10G6	1
+ thyroid hormone-inducible hepatic	1
+ jerky protein	1
+ flap endonuclease	1
+ prostaglandin D2 receptor	1
+ apelin	1
+ ras association domain-containing protein	1
+ heterogeneous nuclear ribonucleoprotein A1-like	1
+ gap junction beta-6	1
+ chromosome alignment-maintaining phosphoprotein	1
+ coiled-coil domain-containing protein 70	1
+ 2-oxoglutarate receptor	1
+ ubiquitin conjugating enzyme E2	1
+ gap junction beta-2	1
+ SLIT and NTRK-like protein 5	1
+ U3 small nucleolar RNA-associated protein 14 homolog	1
+ gap junction alpha-3	1
+ SLIT and NTRK-like protein 6	1
+ leucine-rich repeat-containing protein 4C isoform	1
+ casein kinase I isoform	1
+ serine-rich and transmembrane domain-containing protein	1
+ G-protein coupled receptor 12 isoform	1
+ uncharacterized protein LOC101928841 isoform	1
+ G-protein coupled receptor 183 isoform	1
+ ribosomal protein 63, mitochondrial isoform	1
+ basic salivary proline-rich protein 3-like isoform	1
+ proline-rich protein 36-like isoform	1
+ lysophosphatidic acid receptor 6 isoform	1
+ N-arachidonyl glycine receptor isoform	1
+ B1 bradykinin	1
+ probable inactive ribonuclease-like protein 13	1
+ SLIT and NTRK-like protein 1	1
+ leucine-rich repeat transmembrane protein FLRT1 isoform	1
+ 6.8 kDa mitochondrial	1
+ rab15 effector	1
+ microtubule-associated proteins 1A/1B light chain 3 beta 2	1
+ ataxin-7-like protein	1
+ lysophosphatidic acid receptor	1
+ amphoterin-induced protein 2	1
+ C3a anaphylatoxin chemotactic	1
+ frizzled-10	1
+ zinc finger CCCH domain-containing protein	1
+ cytochrome c oxidase assembly protein	1
+ collagen alpha-1(I)	1
+ coiled-coil domain-containing glutamate-rich protein	1
+ transmembrane protein 119	1
+ testis-specific H1	1
+ G-protein coupled receptor 84 isoform	1
+ zinc finger protein 891 isoform	1
+ uncharacterized protein C12orf60 isoform	1
+ olfactory receptor 6C74 isoform	1
+ potassium voltage-gated channel subfamily A member 6 isoform	1
+ single-pass membrane and coiled-coil domain-containing protein 3 isoform	1
+ transcription termination factor 2, mitochondrial isoform	1
+ activator of apoptosis harakiri isoform	1
+ PC-esterase domain-containing protein 1B isoform	1
+ F-actin-capping protein subunit	1
+ protein arginine N-methyltransferase	1
+ lens epithelial cell protein	1
+ microtubule-associated protein	1
+ RNA binding motif protein,	1
+ gap junction gamma-2	1
+ amphoterin-induced protein 1	1
+ disintegrin and metalloproteinase domain-containing protein 30	1
+ succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial	1
+ interferon alpha responsive protein isoform	1
+ gap junction beta-3	1
+ sperm mitochondrial-associated cysteine-rich	1
+ SKI/DACH domain-containing protein 1 isoform	1
+ 4-hydroxyphenylpyruvate dioxygenase-like	1
+ U7 snRNA-associated Sm-like protein	1
+ histidine protein methyltransferase 1	1
+ cbp/p300-interacting transactivator	1
+ protein KTI12	1
+ GPI mannosyltransferase	1
+ high mobility group protein B4 isoform	1
+ probable proline--tRNA ligase, mitochondrial	1
+ UBX domain-containing protein	1
+ UPF0739 protein	1
+ gap junction beta-4	1
+ transmembrane epididymal protein	1
+ gap junction alpha-9 protein	1
+ von Hippel-Lindau-like	1
+ leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 4	1
+ late cornified envelope-like proline-rich protein	1
+ skin-specific protein	1
+ keratinocyte proline-rich	1
+ transcription factor Dp family member	1
+ UPF0500 protein	1
+ platelet-activating factor	1
+ fibronectin type III domain-containing protein 10	1
+ metallothionein 1H-like protein	1
+ pyrin domain-only protein	1
+ immediate early response gene 5	1
+ placenta-specific protein 1 isoform	1
+ FAM231A/C-like protein	1
+ nudix hydrolase	1
+ histone cluster 2 H3 pseudogene	1
+ zinc finger CCCH-type containing	1
+ rab proteins geranylgeranyltransferase component A	1
+ tumor-associated calcium signal transducer 2	1
+ GTP-binding protein Di-Ras3	1
+ gap junction beta-5	1
+ 14-3-3 protein	1
+ regulatory solute carrier protein family 1 member	1
+ G0/G1 switch protein	1
+ bolA-like protein 1	1
+ small proline-rich protein 2G isoform	1
+ toll-like receptor 5 isoform	1
+ AT-hook DNA-binding motif-containing protein 1 isoform	1
+ translation initiation factor	1
+ zinc finger protein 648 isoform	1
+ alpha-2A adrenergic	1
+ beta-1 adrenergic	1
+ shadow of prion protein	1
+ eukaryotic translation initiation factor	1
+ ribulose-phosphate 3-epimerase-like protein	1
+ vesicular acetylcholine	1
+ exocyst complex component	1
+ prolactin-releasing peptide	1
+ GSK-3-binding protein	1
+ cleavage stimulation factor subunit 2 tau	1
+ Hermansky-Pudlak syndrome 6	1
+ MARVEL domain-containing protein	1
+ frizzled-8	1
+ 2-aminoethanethiol	1
+ urocortin-3	1
+ fibroblast growth factor-binding protein 3	1
+ neuropeptide Y receptor Y42 isoform	1
+ ribonuclease P protein subunit p38 isoform	1
+ zinc finger protein 488 isoform	1
+ cholesterol	1
+ transmembrane protein 81	1
+ ubiquitin-like protein	1
+ putative C->U-editing enzyme	1
+ TMF-regulated nuclear protein 1 isoform	1
+ cysteine-rich C-terminal protein 1 isoform	1
+ nascent polypeptide-associated complex subunit alpha, muscle-specific	1
+ C2 calcium-dependent domain-containing protein 4D isoform	1
+ leucine-rich repeat neuronal protein 2 isoform	1
+ muscarinic acetylcholine receptor M3 isoform	1
+ cannabinoid receptor 2 isoform	1
+ olfactory receptor 2T10 isoform	1
+ small proline-rich protein 2F isoform	1
+ small proline-rich protein 4 isoform	1
+ olfactory receptor 10J1 isoform	1
+ gap junction alpha-4 protein isoform	1
+ gap junction alpha-5 protein isoform	1
+ late cornified envelope protein 6A isoform	1
+ helix-loop-helix protein 2 isoform	1
+ dolichol-phosphate mannosyltransferase subunit 3 isoform	1
+ volume-regulated anion channel subunit LRRC8D isoform	1
+ proline-rich nuclear receptor coactivator 2 isoform	1
+ exonuclease V isoform	1
+ small proline-rich protein 2B isoform	1
+ small proline-rich protein 2D isoform	1
+ olfactory receptor 6N1 isoform	1
+ endogenous retrovirus group V member 2 Env polyprotein	1
+ fMet-Leu-Phe	1
+ C5a anaphylatoxin chemotactic receptor	1
+ leukocyte receptor cluster member 9 isoform	1
+ putative guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit	1
+ F-box only protein	1
+ putative zinc finger protein	1
+ ribosomal protein SA pseudogene	1
+ sphingosine 1-phosphate receptor 4	1
+ CCAAT/enhancer-binding protein alpha isoform	1
+ immediate early response gene 2	1
+ inactive ribonuclease-like protein 10	1
+ transcription factor jun-D isoform	1
+ nuclear pore glycoprotein	1
+ interferon regulatory factor 2-binding protein	1
+ protein fem-1 homolog	1
+ baculoviral IAP repeat-containing protein	1
+ sperm acrosome membrane-associated protein 4	1
+ myeloid-associated differentiation	1
+ probable inactive tRNA-specific adenosine deaminase-like protein 3 isoform	1
+ endogenous retrovirus group V member 1 Env polyprotein	1
+ E3 ubiquitin-protein ligase ZNRF4	1
+ TIR domain-containing adapter molecule	1
+ regulator of G-protein signaling 9-binding	1
+ free fatty acid receptor	1
+ uncharacterized protein LOC105371944 isoform	1
+ olfactory receptor 3A3 isoform	1
+ transmembrane protein 99 isoform	1
+ endonuclease V isoform	1
+ testis-expressed protein 19 isoform	1
+ olfactory receptor 3A1 isoform	1
+ transmembrane protein 100 isoform	1
+ protein MIS12 homolog isoform	1
+ cyclin-dependent kinase 5 activator 1 isoform	1
+ flocculation protein	1
+ putative uncharacterized protein encoded by LINC00483 isoform	1
+ serine/arginine repetitive matrix protein	1
+ biorientation of chromosomes in cell division protein 1-like	1
+ putative solute carrier family 35 member	1
+ putative elongin-A3 member	1
+ charged multivesicular body protein	1
+ dermatan-sulfate epimerase-like protein	1
+ E3 ubiquitin-protein ligase RNF152 isoform	1
+ adrenocorticotropic hormone receptor isoform	1
+ suppressor of cytokine signaling 6 isoform	1
+ histidine-rich protein	1
+ succinate dehydrogenase assembly factor 1,	1
+ galactoside	1
+ leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3	1
+ TYMS opposite strand	1
+ cyclin-dependent kinase 5 activator	1
+ N-acetyltransferase	1
+ rho-related GTP-binding protein RhoB	1
+ insulin receptor substrate	1
+ poly(rC)-binding protein	1
+ vesicle transport protein	1
+ methionine--tRNA ligase, mitochondrial	1
+ lipoyltransferase 1, mitochondrial	1
+ oxoeicosanoid receptor	1
+ retroviral-like aspartic protease	1
+ SERTA domain-containing protein 2 isoform	1
+ interferon-inducible GTPase 5 isoform	1
+ disrupted in renal carcinoma protein 1 isoform	1
+ leucine-rich repeat transmembrane neuronal protein 1 isoform	1
+ C-X-C chemokine receptor type 2 isoform	1
+ lysine-rich coiled-coil protein 1 isoform	1
+ transmembrane protein 127 isoform	1
+ atypical chemokine receptor 3 isoform	1
+ small membrane A-kinase anchor protein isoform	1
+ V-type proton ATPase subunit E 2 isoform	1
+ adhesive plaque matrix	1
+ 36.4 kDa proline-rich	1
+ protein FAM84A isoform	1
+ frizzled-5 isoform	1
+ tudor domain-containing protein 15 isoform	1
+ endogenous retrovirus group K member 8 Gag	1
+ endogenous retrovirus group S71 member 1 Env	1
+ zinc finger protein 837 isoform	1
+ zinc finger protein 345 isoform	1
+ olfactory receptor 7A5 isoform	1
+ G-protein coupled receptor 4 isoform	1
+ free fatty acid receptor 2 isoform	1
+ zinc finger protein 260 isoform	1
+ zinc finger protein 581 isoform	1
+ zinc finger protein OZF isoform	1
+ fukutin-related protein isoform	1
+ frizzled-7	1
+ nuclear factor interleukin-3-regulated	1
+ CCAAT/enhancer-binding protein gamma isoform	1
+ C-X-C chemokine receptor type	1
+ alpha-2B adrenergic	1
+ C1GALT1-specific chaperone 1-like	1
+ dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit	1
+ pyridoxal phosphate phosphatase	1
+ N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase	1
+ G-protein coupled bile acid receptor	1
+ potassium voltage-gated channel subfamily F member	1
+ urocortin	1
+ secretogranin-2	1
+ gem-associated protein 7 isoform	1
+ ribonuclease pancreatic	1
+ ovarian cancer G-protein coupled receptor 1 isoform	1
+ zinc finger and BTB domain-containing protein 42 isoform	1
+ epididymal secretory protein E3-alpha isoform	1
+ leucine-rich repeat transmembrane protein FLRT2 isoform	1
+ uncharacterized protein C14orf119 isoform	1
+ ribonuclease K6 isoform	1
+ probable G-protein coupled receptor 135 isoform	1
+ uncharacterized protein C15orf62, mitochondrial	1
+ GDP-D-glucose phosphorylase	1
+ putative HIG1 domain family member	1
+ dual specificity protein phosphatase 14 isoform	1
+ putative homeobox protein	1
+ probable E3 ubiquitin-protein ligase	1
+ tRNA wybutosine-synthesizing protein	1
+ U3 small nucleolar ribonucleoprotein protein	1
+ nuclear pore-associated protein	1
+ MAGE-like protein	1
+ talin rod domain-containing protein	1
+ L-lactate dehydrogenase A-like	1
+ non-structural maintenance of chromosomes element 3	1
+ piggyBac transposable element-derived protein	1
+ immunoglobulin superfamily containing leucine-rich repeat protein	1
+ C2 calcium-dependent domain-containing protein	1
+ cortexin domain-containing	1
+ cell cycle control protein	1
+ probable inactive ribonuclease-like protein 12	1
+ angiogenin	1
+ proteasome subunit beta type-11	1
+ retrotransposon-like protein	1
+ thyroxine	1
+ ADP-ribosylation factor	1
+ alpha-1,6-mannosyl-glycoprotein	1
+ non-secretory ribonuclease	1
+ eosinophil cationic protein	1
+ psychosine	1
+ ribonuclease 4	1
+ disintegrin and metalloproteinase domain-containing protein 20	1
+ cell division cycle-associated protein	1
+ heat shock-related 70 kDa protein	1
+ modulator of apoptosis	1
+ epididymal secretory protein E3-beta	1
+ interferon regulatory factor 2-binding	1
+ ribosomal oxygenase	1
+ fibrous sheath CABYR-binding	1
+ ribonuclease 7	1
+ ribonuclease 8	1
+ probable ribonuclease 11	1
+ C-type lectin domain family 14 member A	1
+ disintegrin and metalloproteinase domain-containing protein 21	1
+ elongin BC and Polycomb repressive complex 2-associated	1
+ myeloid-associated differentiation marker-like protein	1
+ protein Tob1 isoform	1
+ Ig-like V-type domain-containing protein FAM187A	1
+ phosphatidylinositol-glycan biosynthesis class W	1
+ frizzled-2	1
+ oligodendrocyte-myelin glycoprotein	1
+ TGFB1-induced anti-apoptotic factor	1
+ noggin	1
+ BLOC-1-related complex subunit	1
+ urotensin-2	1
+ C2 calcium-dependent domain-containing protein 4B isoform	1
+ proline-rich protein 15-like	1
+ keratin-associated protein 9-9 isoform	1
+ ER membrane protein complex subunit	1
+ keratin-associated protein 4-8 isoform	1
+ serine/threonine-protein kinase	1
+ kinesin-like protein	1
+ gap junction delta-3	1
+ major facilitator superfamily domain-containing protein	1
+ zinc finger protein 3	1
+ signal peptide peptidase-like 2C	1
+ nascent polypeptide-associated complex subunit	1
+ reprimo-like	1
+ polyubiquitin-B	1
+ cortexin-2 isoform	1
+ protein PIGBOS1 isoform	1
+ inositol 1,4,5-trisphosphate receptor-interacting protein-like 2	1
+ cementoblastoma-derived protein	1
+ cap-specific mRNA (nucleoside-2'-O-)-methyltransferase	1
+ [Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 2, mitochondrial	1
+ melanocyte-stimulating hormone	1
+ leukosialin	1
+ selenide, water dikinase	1
+ dexamethasone-induced	1
+ probable ATP-dependent RNA helicase	1
+ THAP domain-containing protein	1
+ phosphoinositide-interacting	1
+ carbohydrate sulfotransferase 6	1
+ calpain small subunit	1
+ UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 9	1
+ exosome complex component	1
+ vasorin	1
+ CENPB DNA-binding domain-containing protein	1
+ NHL-repeat-containing protein	1
+ acyl-CoA synthetase family member 3, mitochondrial isoform	1
+ cadmium/zinc-transporting ATPase	1
+ zinc finger protein 319 isoform	1
+ platelet glycoprotein Ib alpha chain	1
+ gap junction gamma-1	1
+ claudin-6	1

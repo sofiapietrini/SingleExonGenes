@@ -1,0 +1,2286 @@
+function	cod	gene_name	type	chr	organism
+ 5-hydroxytryptamine receptor	1D	HTR1D	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T34	OR2T34	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T27	OR2T27	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T35	OR2T35	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2G3	OR2G3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2G2	OR2G2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	14C36	OR14C36	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2W3	OR2W3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	11L1	OR11L1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2L8	OR2L8	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T11	OR2T11	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	14A16	OR14A16	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T2	OR2T2	__SEG__	Chr1	{HomoSapiens}
+ von Hippel-Lindau-like	protein	VHLL	__SEG__	Chr1	{HomoSapiens}
+ leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 4	precursor	LINGO4	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10J3	OR10J3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10J5	OR10J5	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10R2	OR10R2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10K1	OR10K1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10T2	OR10T2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10K2	OR10K2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10X1	OR10X1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10Z1	OR10Z1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2AK2	OR2AK2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2B11	OR2B11	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2L2	OR2L2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2L3	OR2L3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2M2	OR2M2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2M3	OR2M3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2M5	OR2M5	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2M7	OR2M7	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T12	OR2T12	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T29	OR2T29	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T33	OR2T33	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T4	OR2T4	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T5	OR2T5	__SEG__	Chr1	{HomoSapiens}
+ putative olfactory receptor	2W5	OR2W5	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	14K1	OR14K1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	14I1	OR14I1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	6K6	OR6K6	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	6Y1	OR6Y1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	4F3/4F16/4F29	OR4F29	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	6N2	OR6N2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	6K2	OR6K2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	6F1	OR6F1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	6K3	OR6K3	__SEG__	Chr1	{HomoSapiens}
+ histone	H3.2	HIST2H3A	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T6	OR2T6	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	4F5	OR4F5	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	13G1	OR13G1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T3	OR2T3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T8	OR2T8	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope-like proline-rich protein	1	LELP1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2G6	OR2G6	__SEG__	Chr1	{HomoSapiens}
+ heterogeneous nuclear ribonucleoprotein C-like	1	HNRNPCL1	__SEG__	Chr1	{HomoSapiens}
+ protein	FAM231D	LOC388692	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein	2E	SPRR2E	__SEG__	Chr1	{HomoSapiens}
+ skin-specific protein	32	C1orf68	__SEG__	Chr1	{HomoSapiens}
+ keratinocyte proline-rich	protein	KPRP	__SEG__	Chr1	{HomoSapiens}
+ histone	H4	HIST2H4B	__SEG__	Chr1	{HomoSapiens}
+ ankyrin repeat domain-containing protein	34A	ANKRD34A	__SEG__	Chr1	{HomoSapiens}
+ histone H2A type	2-A	HIST2H2AA4	__SEG__	Chr1	{HomoSapiens}
+ cytochrome b-c1 complex subunit 6-like,	mitochondrial	UQCRHL	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein	3	SPRR3	__SEG__	Chr1	{HomoSapiens}
+ helix-loop-helix protein	2	NHLH2	__SEG__	Chr1	{HomoSapiens}
+ peptidyl-prolyl cis-trans isomerase A-like	4G	PPIAL4G	__SEG__	Chr1	{HomoSapiens}
+ histone	H3.2	HIST2H3D	__SEG__	Chr1	{HomoSapiens}
+ peptidyl-prolyl cis-trans isomerase A-like	4A/B/C	PPIAL4C	__SEG__	Chr1	{HomoSapiens}
+ heterogeneous nuclear ribonucleoprotein C-like	2	HNRNPCL2	__SEG__	Chr1	{HomoSapiens}
+ peptidyl-prolyl cis-trans isomerase A-like	4A	PPIAL4A	__SEG__	Chr1	{HomoSapiens}
+ peptidyl-prolyl cis-trans isomerase A-like	4E	PPIAL4E	__SEG__	Chr1	{HomoSapiens}
+ heterogeneous nuclear ribonucleoprotein C-like	3	HNRNPCL3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	6P1	OR6P1	__SEG__	Chr1	{HomoSapiens}
+ peptidyl-prolyl cis-trans isomerase A-like	4D	PPIAL4D	__SEG__	Chr1	{HomoSapiens}
+ peptidyl-prolyl cis-trans isomerase A-like	4F	PPIAL4F	__SEG__	Chr1	{HomoSapiens}
+ platelet-activating factor	receptor	PTAFR	__SEG__	Chr1	{HomoSapiens}
+ zinc finger BED domain-containing protein	6	ZBED6	__SEG__	Chr1	{HomoSapiens}
+ proline-rich protein	9	PRR9	__SEG__	Chr1	{HomoSapiens}
+	cornifin-A	SPRR1A	__SEG__	Chr1	{HomoSapiens}
+ RING finger protein	223	RNF223	__SEG__	Chr1	{HomoSapiens}
+ fibronectin type III domain-containing protein 10	precursor	FNDC10	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2L5	OR2L5	__SEG__	Chr1	{HomoSapiens}
+ achaete-scute homolog	5	ASCL5	__SEG__	Chr1	{HomoSapiens}
+ metallothionein 1H-like protein	1	MT1HL1	__SEG__	Chr1	{HomoSapiens}
+ protein	SETSIP	SETSIP	__SEG__	Chr1	{HomoSapiens}
+	beclin-2	BECN2	__SEG__	Chr1	{HomoSapiens}
+ heterogeneous nuclear ribonucleoprotein C-like	4	HNRNPCL4	__SEG__	Chr1	{HomoSapiens}
+ putative UPF0607 protein	ENSP00000383783	LOC100131107	__SEG__	Chr1	{HomoSapiens}
+ pyrin domain-only protein	3	PYDC5	__SEG__	Chr1	{HomoSapiens}
+ sphingosine 1-phosphate receptor	1	S1PR1	__SEG__	Chr1	{HomoSapiens}
+ bolA-like protein 1	precursor	BOLA1	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC101928120	LOC101928120	__SEG__	Chr1	{HomoSapiens}
+ protein	FAM231D	FAM231D	__SEG__	Chr1	{HomoSapiens}
+ protein	FAM231D	LOC100996741	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	10J4	OR10J4	__SEG__	Chr1	{HomoSapiens}
+ UPF0500 protein	C1orf216	C1orf216	__SEG__	Chr1	{HomoSapiens}
+ FAM231A/C-like protein	LOC102723383	LOC102723383	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T7	OR2T7	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2AJ1	OR2AJ1	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	14A2	OR14A2	__SEG__	Chr1	{HomoSapiens}
+ nudix hydrolase	4B	NUDT4B	__SEG__	Chr1	{HomoSapiens}
+ histone cluster 2 H3 pseudogene	2	HIST2H3PS2	__SEG__	Chr1	{HomoSapiens}
+ zinc finger CCCH-type containing	11B	ZC3H11B	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC105378696	LOC105378696	__SEG__	Chr1	{HomoSapiens}
+ rab proteins geranylgeranyltransferase component A	2	CHML	__SEG__	Chr1	{HomoSapiens}
+ heat shock 70 kDa protein	6	HSPA6	__SEG__	Chr1	{HomoSapiens}
+ transcription factor	AP-1	JUN	__SEG__	Chr1	{HomoSapiens}
+ potassium voltage-gated channel subfamily A member	3	KCNA3	__SEG__	Chr1	{HomoSapiens}
+ ATP-sensitive inward rectifier potassium channel	10	KCNJ10	__SEG__	Chr1	{HomoSapiens}
+ tumor-associated calcium signal transducer 2	precursor	TACSTD2	__SEG__	Chr1	{HomoSapiens}
+ POU domain, class 3, transcription factor	1	POU3F1	__SEG__	Chr1	{HomoSapiens}
+	cornifin-B	SPRR1B	__SEG__	Chr1	{HomoSapiens}
+ histone	H3.1t	HIST3H3	__SEG__	Chr1	{HomoSapiens}
+ histone H2A type	2-A	HIST2H2AA3	__SEG__	Chr1	{HomoSapiens}
+ histone H2A type	2-C	HIST2H2AC	__SEG__	Chr1	{HomoSapiens}
+ histone H2B type	2-E	HIST2H2BE	__SEG__	Chr1	{HomoSapiens}
+ histone	H4	HIST2H4A	__SEG__	Chr1	{HomoSapiens}
+ beta-1,3-galactosyltransferase	2	B3GALT2	__SEG__	Chr1	{HomoSapiens}
+ forkhead box protein	D2	FOXD2	__SEG__	Chr1	{HomoSapiens}
+ GTP-binding protein Di-Ras3	precursor	DIRAS3	__SEG__	Chr1	{HomoSapiens}
+ gap junction beta-5	protein	GJB5	__SEG__	Chr1	{HomoSapiens}
+ G-protein coupled receptor	3	GPR3	__SEG__	Chr1	{HomoSapiens}
+ probable G-protein coupled receptor	25	GPR25	__SEG__	Chr1	{HomoSapiens}
+	involucrin	IVL	__SEG__	Chr1	{HomoSapiens}
+ potassium voltage-gated channel subfamily A member	10	KCNA10	__SEG__	Chr1	{HomoSapiens}
+ helix-loop-helix protein	1	NHLH1	__SEG__	Chr1	{HomoSapiens}
+ G-protein coupled receptor	52	GPR52	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein	2A	SPRR2A	__SEG__	Chr1	{HomoSapiens}
+ 14-3-3 protein	sigma	SFN	__SEG__	Chr1	{HomoSapiens}
+ regulatory solute carrier protein family 1 member	1	RSC1A1	__SEG__	Chr1	{HomoSapiens}
+ protein	SPHAR	SPHAR	__SEG__	Chr1	{HomoSapiens}
+ protein	AF1q	MLLT11	__SEG__	Chr1	{HomoSapiens}
+ forkhead box protein	D3	FOXD3	__SEG__	Chr1	{HomoSapiens}
+ forkhead box protein	E3	FOXE3	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	1C1	OR1C1	__SEG__	Chr1	{HomoSapiens}
+ pleckstrin homology-like domain family A member	3	PHLDA3	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	2B	LCE2B	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	KIAA0754	KIAA0754	__SEG__	Chr1	{HomoSapiens}
+ G0/G1 switch protein	2	G0S2	__SEG__	Chr1	{HomoSapiens}
+ immediate early response gene 5	protein	IER5	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2M4	OR2M4	__SEG__	Chr1	{HomoSapiens}
+ putative nucleotidyltransferase	FAM46C	FAM46C	__SEG__	Chr1	{HomoSapiens}
+ protein arginine N-methyltransferase	6	PRMT6	__SEG__	Chr1	{HomoSapiens}
+ lens epithelial cell protein	LEP503	LENEP	__SEG__	Chr1	{HomoSapiens}
+ RING finger protein	186	RNF186	__SEG__	Chr1	{HomoSapiens}
+ microtubule-associated protein	10	MAP10	__SEG__	Chr1	{HomoSapiens}
+ RNA binding motif protein,	X-linked-like-1	RBMXL1	__SEG__	Chr1	{HomoSapiens}
+ gap junction gamma-2	protein	GJC2	__SEG__	Chr1	{HomoSapiens}
+ amphoterin-induced protein 1	precursor	AMIGO1	__SEG__	Chr1	{HomoSapiens}
+ histone	H3.2	HIST2H3C	__SEG__	Chr1	{HomoSapiens}
+ disintegrin and metalloproteinase domain-containing protein 30	preproprotein	ADAM30	__SEG__	Chr1	{HomoSapiens}
+ probable G-protein coupled receptor	88	GPR88	__SEG__	Chr1	{HomoSapiens}
+ succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial	precursor	OXCT2	__SEG__	Chr1	{HomoSapiens}
+ interferon alpha responsive protein isoform	a	TOR1AIP2	__SEG__	Chr1	{HomoSapiens}
+	oculomedin	OCLM	__SEG__	Chr1	{HomoSapiens}
+ gap junction beta-3	protein	GJB3	__SEG__	Chr1	{HomoSapiens}
+ tumor necrosis factor alpha-induced protein 8-like protein	2	TNFAIP8L2	__SEG__	Chr1	{HomoSapiens}
+ zinc finger protein	672	ZNF672	__SEG__	Chr1	{HomoSapiens}
+ protein	FAM110D	FAM110D	__SEG__	Chr1	{HomoSapiens}
+ sperm mitochondrial-associated cysteine-rich	protein	SMCP	__SEG__	Chr1	{HomoSapiens}
+ gap junction alpha-9 protein	precursor	GJA9	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2T1	OR2T1	__SEG__	Chr1	{HomoSapiens}
+ probable G-protein coupled receptor	61	GPR61	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	3D	LCE3D	__SEG__	Chr1	{HomoSapiens}
+ 4-hydroxyphenylpyruvate dioxygenase-like	protein	HPDL	__SEG__	Chr1	{HomoSapiens}
+ U7 snRNA-associated Sm-like protein	LSm10	LSM10	__SEG__	Chr1	{HomoSapiens}
+ histidine protein methyltransferase 1	homolog	METTL18	__SEG__	Chr1	{HomoSapiens}
+ histone H2A type	3	HIST3H2A	__SEG__	Chr1	{HomoSapiens}
+ actin-related protein	T2	ACTRT2	__SEG__	Chr1	{HomoSapiens}
+ beta-1,3-galactosyltransferase	6	B3GALT6	__SEG__	Chr1	{HomoSapiens}
+ cbp/p300-interacting transactivator	4	CITED4	__SEG__	Chr1	{HomoSapiens}
+ protein KTI12	homolog	KTI12	__SEG__	Chr1	{HomoSapiens}
+ transmembrane protein	125	TMEM125	__SEG__	Chr1	{HomoSapiens}
+ GPI mannosyltransferase	1	PIGM	__SEG__	Chr1	{HomoSapiens}
+ high mobility group protein B4 isoform	1	HMGB4	__SEG__	Chr1	{HomoSapiens}
+ probable proline--tRNA ligase, mitochondrial	precursor	PARS2	__SEG__	Chr1	{HomoSapiens}
+ kelch domain-containing protein	7A	KLHDC7A	__SEG__	Chr1	{HomoSapiens}
+ UBX domain-containing protein	10	UBXN10	__SEG__	Chr1	{HomoSapiens}
+ UPF0739 protein	C1orf74	C1orf74	__SEG__	Chr1	{HomoSapiens}
+ coiled-coil domain-containing protein	185	CCDC185	__SEG__	Chr1	{HomoSapiens}
+ gap junction beta-4	protein	GJB4	__SEG__	Chr1	{HomoSapiens}
+ protein	FAM71A	FAM71A	__SEG__	Chr1	{HomoSapiens}
+ phosphatidylinositol N-acetylglucosaminyltransferase subunit	C	PIGC	__SEG__	Chr1	{HomoSapiens}
+ transmembrane epididymal protein	1	TEDDM1	__SEG__	Chr1	{HomoSapiens}
+ vomeronasal type-1 receptor	5	VN1R5	__SEG__	Chr1	{HomoSapiens}
+ histone H2B type	3-B	HIST3H2BB	__SEG__	Chr1	{HomoSapiens}
+ histone H2A type	2-B	HIST2H2AB	__SEG__	Chr1	{HomoSapiens}
+ exocyst complex component	8	EXOC8	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2L13	OR2L13	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	1A	LCE1A	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	1B	LCE1B	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	1D	LCE1D	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	1E	LCE1E	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	1F	LCE1F	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	4A	LCE4A	__SEG__	Chr1	{HomoSapiens}
+ membrane progestin receptor	alpha	PAQR7	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	2A	LCE2A	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	2C	LCE2C	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	2D	LCE2D	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	3A	LCE3A	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	3B	LCE3B	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	3C	LCE3C	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	3E	LCE3E	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein	5A	LCE5A	__SEG__	Chr1	{HomoSapiens}
+ relaxin-3 receptor	2	RXFP4	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor	2C3	OR2C3	__SEG__	Chr1	{HomoSapiens}
+ transmembrane protein 81	precursor	TMEM81	__SEG__	Chr1	{HomoSapiens}
+ ubiquitin-like protein	4B	UBL4B	__SEG__	Chr1	{HomoSapiens}
+ putative C->U-editing enzyme	APOBEC-4	APOBEC4	__SEG__	Chr1	{HomoSapiens}
+ protein	FAM43B	FAM43B	__SEG__	Chr1	{HomoSapiens}
+ putative uncharacterized protein	C1orf229	C1orf229	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC100506571	LOC100506571	__SEG__	Chr1	{HomoSapiens}
+ TMF-regulated nuclear protein 1 isoform	X1	TRNP1	__SEG__	Chr1	{HomoSapiens}
+ protein	FAM231D	LOC100996721	__SEG__	Chr1	{HomoSapiens}
+ cysteine-rich C-terminal protein 1 isoform	X1	CRCT1	__SEG__	Chr1	{HomoSapiens}
+ peptidyl-prolyl cis-trans isomerase A-like	4C	LOC105371242	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC107983947	LOC107983947	__SEG__	Chr1	{HomoSapiens}
+ glucose-dependent insulinotropic	receptor-like	LOC105379282	__SEG__	Chr1	{HomoSapiens}
+ nascent polypeptide-associated complex subunit alpha, muscle-specific	form-like	LOC101060022	__SEG__	Chr1	{HomoSapiens}
+ putative protein	FAM231BP	FAM231BP	__SEG__	Chr1	{HomoSapiens}
+ C2 calcium-dependent domain-containing protein 4D isoform	X1	C2CD4D	__SEG__	Chr1	{HomoSapiens}
+ leucine-rich repeat neuronal protein 2 isoform	X1	LRRN2	__SEG__	Chr1	{HomoSapiens}
+ muscarinic acetylcholine receptor M3 isoform	X1	CHRM3	__SEG__	Chr1	{HomoSapiens}
+ cannabinoid receptor 2 isoform	X1	CNR2	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor 2T10 isoform	X1	OR2T10	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor 6N1 isoform	X1	OR6N1	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein 4 isoform	X1	SPRR4	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor 10J1 isoform	X1	OR10J1	__SEG__	Chr1	{HomoSapiens}
+ gap junction alpha-4 protein isoform	X1	GJA4	__SEG__	Chr1	{HomoSapiens}
+ gap junction alpha-5 protein isoform	X1	GJA5	__SEG__	Chr1	{HomoSapiens}
+ late cornified envelope protein 6A isoform	X1	LCE6A	__SEG__	Chr1	{HomoSapiens}
+ helix-loop-helix protein 2 isoform	X1	NHLH2	__SEG__	Chr1	{HomoSapiens}
+ dolichol-phosphate mannosyltransferase subunit 3 isoform	X1	DPM3	__SEG__	Chr1	{HomoSapiens}
+ volume-regulated anion channel subunit LRRC8D isoform	X1	LRRC8D	__SEG__	Chr1	{HomoSapiens}
+ proline-rich nuclear receptor coactivator 2 isoform	X1	PNRC2	__SEG__	Chr1	{HomoSapiens}
+ exonuclease V isoform	X1	EXO5	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein 2B isoform	X1	SPRR2B	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein 2D isoform	X1	SPRR2D	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein 2F isoform	X1	SPRR2F	__SEG__	Chr1	{HomoSapiens}
+ small proline-rich protein 2G isoform	X1	SPRR2G	__SEG__	Chr1	{HomoSapiens}
+ toll-like receptor 5 isoform	X1	TLR5	__SEG__	Chr1	{HomoSapiens}
+ olfactory receptor 4F3/4F16/4F29 isoform	X1	OR4F16	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein KIAA0040 isoform	X2	KIAA0040	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC100996720	LOC100996720	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC105378592	LOC105378592	__SEG__	Chr1	{HomoSapiens}
+ AT-hook DNA-binding motif-containing protein 1 isoform	X1	AHDC1	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein KIAA0040 isoform	X1	KIAA0040	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC112268219	LOC112268219	__SEG__	Chr1	{HomoSapiens}
+ putative protein	FAM231AP	FAM231AP	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC112268233	LOC112268233	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC112268237	LOC112268237	__SEG__	Chr1	{HomoSapiens}
+ translation initiation factor	IF-2-like	LOC112268238	__SEG__	Chr1	{HomoSapiens}
+ uncharacterized protein	LOC105373132	LOC105373132	__SEG__	Chr1	{HomoSapiens}
+ zinc finger protein 648 isoform	X1	ZNF648	__SEG__	Chr1	{HomoSapiens}
+ alpha-2A adrenergic	receptor	ADRA2A	__SEG__	Chr10	{HomoSapiens}
+ beta-1 adrenergic	receptor	ADRB1	__SEG__	Chr10	{HomoSapiens}
+ uncharacterized protein	C10orf62	C10orf62	__SEG__	Chr10	{HomoSapiens}
+ shadow of prion protein	precursor	SPRN	__SEG__	Chr10	{HomoSapiens}
+ heterogeneous nuclear ribonucleoprotein	F	HNRNPF	__SEG__	Chr10	{HomoSapiens}
+ eukaryotic translation initiation factor	5A-1-like	EIF5AL1	__SEG__	Chr10	{HomoSapiens}
+	killin	KLLN	__SEG__	Chr10	{HomoSapiens}
+ ribulose-phosphate 3-epimerase-like protein	1	RPEL1	__SEG__	Chr10	{HomoSapiens}
+ OTU domain-containing protein	1	OTUD1	__SEG__	Chr10	{HomoSapiens}
+ uncharacterized protein	C10orf105	C10orf105	__SEG__	Chr10	{HomoSapiens}
+ humanin-like	5	MTRNR2L5	__SEG__	Chr10	{HomoSapiens}
+ humanin-like	7	MTRNR2L7	__SEG__	Chr10	{HomoSapiens}
+ endogenous Bornavirus-like nucleoprotein	1	EBLN1	__SEG__	Chr10	{HomoSapiens}
+	myoregulin	MRLN	__SEG__	Chr10	{HomoSapiens}
+ vesicular acetylcholine	transporter	SLC18A3	__SEG__	Chr10	{HomoSapiens}
+ cholesterol	25-hydroxylase	CH25H	__SEG__	Chr10	{HomoSapiens}
+ prolactin-releasing peptide	receptor	PRLHR	__SEG__	Chr10	{HomoSapiens}
+ calmodulin-like protein	3	CALML3	__SEG__	Chr10	{HomoSapiens}
+ proto-oncogene	FRAT1	FRAT1	__SEG__	Chr10	{HomoSapiens}
+ zinc finger protein	22	ZNF22	__SEG__	Chr10	{HomoSapiens}
+ protein	DEPP1	DEPP1	__SEG__	Chr10	{HomoSapiens}
+ GSK-3-binding protein	FRAT2	FRAT2	__SEG__	Chr10	{HomoSapiens}
+ cleavage stimulation factor subunit 2 tau	variant	CSTF2T	__SEG__	Chr10	{HomoSapiens}
+ calmodulin-like protein	5	CALML5	__SEG__	Chr10	{HomoSapiens}
+ Hermansky-Pudlak syndrome 6	protein	HPS6	__SEG__	Chr10	{HomoSapiens}
+ MARVEL domain-containing protein	1	MARVELD1	__SEG__	Chr10	{HomoSapiens}
+ frizzled-8	precursor	FZD8	__SEG__	Chr10	{HomoSapiens}
+ 2-aminoethanethiol	dioxygenase	ADO	__SEG__	Chr10	{HomoSapiens}
+ urocortin-3	preproprotein	UCN3	__SEG__	Chr10	{HomoSapiens}
+ protein atonal homolog	7	ATOH7	__SEG__	Chr10	{HomoSapiens}
+ fibroblast growth factor-binding protein 3	precursor	FGFBP3	__SEG__	Chr10	{HomoSapiens}
+ uncharacterized protein	C10orf111	C10orf111	__SEG__	Chr10	{HomoSapiens}
+ nanos homolog	1	NANOS1	__SEG__	Chr10	{HomoSapiens}
+ uncharacterized protein	LOC105376341	LOC105376341	__SEG__	Chr10	{HomoSapiens}
+ putative UPF0607 protein	FLJ37424	LOC100505502	__SEG__	Chr10	{HomoSapiens}
+ neuropeptide Y receptor Y42 isoform	X1	NPY4R2	__SEG__	Chr10	{HomoSapiens}
+ ribonuclease P protein subunit p38 isoform	X1	RPP38	__SEG__	Chr10	{HomoSapiens}
+ zinc finger protein 488 isoform	X1	ZNF488	__SEG__	Chr10	{HomoSapiens}
+ SKI/DACH domain-containing protein 1 isoform	X1	SKIDA1	__SEG__	Chr10	{HomoSapiens}
+ neurogenin-3 isoform	X1	NEUROG3	__SEG__	Chr10	{HomoSapiens}
+ neuropeptide Y receptor type 4 isoform	X1	NPY4R	__SEG__	Chr10	{HomoSapiens}
+ olfactory receptor 13A1 isoform	X1	OR13A1	__SEG__	Chr10	{HomoSapiens}
+ threonine synthase-like 1 isoform	X1	THNSL1	__SEG__	Chr10	{HomoSapiens}
+ zinc finger protein 518A isoform	X1	ZNF518A	__SEG__	Chr10	{HomoSapiens}
+ uncharacterized protein	LOC107984159	LOC107984159	__SEG__	Chr10	{HomoSapiens}
+ uncharacterized protein	LOC101927824	LOC101927824	__SEG__	Chr10	{HomoSapiens}
+ putative uncharacterized protein	LOC439951	LOC107984208	__SEG__	Chr10	{HomoSapiens}
+ transmembrane protein	108-like	LOC107984264	__SEG__	Chr10	{HomoSapiens}
+ basic proline-rich	protein	LOC105378577	__SEG__	Chr10	{HomoSapiens}
+ uncharacterized protein	LOC107984282	LOC107984282	__SEG__	Chr10	{HomoSapiens}
+ V(D)J recombination-activating protein	1	RAG1	__SEG__	Chr11	{HomoSapiens}
+ V(D)J recombination-activating protein	2	RAG2	__SEG__	Chr11	{HomoSapiens}
+ muscarinic acetylcholine receptor	M1	CHRM1	__SEG__	Chr11	{HomoSapiens}
+ muscarinic acetylcholine receptor	M4	CHRM4	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-5	KRTAP5-5	__SEG__	Chr11	{HomoSapiens}
+ protein DDI1 homolog	1	DDI1	__SEG__	Chr11	{HomoSapiens}
+ BH3-like motif-containing cell death	inducer	BLID	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52N1	OR52N1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52J3	OR52J3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	56A1	OR56A1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C15	OR4C15	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5AS1	OR5AS1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52N5	OR52N5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5D18	OR5D18	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10G9	OR10G9	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5A2	OR5A2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C13	OR4C13	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5W2	OR5W2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4D5	OR4D5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5D13	OR5D13	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8G1	OR8G1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8K1	OR8K1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8D1	OR8D1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8D2	OR8D2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5AP2	OR5AP2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	56A3	OR56A3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10A3	OR10A3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8I2	OR8I2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52B2	OR52B2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8K5	OR8K5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4S2	OR4S2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8J3	OR8J3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4P4	OR4P4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52M1	OR52M1	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-2	KRTAP5-2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	1S1	OR1S1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	1S2	OR1S2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10A2	OR10A2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10A6	OR10A6	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10G4	OR10G4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10G7	OR10G7	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10G8	OR10G8	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10Q1	OR10Q1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10S1	OR10S1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	2AG1	OR2AG1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	2AG2	OR2AG2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	2D3	OR2D3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C11	OR4C11	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C16	OR4C16	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor 4C3	precursor	OR4C3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C46	OR4C46	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C6	OR4C6	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4D10	OR4D10	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4D11	OR4D11	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4D6	OR4D6	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4D9	OR4D9	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4S1	OR4S1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4X1	OR4X1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4X2	OR4X2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5A1	OR5A1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5AN1	OR5AN1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5AR1	OR5AR1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5B12	OR5B12	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5D14	OR5D14	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5L1	OR5L1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5L2	OR5L2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5M1	OR5M1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5M10	OR5M10	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5M3	OR5M3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5M9	OR5M9	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5R1	OR5R1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5T1	OR5T1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5T2	OR5T2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5T3	OR5T3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51A2	OR51A2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51A7	OR51A7	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51B6	OR51B6	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51D1	OR51D1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51F1	OR51F1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51F2	OR51F2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51I2	OR51I2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51L1	OR51L1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51M1	OR51M1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51Q1	OR51Q1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51S1	OR51S1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51T1	OR51T1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51V1	OR51V1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52A5	OR52A5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52B4	OR52B4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52B6	OR52B6	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52D1	OR52D1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52E2	OR52E2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52E4	OR52E4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52E5	OR52E5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52E6	OR52E6	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52E8	OR52E8	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52I1	OR52I1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52I2	OR52I2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52K1	OR52K1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52K2	OR52K2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52L1	OR52L1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52N2	OR52N2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52R1	OR52R1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52W1	OR52W1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	56A4	OR56A4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	56B1	OR56B1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	56B4	OR56B4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	6Q1	OR6Q1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	6X1	OR6X1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8A1	OR8A1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8B12	OR8B12	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8B4	OR8B4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8D4	OR8D4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8G5	OR8G5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8H1	OR8H1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8H2	OR8H2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8H3	OR8H3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8K3	OR8K3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8U1	OR8U1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8J1	OR8J1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	9I1	OR9I1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	9Q1	OR9Q1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	9G1	OR9G1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5B21	OR5B21	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51G1	OR51G1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51G2	OR51G2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5M11	OR5M11	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C12	OR4C12	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4A5	OR4A5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4A16	OR4A16	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4A15	OR4A15	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5M8	OR5M8	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	9Q2	OR9Q2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	9G4	OR9G4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51I1	OR51I1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52H1	OR52H1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5AK2	OR5AK2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10V1	OR10V1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	6M1	OR6M1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51A4	OR51A4	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-11	KRTAP5-11	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5B3	OR5B3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4B1	OR4B1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5B17	OR5B17	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10AG1	OR10AG1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5J2	OR5J2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4A47	OR4A47	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C45	OR4C45	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5B2	OR5B2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51B5	OR51B5	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-1	KRTAP5-1	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-6	KRTAP5-6	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-7	KRTAP5-7	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-3	KRTAP5-3	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-10	KRTAP5-10	__SEG__	Chr11	{HomoSapiens}
+ putative cancer susceptibility gene HEPN1	protein	HEPN1	__SEG__	Chr11	{HomoSapiens}
+ mas-related G-protein coupled receptor member	E	MRGPRE	__SEG__	Chr11	{HomoSapiens}
+ macrophage-expressed gene 1 protein	precursor	MPEG1	__SEG__	Chr11	{HomoSapiens}
+ ras association domain-containing protein	10	RASSF10	__SEG__	Chr11	{HomoSapiens}
+ putative	claudin-25	CLDN25	__SEG__	Chr11	{HomoSapiens}
+ zinc finger BED domain-containing protein	5	ZBED5	__SEG__	Chr11	{HomoSapiens}
+ upstream-binding factor 1-like protein	1	UBTFL1	__SEG__	Chr11	{HomoSapiens}
+ uncharacterized protein	C11orf96	C11orf96	__SEG__	Chr11	{HomoSapiens}
+ leucine-rich repeat-containing protein	10B	LRRC10B	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	56A5	OR56A5	__SEG__	Chr11	{HomoSapiens}
+ lysine-specific demethylase	4E	KDM4E	__SEG__	Chr11	{HomoSapiens}
+ mas-related G-protein coupled receptor member	G	MRGPRG	__SEG__	Chr11	{HomoSapiens}
+ humanin-like	8	MTRNR2L8	__SEG__	Chr11	{HomoSapiens}
+ trophoblast glycoprotein-like	precursor	TPBGL	__SEG__	Chr11	{HomoSapiens}
+ casein kinase 2, alpha 1	polypeptide-like	CSNK2A3	__SEG__	Chr11	{HomoSapiens}
+ putative olfactory receptor	8G2	OR8G2P	__SEG__	Chr11	{HomoSapiens}
+ proapoptotic nucleolar protein	1	PANO1	__SEG__	Chr11	{HomoSapiens}
+ H19 opposite tumor	suppressor	HOTS	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein 5-4 isoform	1	KRTAP5-4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52E1	OR52E1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	4C5	OR4C5	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51J1	OR51J1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5AL1	OR5AL1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52Z1	OR52Z1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51H1	OR51H1	__SEG__	Chr11	{HomoSapiens}
+ putative olfactory receptor	10D3	OR10D3	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor 10G6	precursor	OR10G6	__SEG__	Chr11	{HomoSapiens}
+ alpha-(1,3)-fucosyltransferase	4	FUT4	__SEG__	Chr11	{HomoSapiens}
+ histone	H2AX	H2AFX	__SEG__	Chr11	{HomoSapiens}
+ potassium voltage-gated channel subfamily A member	4	KCNA4	__SEG__	Chr11	{HomoSapiens}
+	sarcolipin	SLN	__SEG__	Chr11	{HomoSapiens}
+ thyroid hormone-inducible hepatic	protein	THRSP	__SEG__	Chr11	{HomoSapiens}
+ pleckstrin homology-like domain family A member	2	PHLDA2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	6A2	OR6A2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5F1	OR5F1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	2D2	OR2D2	__SEG__	Chr11	{HomoSapiens}
+ jerky protein	homolog-like	JRKL	__SEG__	Chr11	{HomoSapiens}
+ flap endonuclease	1	FEN1	__SEG__	Chr11	{HomoSapiens}
+ prostaglandin D2 receptor	2	PTGDR2	__SEG__	Chr11	{HomoSapiens}
+ apelin	receptor	APLNR	__SEG__	Chr11	{HomoSapiens}
+ achaete-scute homolog	2	ASCL2	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-9	KRTAP5-9	__SEG__	Chr11	{HomoSapiens}
+ olfactory marker	protein	OMP	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5I1	OR5I1	__SEG__	Chr11	{HomoSapiens}
+ cdc42 effector protein	2	CDC42EP2	__SEG__	Chr11	{HomoSapiens}
+ coiled-coil domain-containing protein	85B	CCDC85B	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	52A1	OR52A1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	8B8	OR8B8	__SEG__	Chr11	{HomoSapiens}
+ zinc finger HIT domain-containing protein	2	ZNHIT2	__SEG__	Chr11	{HomoSapiens}
+ four-jointed box protein 1	precursor	FJX1	__SEG__	Chr11	{HomoSapiens}
+ RNA-binding motif protein,	X-linked-like-2	RBMXL2	__SEG__	Chr11	{HomoSapiens}
+ cell cycle exit and neuronal differentiation protein	1	CEND1	__SEG__	Chr11	{HomoSapiens}
+ lysine-specific demethylase	4D	KDM4D	__SEG__	Chr11	{HomoSapiens}
+ coiled-coil domain-containing protein	87	CCDC87	__SEG__	Chr11	{HomoSapiens}
+ endosialin	precursor	CD248	__SEG__	Chr11	{HomoSapiens}
+ achaete-scute homolog	3	ASCL3	__SEG__	Chr11	{HomoSapiens}
+ keratin-associated protein	5-8	KRTAP5-8	__SEG__	Chr11	{HomoSapiens}
+ Fanconi anemia group F	protein	FANCF	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51E2	OR51E2	__SEG__	Chr11	{HomoSapiens}
+ E3 ubiquitin-protein ligase	RNF26	RNF26	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51B4	OR51B4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51B2	OR51B2	__SEG__	Chr11	{HomoSapiens}
+ mas-related G-protein coupled receptor member	X2	MRGPRX2	__SEG__	Chr11	{HomoSapiens}
+ mas-related G-protein coupled receptor member	X3	MRGPRX3	__SEG__	Chr11	{HomoSapiens}
+ mas-related G-protein coupled receptor member	X4	MRGPRX4	__SEG__	Chr11	{HomoSapiens}
+ acetylgalactosaminyl-O-glycosyl-glycoprotein	beta-1,3-N-acetylglucosaminyltransferase	B3GNT6	__SEG__	Chr11	{HomoSapiens}
+ ubiquilin-like	protein	UBQLNL	__SEG__	Chr11	{HomoSapiens}
+ tigger transposable element-derived protein	3	TIGD3	__SEG__	Chr11	{HomoSapiens}
+ mas-related G-protein coupled receptor member	X1	MRGPRX1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	51E1	OR51E1	__SEG__	Chr11	{HomoSapiens}
+ coiled-coil domain-containing protein	89	CCDC89	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5P2	OR5P2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	5P3	OR5P3	__SEG__	Chr11	{HomoSapiens}
+ protein	FAM181B	FAM181B	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10A5	OR10A5	__SEG__	Chr11	{HomoSapiens}
+ mas-related G-protein coupled receptor member	D	MRGPRD	__SEG__	Chr11	{HomoSapiens}
+ fin bud initiation factor homolog	precursor	FIBIN	__SEG__	Chr11	{HomoSapiens}
+ LRRN4 C-terminal-like protein	precursor	LRRN4CL	__SEG__	Chr11	{HomoSapiens}
+ probable G-protein coupled receptor	152	GPR152	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10A4	OR10A4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor	10W1	OR10W1	__SEG__	Chr11	{HomoSapiens}
+ colorectal cancer-associated protein	1	COLCA1	__SEG__	Chr11	{HomoSapiens}
+ uncharacterized protein	LOC101060179	LOC101060179	__SEG__	Chr11	{HomoSapiens}
+ uncharacterized protein LOC100287896 isoform	X1	LOC100287896	__SEG__	Chr11	{HomoSapiens}
+ uncharacterized protein LOC101927503 isoform	X1	LOC101927503	__SEG__	Chr11	{HomoSapiens}
+ serine/arginine-rich splicing factor 8 isoform	X1	SRSF8	__SEG__	Chr11	{HomoSapiens}
+ complement C1q tumor necrosis factor-related protein 4 isoform	X1	C1QTNF4	__SEG__	Chr11	{HomoSapiens}
+ hydrolethalus syndrome protein 1 isoform	X1	HYLS1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor 6T1 isoform	X1	OR6T1	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor 8B2 isoform	X1	OR8B2	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor 2AT4 isoform	X1	OR2AT4	__SEG__	Chr11	{HomoSapiens}
+ ATP-sensitive inward rectifier potassium channel 11 isoform	X1	KCNJ11	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor 52N4 isoform	X1	OR52N4	__SEG__	Chr11	{HomoSapiens}
+ olfactory receptor 8B3 isoform	X1	OR8B3	__SEG__	Chr11	{HomoSapiens}
+ rho-related GTP-binding protein RhoG isoform	X1	RHOG	__SEG__	Chr11	{HomoSapiens}
+ P2Y purinoceptor 2 isoform	X1	P2RY2	__SEG__	Chr11	{HomoSapiens}
+ cytochrome c oxidase assembly factor 4 homolog, mitochondrial isoform	X2	COA4	__SEG__	Chr11	{HomoSapiens}
+ leucine-rich repeat-containing protein 4C isoform	X1	LRRC4C	__SEG__	Chr11	{HomoSapiens}
+ uncharacterized protein	LOC107984314	LOC107984314	__SEG__	Chr11	{HomoSapiens}
+ uncharacterized protein	LOC107984341	LOC107984341	__SEG__	Chr11	{HomoSapiens}
+ uncharacterized protein	LOC107984399	LOC107984399	__SEG__	Chr11	{HomoSapiens}
+ leucine-rich repeat transmembrane protein FLRT1 isoform	X1	FLRT1	__SEG__	Chr11	{HomoSapiens}
+ 6.8 kDa mitochondrial	proteolipid-like	LOC112268080	__SEG__	Chr11	{HomoSapiens}
+ potassium voltage-gated channel subfamily A member	1	KCNA1	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	10AD1	OR10AD1	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C1	OR6C1	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C76	OR6C76	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	9K2	OR9K2	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	10A7	OR10A7	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C6	OR6C6	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C4	OR6C4	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C75	OR6C75	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C70	OR6C70	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C65	OR6C65	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C68	OR6C68	__SEG__	Chr12	{HomoSapiens}
+ EP300-interacting inhibitor of differentiation	3	EID3	__SEG__	Chr12	{HomoSapiens}
+ coiled-coil domain-containing protein	184	CCDC184	__SEG__	Chr12	{HomoSapiens}
+ histone	H3.3C	H3F3C	__SEG__	Chr12	{HomoSapiens}
+ rab15 effector	protein	REP15	__SEG__	Chr12	{HomoSapiens}
+ microtubule-associated proteins 1A/1B light chain 3 beta 2	precursor	MAP1LC3B2	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	30	TAS2R30	__SEG__	Chr12	{HomoSapiens}
+ ataxin-7-like protein	3B	ATXN7L3B	__SEG__	Chr12	{HomoSapiens}
+ lysophosphatidic acid receptor	5	LPAR5	__SEG__	Chr12	{HomoSapiens}
+ amphoterin-induced protein 2	precursor	AMIGO2	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	2AP1	OR2AP1	__SEG__	Chr12	{HomoSapiens}
+ small integral membrane protein 10-like protein	1	SMIM10L1	__SEG__	Chr12	{HomoSapiens}
+ C3a anaphylatoxin chemotactic	receptor	C3AR1	__SEG__	Chr12	{HomoSapiens}
+ potassium voltage-gated channel subfamily A member	5	KCNA5	__SEG__	Chr12	{HomoSapiens}
+ achaete-scute homolog	1	ASCL1	__SEG__	Chr12	{HomoSapiens}
+ hydroxycarboxylic acid receptor	3	HCAR3	__SEG__	Chr12	{HomoSapiens}
+ frizzled-10	precursor	FZD10	__SEG__	Chr12	{HomoSapiens}
+ G-protein coupled receptor	182	GPR182	__SEG__	Chr12	{HomoSapiens}
+ pleckstrin homology-like domain family A member	1	PHLDA1	__SEG__	Chr12	{HomoSapiens}
+ acidic leucine-rich nuclear phosphoprotein 32 family member	D	ANP32D	__SEG__	Chr12	{HomoSapiens}
+ zinc finger and BTB domain-containing protein	39	ZBTB39	__SEG__	Chr12	{HomoSapiens}
+	polyubiquitin-C	UBC	__SEG__	Chr12	{HomoSapiens}
+ neurogenic differentiation factor	4	NEUROD4	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	9	TAS2R9	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	8	TAS2R8	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	7	TAS2R7	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	13	TAS2R13	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	10	TAS2R10	__SEG__	Chr12	{HomoSapiens}
+ hydroxycarboxylic acid receptor	1	HCAR1	__SEG__	Chr12	{HomoSapiens}
+ zinc finger CCCH domain-containing protein	10	ZC3H10	__SEG__	Chr12	{HomoSapiens}
+ cytochrome c oxidase assembly protein	COX14	COX14	__SEG__	Chr12	{HomoSapiens}
+ F-actin-capping protein subunit	alpha-3	CAPZA3	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C3	OR6C3	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	6C2	OR6C2	__SEG__	Chr12	{HomoSapiens}
+ zinc finger protein	664	ZNF664	__SEG__	Chr12	{HomoSapiens}
+ coiled-coil domain-containing glutamate-rich protein	1	CCER1	__SEG__	Chr12	{HomoSapiens}
+ histone	H4	HIST4H4	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	43	TAS2R43	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	31	TAS2R31	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	46	TAS2R46	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	19	TAS2R19	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	20	TAS2R20	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	50	TAS2R50	__SEG__	Chr12	{HomoSapiens}
+ hydroxycarboxylic acid receptor	2	HCAR2	__SEG__	Chr12	{HomoSapiens}
+ histone	H2A.J	H2AFJ	__SEG__	Chr12	{HomoSapiens}
+ taste receptor type 2 member	42	TAS2R42	__SEG__	Chr12	{HomoSapiens}
+ transmembrane protein 119	precursor	TMEM119	__SEG__	Chr12	{HomoSapiens}
+ testis-specific H1	histone	H1FNT	__SEG__	Chr12	{HomoSapiens}
+ leucine-rich repeat-containing protein	10	LRRC10	__SEG__	Chr12	{HomoSapiens}
+ achaete-scute homolog	4	ASCL4	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor	10P1	OR10P1	__SEG__	Chr12	{HomoSapiens}
+ prothymosin	alpha	LOC100506248	__SEG__	Chr12	{HomoSapiens}
+ G-protein coupled receptor 84 isoform	X1	GPR84	__SEG__	Chr12	{HomoSapiens}
+ uncharacterized protein	LOC100996701	LOC100996701	__SEG__	Chr12	{HomoSapiens}
+ zinc finger protein 891 isoform	X1	ZNF891	__SEG__	Chr12	{HomoSapiens}
+ uncharacterized protein C12orf60 isoform	X1	C12orf60	__SEG__	Chr12	{HomoSapiens}
+ olfactory receptor 6C74 isoform	X1	OR6C74	__SEG__	Chr12	{HomoSapiens}
+ potassium voltage-gated channel subfamily A member 6 isoform	X1	KCNA6	__SEG__	Chr12	{HomoSapiens}
+ single-pass membrane and coiled-coil domain-containing protein 3 isoform	X1	SMCO3	__SEG__	Chr12	{HomoSapiens}
+ transcription termination factor 2, mitochondrial isoform	X1	MTERF2	__SEG__	Chr12	{HomoSapiens}
+ activator of apoptosis harakiri isoform	X1	HRK	__SEG__	Chr12	{HomoSapiens}
+ PC-esterase domain-containing protein 1B isoform	X1	PCED1B	__SEG__	Chr12	{HomoSapiens}
+ collagen alpha-1(I)	chain-like	LOC107984507	__SEG__	Chr12	{HomoSapiens}
+ uncharacterized protein	LOC105370092	LOC105370092	__SEG__	Chr12	{HomoSapiens}
+ uncharacterized protein	LOC107984449	LOC107984449	__SEG__	Chr12	{HomoSapiens}
+ heterogeneous nuclear ribonucleoprotein A1-like	2	HNRNPA1L2	__SEG__	Chr13	{HomoSapiens}
+ gap junction beta-6	protein	GJB6	__SEG__	Chr13	{HomoSapiens}
+ chromosome alignment-maintaining phosphoprotein	1	CHAMP1	__SEG__	Chr13	{HomoSapiens}
+	gamma-glutamylaminecyclotransferase	GGACT	__SEG__	Chr13	{HomoSapiens}
+ cysteinyl leukotriene receptor	2	CYSLTR2	__SEG__	Chr13	{HomoSapiens}
+ putative UPF0607 protein	ENSP00000383144	LOC100129307	__SEG__	Chr13	{HomoSapiens}
+ coiled-coil domain-containing protein 70	precursor	CCDC70	__SEG__	Chr13	{HomoSapiens}
+ 2-oxoglutarate receptor	1	OXGR1	__SEG__	Chr13	{HomoSapiens}
+ ubiquitin conjugating enzyme E2	L5	UBE2L5	__SEG__	Chr13	{HomoSapiens}
+ gap junction beta-2	protein	GJB2	__SEG__	Chr13	{HomoSapiens}
+ putative nucleotidyltransferase	MAB21L1	MAB21L1	__SEG__	Chr13	{HomoSapiens}
+ protein sprouty homolog	2	SPRY2	__SEG__	Chr13	{HomoSapiens}
+ transcription factor	SOX-1	SOX1	__SEG__	Chr13	{HomoSapiens}
+ transcription factor	SOX-21	SOX21	__SEG__	Chr13	{HomoSapiens}
+ SLIT and NTRK-like protein 5	precursor	SLITRK5	__SEG__	Chr13	{HomoSapiens}
+ U3 small nucleolar RNA-associated protein 14 homolog	C	UTP14C	__SEG__	Chr13	{HomoSapiens}
+ gap junction alpha-3	protein	GJA3	__SEG__	Chr13	{HomoSapiens}
+ polyadenylate-binding protein	3	PABPC3	__SEG__	Chr13	{HomoSapiens}
+ kelch repeat and BTB domain-containing protein	7	KBTBD7	__SEG__	Chr13	{HomoSapiens}
+ SLIT and NTRK-like protein 6	precursor	SLITRK6	__SEG__	Chr13	{HomoSapiens}
+ protein	ABHD13	ABHD13	__SEG__	Chr13	{HomoSapiens}
+ SLIT and NTRK-like protein 1	precursor	SLITRK1	__SEG__	Chr13	{HomoSapiens}
+ BTB/POZ domain-containing protein	KCTD12	KCTD12	__SEG__	Chr13	{HomoSapiens}
+ ADP-ribosylation factor-like protein	11	ARL11	__SEG__	Chr13	{HomoSapiens}
+ casein kinase I isoform	alpha-like	CSNK1A1L	__SEG__	Chr13	{HomoSapiens}
+ kelch repeat and BTB domain-containing protein	6	KBTBD6	__SEG__	Chr13	{HomoSapiens}
+ BTB/POZ domain-containing protein	KCTD4	KCTD4	__SEG__	Chr13	{HomoSapiens}
+ serine-rich and transmembrane domain-containing protein	1	SERTM1	__SEG__	Chr13	{HomoSapiens}
+ G-protein coupled receptor 12 isoform	X1	GPR12	__SEG__	Chr13	{HomoSapiens}
+ uncharacterized protein LOC101928841 isoform	X1	LOC101928841	__SEG__	Chr13	{HomoSapiens}
+ uncharacterized protein	LOC105376684	LOC105376684	__SEG__	Chr13	{HomoSapiens}
+ keratin-associated protein	21-1	LOC647264	__SEG__	Chr13	{HomoSapiens}
+ G-protein coupled receptor 183 isoform	X1	GPR183	__SEG__	Chr13	{HomoSapiens}
+ ribosomal protein 63, mitochondrial isoform	X1	MRPL57	__SEG__	Chr13	{HomoSapiens}
+ uncharacterized protein	LOC107987188	LOC107987188	__SEG__	Chr13	{HomoSapiens}
+ basic salivary proline-rich protein 3-like isoform	X2	LOC105377805	__SEG__	Chr13	{HomoSapiens}
+ proline-rich protein 36-like isoform	X1	C13orf46	__SEG__	Chr13	{HomoSapiens}
+ lysophosphatidic acid receptor 6 isoform	X1	LPAR6	__SEG__	Chr13	{HomoSapiens}
+ N-arachidonyl glycine receptor isoform	X1	GPR18	__SEG__	Chr13	{HomoSapiens}
+ keratin-associated protein	21-1-like	LOC112268117	__SEG__	Chr13	{HomoSapiens}
+		IGHD2-15	__SEG__	Chr14	{HomoSapiens}
+		IGHD2-2	__SEG__	Chr14	{HomoSapiens}
+		IGHD2-8	__SEG__	Chr14	{HomoSapiens}
+		IGHD3-10	__SEG__	Chr14	{HomoSapiens}
+		IGHD3-16	__SEG__	Chr14	{HomoSapiens}
+		IGHD3-22	__SEG__	Chr14	{HomoSapiens}
+		IGHD3-3	__SEG__	Chr14	{HomoSapiens}
+		IGHD3-9	__SEG__	Chr14	{HomoSapiens}
+		IGHJ1	__SEG__	Chr14	{HomoSapiens}
+		IGHJ2	__SEG__	Chr14	{HomoSapiens}
+		IGHJ3	__SEG__	Chr14	{HomoSapiens}
+		IGHJ4	__SEG__	Chr14	{HomoSapiens}
+		IGHJ5	__SEG__	Chr14	{HomoSapiens}
+		IGHJ6	__SEG__	Chr14	{HomoSapiens}
+ B1 bradykinin	receptor	BDKRB1	__SEG__	Chr14	{HomoSapiens}
+ 60S ribosomal protein	L36a-like	RPL36AL	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4E2	OR4E2	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	6S1	OR6S1	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K1	OR4K1	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	11H4	OR11H4	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	11H6	OR11H6	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K14	OR4K14	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K13	OR4K13	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K17	OR4K17	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4L1	OR4L1	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4N2	OR4N2	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4N5	OR4N5	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	5AU1	OR5AU1	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	10G3	OR10G3	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	10G2	OR10G2	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K5	OR4K5	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K15	OR4K15	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K2	OR4K2	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	11G2	OR11G2	__SEG__	Chr14	{HomoSapiens}
+ probable inactive ribonuclease-like protein 13	precursor	RNASE13	__SEG__	Chr14	{HomoSapiens}
+ inactive ribonuclease-like protein 10	precursor	RNASE10	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	11H12	OR11H12	__SEG__	Chr14	{HomoSapiens}
+ cell cycle control protein	50B	TMEM30B	__SEG__	Chr14	{HomoSapiens}
+ probable inactive ribonuclease-like protein 12	precursor	RNASE12	__SEG__	Chr14	{HomoSapiens}
+ somatostatin receptor type	1	SSTR1	__SEG__	Chr14	{HomoSapiens}
+ angiogenin	precursor	ANG	__SEG__	Chr14	{HomoSapiens}
+ proteasome subunit beta type-11	precursor	PSMB11	__SEG__	Chr14	{HomoSapiens}
+ retrotransposon-like protein	1	RTL1	__SEG__	Chr14	{HomoSapiens}
+ leukotriene B4 receptor	1	LTB4R	__SEG__	Chr14	{HomoSapiens}
+ leukotriene B4 receptor	2	LTB4R2	__SEG__	Chr14	{HomoSapiens}
+ probable G-protein coupled receptor	33	GPR33	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	11H2	OR11H2	__SEG__	Chr14	{HomoSapiens}
+ coiled-coil domain-containing protein	177	CCDC177	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4E1	OR4E1	__SEG__	Chr14	{HomoSapiens}
+ transmembrane protein	121	TMEM121	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	6J1	OR6J1	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4K3	OR4K3	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4Q2	OR4Q2	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	11H7	OR11H7	__SEG__	Chr14	{HomoSapiens}
+ ankyrin repeat domain-containing protein	9	ANKRD9	__SEG__	Chr14	{HomoSapiens}
+ thyroxine	5-deiodinase	DIO3	__SEG__	Chr14	{HomoSapiens}
+ ADP-ribosylation factor	6	ARF6	__SEG__	Chr14	{HomoSapiens}
+ alpha-1,6-mannosyl-glycoprotein	2-beta-N-acetylglucosaminyltransferase	MGAT2	__SEG__	Chr14	{HomoSapiens}
+ non-secretory ribonuclease	precursor	RNASE2	__SEG__	Chr14	{HomoSapiens}
+ eosinophil cationic protein	precursor	RNASE3	__SEG__	Chr14	{HomoSapiens}
+ psychosine	receptor	GPR65	__SEG__	Chr14	{HomoSapiens}
+ disintegrin and metalloproteinase domain-containing protein 21	preproprotein	ADAM21	__SEG__	Chr14	{HomoSapiens}
+ disintegrin and metalloproteinase domain-containing protein 20	preproprotein	ADAM20	__SEG__	Chr14	{HomoSapiens}
+ A-kinase anchor protein	5	AKAP5	__SEG__	Chr14	{HomoSapiens}
+ forkhead box protein	G1	FOXG1	__SEG__	Chr14	{HomoSapiens}
+ paraneoplastic antigen	Ma1	PNMA1	__SEG__	Chr14	{HomoSapiens}
+ cell division cycle-associated protein	4	CDCA4	__SEG__	Chr14	{HomoSapiens}
+	vertnin	VRTN	__SEG__	Chr14	{HomoSapiens}
+ heat shock-related 70 kDa protein	2	HSPA2	__SEG__	Chr14	{HomoSapiens}
+ modulator of apoptosis	1	MOAP1	__SEG__	Chr14	{HomoSapiens}
+ epididymal secretory protein E3-beta	precursor	EDDM3B	__SEG__	Chr14	{HomoSapiens}
+ interferon regulatory factor 2-binding	protein-like	IRF2BPL	__SEG__	Chr14	{HomoSapiens}
+ ribosomal oxygenase	1	RIOX1	__SEG__	Chr14	{HomoSapiens}
+ fibrous sheath CABYR-binding	protein	FSCB	__SEG__	Chr14	{HomoSapiens}
+ ribonuclease 7	precursor	RNASE7	__SEG__	Chr14	{HomoSapiens}
+ insulinoma-associated protein	2	INSM2	__SEG__	Chr14	{HomoSapiens}
+ 60S ribosomal protein	L10-like	RPL10L	__SEG__	Chr14	{HomoSapiens}
+ suppressor of cytokine signaling	4	SOCS4	__SEG__	Chr14	{HomoSapiens}
+ ribonuclease 8	precursor	RNASE8	__SEG__	Chr14	{HomoSapiens}
+ probable ribonuclease 11	precursor	RNASE11	__SEG__	Chr14	{HomoSapiens}
+ C-type lectin domain family 14 member A	precursor	CLEC14A	__SEG__	Chr14	{HomoSapiens}
+ ribonuclease 4	precursor	RNASE4	__SEG__	Chr14	{HomoSapiens}
+ ribonuclease pancreatic	precursor	RNASE1	__SEG__	Chr14	{HomoSapiens}
+		TRAJ10	__SEG__	Chr14	{HomoSapiens}
+		TRAJ11	__SEG__	Chr14	{HomoSapiens}
+		TRAJ12	__SEG__	Chr14	{HomoSapiens}
+		TRAJ13	__SEG__	Chr14	{HomoSapiens}
+		TRAJ14	__SEG__	Chr14	{HomoSapiens}
+		TRAJ15	__SEG__	Chr14	{HomoSapiens}
+		TRAJ16	__SEG__	Chr14	{HomoSapiens}
+		TRAJ17	__SEG__	Chr14	{HomoSapiens}
+		TRAJ18	__SEG__	Chr14	{HomoSapiens}
+		TRAJ19	__SEG__	Chr14	{HomoSapiens}
+		TRAJ1	__SEG__	Chr14	{HomoSapiens}
+		TRAJ20	__SEG__	Chr14	{HomoSapiens}
+		TRAJ21	__SEG__	Chr14	{HomoSapiens}
+		TRAJ22	__SEG__	Chr14	{HomoSapiens}
+		TRAJ23	__SEG__	Chr14	{HomoSapiens}
+		TRAJ24	__SEG__	Chr14	{HomoSapiens}
+		TRAJ25	__SEG__	Chr14	{HomoSapiens}
+		TRAJ26	__SEG__	Chr14	{HomoSapiens}
+		TRAJ27	__SEG__	Chr14	{HomoSapiens}
+		TRAJ28	__SEG__	Chr14	{HomoSapiens}
+		TRAJ29	__SEG__	Chr14	{HomoSapiens}
+		TRAJ2	__SEG__	Chr14	{HomoSapiens}
+		TRAJ30	__SEG__	Chr14	{HomoSapiens}
+		TRAJ31	__SEG__	Chr14	{HomoSapiens}
+		TRAJ32	__SEG__	Chr14	{HomoSapiens}
+		TRAJ33	__SEG__	Chr14	{HomoSapiens}
+		TRAJ34	__SEG__	Chr14	{HomoSapiens}
+		TRAJ35	__SEG__	Chr14	{HomoSapiens}
+		TRAJ36	__SEG__	Chr14	{HomoSapiens}
+		TRAJ37	__SEG__	Chr14	{HomoSapiens}
+		TRAJ38	__SEG__	Chr14	{HomoSapiens}
+		TRAJ39	__SEG__	Chr14	{HomoSapiens}
+		TRAJ3	__SEG__	Chr14	{HomoSapiens}
+		TRAJ40	__SEG__	Chr14	{HomoSapiens}
+		TRAJ41	__SEG__	Chr14	{HomoSapiens}
+		TRAJ42	__SEG__	Chr14	{HomoSapiens}
+		TRAJ43	__SEG__	Chr14	{HomoSapiens}
+		TRAJ44	__SEG__	Chr14	{HomoSapiens}
+		TRAJ45	__SEG__	Chr14	{HomoSapiens}
+		TRAJ46	__SEG__	Chr14	{HomoSapiens}
+		TRAJ47	__SEG__	Chr14	{HomoSapiens}
+		TRAJ48	__SEG__	Chr14	{HomoSapiens}
+		TRAJ49	__SEG__	Chr14	{HomoSapiens}
+		TRAJ4	__SEG__	Chr14	{HomoSapiens}
+		TRAJ50	__SEG__	Chr14	{HomoSapiens}
+		TRAJ52	__SEG__	Chr14	{HomoSapiens}
+		TRAJ53	__SEG__	Chr14	{HomoSapiens}
+		TRAJ54	__SEG__	Chr14	{HomoSapiens}
+		TRAJ56	__SEG__	Chr14	{HomoSapiens}
+		TRAJ57	__SEG__	Chr14	{HomoSapiens}
+		TRAJ58	__SEG__	Chr14	{HomoSapiens}
+		TRAJ59	__SEG__	Chr14	{HomoSapiens}
+		TRAJ5	__SEG__	Chr14	{HomoSapiens}
+		TRAJ61	__SEG__	Chr14	{HomoSapiens}
+		TRAJ6	__SEG__	Chr14	{HomoSapiens}
+		TRAJ7	__SEG__	Chr14	{HomoSapiens}
+		TRAJ8	__SEG__	Chr14	{HomoSapiens}
+		TRAJ9	__SEG__	Chr14	{HomoSapiens}
+		TRDJ1	__SEG__	Chr14	{HomoSapiens}
+		TRDJ2	__SEG__	Chr14	{HomoSapiens}
+		TRDJ3	__SEG__	Chr14	{HomoSapiens}
+		TRDJ4	__SEG__	Chr14	{HomoSapiens}
+ ovarian cancer G-protein coupled receptor 1 isoform	X1	GPR68	__SEG__	Chr14	{HomoSapiens}
+ uncharacterized protein	LOC105370641	LOC105370641	__SEG__	Chr14	{HomoSapiens}
+ zinc finger and BTB domain-containing protein 42 isoform	X1	ZBTB42	__SEG__	Chr14	{HomoSapiens}
+ epididymal secretory protein E3-alpha isoform	X1	EDDM3A	__SEG__	Chr14	{HomoSapiens}
+ leucine-rich repeat transmembrane protein FLRT2 isoform	X1	FLRT2	__SEG__	Chr14	{HomoSapiens}
+ uncharacterized protein C14orf119 isoform	X1	C14orf119	__SEG__	Chr14	{HomoSapiens}
+ ribonuclease K6 isoform	X1	RNASE6	__SEG__	Chr14	{HomoSapiens}
+ probable G-protein coupled receptor 135 isoform	X1	GPR135	__SEG__	Chr14	{HomoSapiens}
+ uncharacterized protein	LOC107984648	LOC107984648	__SEG__	Chr14	{HomoSapiens}
+ uncharacterized protein	LOC107987211	LOC107987211	__SEG__	Chr14	{HomoSapiens}
+ vegetative cell wall protein	gp1-like	LOC112268124	__SEG__	Chr14	{HomoSapiens}
+	loricrin-like	LOC112268140	__SEG__	Chr14	{HomoSapiens}
+ olfactory receptor	4F15	OR4F15	__SEG__	Chr15	{HomoSapiens}
+ olfactory receptor	4F4	OR4F4	__SEG__	Chr15	{HomoSapiens}
+ olfactory receptor	4M2	OR4M2	__SEG__	Chr15	{HomoSapiens}
+ olfactory receptor	4N4	OR4N4	__SEG__	Chr15	{HomoSapiens}
+ olfactory receptor	4F6	OR4F6	__SEG__	Chr15	{HomoSapiens}
+ kelch repeat and BTB domain-containing protein	13	KBTBD13	__SEG__	Chr15	{HomoSapiens}
+ uncharacterized protein C15orf62, mitochondrial	precursor	C15orf62	__SEG__	Chr15	{HomoSapiens}
+ ankyrin repeat domain-containing protein	34C	ANKRD34C	__SEG__	Chr15	{HomoSapiens}
+ ankyrin repeat domain-containing protein	63	ANKRD63	__SEG__	Chr15	{HomoSapiens}
+ putative transmembrane protein	INAFM2	INAFM2	__SEG__	Chr15	{HomoSapiens}
+ muscarinic acetylcholine receptor	M5	CHRM5	__SEG__	Chr15	{HomoSapiens}
+ GDP-D-glucose phosphorylase	1	GDPGP1	__SEG__	Chr15	{HomoSapiens}
+ putative HIG1 domain family member	2B	HIGD2B	__SEG__	Chr15	{HomoSapiens}
+ cortexin domain-containing	1	CTXND1	__SEG__	Chr15	{HomoSapiens}
+ putative homeobox protein	NANOGP8	NANOGP8	__SEG__	Chr15	{HomoSapiens}
+	necdin	NDN	__SEG__	Chr15	{HomoSapiens}
+ beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase	3	GCNT3	__SEG__	Chr15	{HomoSapiens}
+ probable E3 ubiquitin-protein ligase	makorin-3	MKRN3	__SEG__	Chr15	{HomoSapiens}
+ forkhead box protein	B1	FOXB1	__SEG__	Chr15	{HomoSapiens}
+ zinc finger protein	770	ZNF770	__SEG__	Chr15	{HomoSapiens}
+ EP300-interacting inhibitor of differentiation	1	EID1	__SEG__	Chr15	{HomoSapiens}
+ tRNA wybutosine-synthesizing protein	4	LCMT2	__SEG__	Chr15	{HomoSapiens}
+ ribonuclease P protein subunit	p25	RPP25	__SEG__	Chr15	{HomoSapiens}
+ U3 small nucleolar ribonucleoprotein protein	IMP3	IMP3	__SEG__	Chr15	{HomoSapiens}
+ nuclear pore-associated protein	1	NPAP1	__SEG__	Chr15	{HomoSapiens}
+ MAGE-like protein	2	MAGEL2	__SEG__	Chr15	{HomoSapiens}
+ kelch-like protein	25	KLHL25	__SEG__	Chr15	{HomoSapiens}
+ talin rod domain-containing protein	1	TLNRD1	__SEG__	Chr15	{HomoSapiens}
+ L-lactate dehydrogenase A-like	6B	LDHAL6B	__SEG__	Chr15	{HomoSapiens}
+ carbohydrate sulfotransferase	14	CHST14	__SEG__	Chr15	{HomoSapiens}
+ non-structural maintenance of chromosomes element 3	homolog	NSMCE3	__SEG__	Chr15	{HomoSapiens}
+ piggyBac transposable element-derived protein	4	PGBD4	__SEG__	Chr15	{HomoSapiens}
+ immunoglobulin superfamily containing leucine-rich repeat protein	precursor	ISLR	__SEG__	Chr15	{HomoSapiens}
+ C2 calcium-dependent domain-containing protein	4A	C2CD4A	__SEG__	Chr15	{HomoSapiens}
+ putative uncharacterized protein	UNQ9370/PRO34162	LOC105370980	__SEG__	Chr15	{HomoSapiens}
+ C2 calcium-dependent domain-containing protein 4B isoform	X1	C2CD4B	__SEG__	Chr15	{HomoSapiens}
+ cortexin-2 isoform	X1	CTXN2	__SEG__	Chr15	{HomoSapiens}
+ uncharacterized protein	LOC107984745	LOC107984745	__SEG__	Chr15	{HomoSapiens}
+ uncharacterized protein	LOC107984751	LOC107984751	__SEG__	Chr15	{HomoSapiens}
+ protein PIGBOS1 isoform	X1	PIGBOS1	__SEG__	Chr15	{HomoSapiens}
+ inositol 1,4,5-trisphosphate receptor-interacting protein-like 2	precursor	ITPRIPL2	__SEG__	Chr16	{HomoSapiens}
+ cementoblastoma-derived protein	1	CEMP1	__SEG__	Chr16	{HomoSapiens}
+	ataxin-1-like	ATXN1L	__SEG__	Chr16	{HomoSapiens}
+ protein	TNT	C16orf82	__SEG__	Chr16	{HomoSapiens}
+ carbohydrate sulfotransferase	4	CHST4	__SEG__	Chr16	{HomoSapiens}
+ somatostatin receptor type	5	SSTR5	__SEG__	Chr16	{HomoSapiens}
+ humanin-like	4	MTRNR2L4	__SEG__	Chr16	{HomoSapiens}
+ putative UPF0607 protein	ENSP00000381418	LOC729159	__SEG__	Chr16	{HomoSapiens}
+ cap-specific mRNA (nucleoside-2'-O-)-methyltransferase	2	CMTR2	__SEG__	Chr16	{HomoSapiens}
+ [Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 2, mitochondrial	precursor	PDP2	__SEG__	Chr16	{HomoSapiens}
+ zinc finger protein	843	ZNF843	__SEG__	Chr16	{HomoSapiens}
+ melanocyte-stimulating hormone	receptor	MC1R	__SEG__	Chr16	{HomoSapiens}
+ leukosialin	precursor	SPN	__SEG__	Chr16	{HomoSapiens}
+ suppressor of cytokine signaling	1	SOCS1	__SEG__	Chr16	{HomoSapiens}
+ forkhead box protein	L1	FOXL1	__SEG__	Chr16	{HomoSapiens}
+ forkhead box protein	C2	FOXC2	__SEG__	Chr16	{HomoSapiens}
+ selenide, water dikinase	2	SEPHS2	__SEG__	Chr16	{HomoSapiens}
+ olfactory receptor	2C1	OR2C1	__SEG__	Chr16	{HomoSapiens}
+ dexamethasone-induced	protein	DEXI	__SEG__	Chr16	{HomoSapiens}
+ probable ATP-dependent RNA helicase	DDX28	DDX28	__SEG__	Chr16	{HomoSapiens}
+ THAP domain-containing protein	11	THAP11	__SEG__	Chr16	{HomoSapiens}
+	claudin-9	CLDN9	__SEG__	Chr16	{HomoSapiens}
+ claudin-6	precursor	CLDN6	__SEG__	Chr16	{HomoSapiens}
+	protamine-3	PRM3	__SEG__	Chr16	{HomoSapiens}
+ carbohydrate sulfotransferase 6	precursor	CHST6	__SEG__	Chr16	{HomoSapiens}
+ carbohydrate sulfotransferase	5	CHST5	__SEG__	Chr16	{HomoSapiens}
+ calpain small subunit	2	CAPNS2	__SEG__	Chr16	{HomoSapiens}
+ tigger transposable element-derived protein	7	TIGD7	__SEG__	Chr16	{HomoSapiens}
+ UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 9	precursor	B3GNT9	__SEG__	Chr16	{HomoSapiens}
+ exosome complex component	MTR3	EXOSC6	__SEG__	Chr16	{HomoSapiens}
+ vasorin	precursor	VASN	__SEG__	Chr16	{HomoSapiens}
+ CENPB DNA-binding domain-containing protein	1	CENPBD1	__SEG__	Chr16	{HomoSapiens}
+ pyrin domain-containing protein	1	PYDC1	__SEG__	Chr16	{HomoSapiens}
+ vomeronasal type-1 receptor	3	VN1R3	__SEG__	Chr16	{HomoSapiens}
+ transmembrane protein	C16orf54	C16orf54	__SEG__	Chr16	{HomoSapiens}
+ NHL-repeat-containing protein	4	NHLRC4	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC105371045	LOC105371045	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC105369246	LOC105369246	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC105371419	LOC105371419	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC105369266	LOC105369266	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC105379473	LOC105379473	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC105379474	LOC105379474	__SEG__	Chr16	{HomoSapiens}
+ acyl-CoA synthetase family member 3, mitochondrial isoform	X3	ACSF3	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC107984876	LOC107984876	__SEG__	Chr16	{HomoSapiens}
+ putative uncharacterized protein	MGC34800	LOC107987235	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC107984820	LOC107984820	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC107984862	LOC107984862	__SEG__	Chr16	{HomoSapiens}
+ cadmium/zinc-transporting ATPase	HMA2-like	LOC105371409	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC107984817	LOC107984817	__SEG__	Chr16	{HomoSapiens}
+ collagen alpha-3(IX)	chain-like	LOC105376747	__SEG__	Chr16	{HomoSapiens}
+ collagen alpha-3(IX)	chain-like	LOC105371095	__SEG__	Chr16	{HomoSapiens}
+ uncharacterized protein	LOC107984833	LOC107984833	__SEG__	Chr16	{HomoSapiens}
+ zinc finger protein 319 isoform	X1	ZNF319	__SEG__	Chr16	{HomoSapiens}
+ platelet glycoprotein Ib alpha chain	precursor	GP1BA	__SEG__	Chr17	{HomoSapiens}
+ inward rectifier potassium channel	2	KCNJ2	__SEG__	Chr17	{HomoSapiens}
+ BTB/POZ domain-containing protein	KCTD11	KCTD11	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	4D2	OR4D2	__SEG__	Chr17	{HomoSapiens}
+	saitohin	STH	__SEG__	Chr17	{HomoSapiens}
+ somatostatin receptor type	2	SSTR2	__SEG__	Chr17	{HomoSapiens}
+ gap junction gamma-1	protein	GJC1	__SEG__	Chr17	{HomoSapiens}
+ phosphoinositide-interacting	protein	PIRT	__SEG__	Chr17	{HomoSapiens}
+ uncharacterized protein	C17orf100	C17orf100	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	2-1	KRTAP2-1	__SEG__	Chr17	{HomoSapiens}
+ elongin BC and Polycomb repressive complex 2-associated	protein	EPOP	__SEG__	Chr17	{HomoSapiens}
+ myeloid-associated differentiation marker-like protein	2	MYADML2	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-9	KRTAP4-9	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	16-1	KRTAP16-1	__SEG__	Chr17	{HomoSapiens}
+ RING finger protein	222	RNF222	__SEG__	Chr17	{HomoSapiens}
+ uncharacterized protein	LOC728392	LOC728392	__SEG__	Chr17	{HomoSapiens}
+ small integral membrane protein	6	SMIM6	__SEG__	Chr17	{HomoSapiens}
+ class A basic helix-loop-helix protein	9	BHLHA9	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	2-3	KRTAP2-3	__SEG__	Chr17	{HomoSapiens}
+ humanin-like	1	MTRNR2L1	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	9-1	KRTAP9-1	__SEG__	Chr17	{HomoSapiens}
+ protein Tob1 isoform	2	TOB1	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	1-4	KRTAP1-4	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	29-1	KRTAP29-1	__SEG__	Chr17	{HomoSapiens}
+ transcription factor	Sp6	SP6	__SEG__	Chr17	{HomoSapiens}
+ Ig-like V-type domain-containing protein FAM187A	precursor	FAM187A	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	9-6	KRTAP9-6	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	9-7	KRTAP9-7	__SEG__	Chr17	{HomoSapiens}
+ coiled-coil domain-containing protein	182	CCDC182	__SEG__	Chr17	{HomoSapiens}
+ phosphatidylinositol-glycan biosynthesis class W	protein	PIGW	__SEG__	Chr17	{HomoSapiens}
+ uncharacterized protein	LOC100996259	FAM106B	__SEG__	Chr17	{HomoSapiens}
+ putative protein	FAM106C	FAM106CP	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1E3	OR1E3	__SEG__	Chr17	{HomoSapiens}
+ frizzled-2	precursor	FZD2	__SEG__	Chr17	{HomoSapiens}
+ ADP-ribosylation factor-like protein	4D	ARL4D	__SEG__	Chr17	{HomoSapiens}
+ oligodendrocyte-myelin glycoprotein	precursor	OMG	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1D2	OR1D2	__SEG__	Chr17	{HomoSapiens}
+	OR1D4	OR1D4	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1E1	OR1E1	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1E2	OR1E2	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1G1	OR1G1	__SEG__	Chr17	{HomoSapiens}
+ suppressor of cytokine signaling	3	SOCS3	__SEG__	Chr17	{HomoSapiens}
+ TGFB1-induced anti-apoptotic factor	1	TIAF1	__SEG__	Chr17	{HomoSapiens}
+ noggin	precursor	NOG	__SEG__	Chr17	{HomoSapiens}
+ neurogenic differentiation factor	2	NEUROD2	__SEG__	Chr17	{HomoSapiens}
+ protein	HEXIM1	HEXIM1	__SEG__	Chr17	{HomoSapiens}
+ cdc42 effector protein	4	CDC42EP4	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1A2	OR1A2	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	4D1	OR4D1	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1A1	OR1A1	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor	1D5	OR1D5	__SEG__	Chr17	{HomoSapiens}
+ BLOC-1-related complex subunit	6	BORCS6	__SEG__	Chr17	{HomoSapiens}
+ urotensin-2	receptor	UTS2R	__SEG__	Chr17	{HomoSapiens}
+ polyubiquitin-B	precursor	UBB	__SEG__	Chr17	{HomoSapiens}
+ ATP-sensitive inward rectifier potassium channel	12	KCNJ12	__SEG__	Chr17	{HomoSapiens}
+ proline-rich protein 15-like	protein	PRR15L	__SEG__	Chr17	{HomoSapiens}
+ protein	FAM106A	FAM106A	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	1-3	KRTAP1-3	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	1-1	KRTAP1-1	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein 9-9 isoform	KRTAP9.5	KRTAP9-9	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-6	KRTAP4-6	__SEG__	Chr17	{HomoSapiens}
+ ER membrane protein complex subunit	6	EMC6	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-12	KRTAP4-12	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	1-5	KRTAP1-5	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	3-1	KRTAP3-1	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	3-2	KRTAP3-2	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein 4-8 isoform	1	KRTAP4-8	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	9-2	KRTAP9-2	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	9-3	KRTAP9-3	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	9-8	KRTAP9-8	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	17-1	KRTAP17-1	__SEG__	Chr17	{HomoSapiens}
+ serine/threonine-protein kinase	haspin	HASPIN	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-4	KRTAP4-4	__SEG__	Chr17	{HomoSapiens}
+ zinc finger protein	594	ZNF594	__SEG__	Chr17	{HomoSapiens}
+ kinesin-like protein	KIF2B	KIF2B	__SEG__	Chr17	{HomoSapiens}
+ putative keratin-associated protein	ENSP00000381495	KRTAP2-2	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-11	KRTAP4-11	__SEG__	Chr17	{HomoSapiens}
+ putative keratin-associated protein	4-X	KRTAP4-7	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-2	KRTAP4-2	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	2-4	KRTAP2-4	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	3-3	KRTAP3-3	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-3	KRTAP4-3	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	4-5	KRTAP4-5	__SEG__	Chr17	{HomoSapiens}
+ keratin-associated protein	9-4	KRTAP9-4	__SEG__	Chr17	{HomoSapiens}
+ heat shock protein	beta-9	HSPB9	__SEG__	Chr17	{HomoSapiens}
+ zinc finger protein	830	ZNF830	__SEG__	Chr17	{HomoSapiens}
+ gap junction delta-3	protein	GJD3	__SEG__	Chr17	{HomoSapiens}
+ uncharacterized protein	C17orf77	C17orf77	__SEG__	Chr17	{HomoSapiens}
+ solute carrier family 35 member	G3	SLC35G3	__SEG__	Chr17	{HomoSapiens}
+ major facilitator superfamily domain-containing protein	6-like	MFSD6L	__SEG__	Chr17	{HomoSapiens}
+ zinc finger protein 3	homolog	ZFP3	__SEG__	Chr17	{HomoSapiens}
+ signal peptide peptidase-like 2C	precursor	SPPL2C	__SEG__	Chr17	{HomoSapiens}
+ nascent polypeptide-associated complex subunit	alpha-2	NACA2	__SEG__	Chr17	{HomoSapiens}
+ reprimo-like	protein	RPRML	__SEG__	Chr17	{HomoSapiens}
+ putative uncharacterized protein	C17orf82	C17orf82	__SEG__	Chr17	{HomoSapiens}
+ dual specificity protein phosphatase 14 isoform	X1	DUSP14	__SEG__	Chr17	{HomoSapiens}
+ uncharacterized protein LOC105371944 isoform	X1	LOC105371944	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor 3A3 isoform	X1	OR3A3	__SEG__	Chr17	{HomoSapiens}
+ transmembrane protein 99 isoform	X1	TMEM99	__SEG__	Chr17	{HomoSapiens}
+ endonuclease V isoform	X20	ENDOV	__SEG__	Chr17	{HomoSapiens}
+ testis-expressed protein 19 isoform	X1	TEX19	__SEG__	Chr17	{HomoSapiens}
+ olfactory receptor 3A1 isoform	X1	OR3A1	__SEG__	Chr17	{HomoSapiens}
+ transmembrane protein 100 isoform	X1	TMEM100	__SEG__	Chr17	{HomoSapiens}
+ protein MIS12 homolog isoform	X1	MIS12	__SEG__	Chr17	{HomoSapiens}
+ cyclin-dependent kinase 5 activator 1 isoform	X1	CDK5R1	__SEG__	Chr17	{HomoSapiens}
+ flocculation protein	FLO11-like	LOC107985021	__SEG__	Chr17	{HomoSapiens}
+ leucine-rich repeat-containing protein	37A3-like	LOC107985082	__SEG__	Chr17	{HomoSapiens}
+ uncharacterized protein	FAM215A-like	LOC107987254	__SEG__	Chr17	{HomoSapiens}
+ putative uncharacterized protein encoded by LINC00483 isoform	X1	LINC00483	__SEG__	Chr17	{HomoSapiens}
+ uncharacterized protein	LOC112268198	LOC112268198	__SEG__	Chr17	{HomoSapiens}
+ TYMS opposite strand	protein	TYMSOS	__SEG__	Chr18	{HomoSapiens}
+ solute carrier family 25 member	52	SLC25A52	__SEG__	Chr18	{HomoSapiens}
+ transmembrane protein	200C	TMEM200C	__SEG__	Chr18	{HomoSapiens}
+ elongin-A3 member	B	ELOA3B	__SEG__	Chr18	{HomoSapiens}
+ leucine-rich repeat-containing protein	30	LRRC30	__SEG__	Chr18	{HomoSapiens}
+ elongin-A3 member	D	ELOA3D	__SEG__	Chr18	{HomoSapiens}
+ biorientation of chromosomes in cell division protein 1-like	2	BOD1L2	__SEG__	Chr18	{HomoSapiens}
+ putative solute carrier family 35 member	G4	SLC35G4	__SEG__	Chr18	{HomoSapiens}
+ uncharacterized protein	C18orf12	C18orf12	__SEG__	Chr18	{HomoSapiens}
+ putative elongin-A3 member	C	ELOA3C	__SEG__	Chr18	{HomoSapiens}
+	centrin-1	CETN1	__SEG__	Chr18	{HomoSapiens}
+ melanocortin receptor	4	MC4R	__SEG__	Chr18	{HomoSapiens}
+ melanocortin receptor	5	MC5R	__SEG__	Chr18	{HomoSapiens}
+	elongin-A2	ELOA2	__SEG__	Chr18	{HomoSapiens}
+ charged multivesicular body protein	1b	CHMP1B	__SEG__	Chr18	{HomoSapiens}
+ dermatan-sulfate epimerase-like protein	precursor	DSEL	__SEG__	Chr18	{HomoSapiens}
+	elongin-A3	ELOA3	__SEG__	Chr18	{HomoSapiens}
+ cTAGE family member	2	CTAGE1	__SEG__	Chr18	{HomoSapiens}
+ uncharacterized protein	LOC105372109	LOC105372109	__SEG__	Chr18	{HomoSapiens}
+ uncharacterized protein	LOC105372204	LOC105372204	__SEG__	Chr18	{HomoSapiens}
+ uncharacterized protein	LOC100996274	LOC100996274	__SEG__	Chr18	{HomoSapiens}
+ E3 ubiquitin-protein ligase RNF152 isoform	X1	RNF152	__SEG__	Chr18	{HomoSapiens}
+ adrenocorticotropic hormone receptor isoform	X1	MC2R	__SEG__	Chr18	{HomoSapiens}
+ suppressor of cytokine signaling 6 isoform	X1	SOCS6	__SEG__	Chr18	{HomoSapiens}
+ histidine-rich protein	PFHRP-II-like	LOC107985149	__SEG__	Chr18	{HomoSapiens}
+ uncharacterized protein	LOC105376875	LOC105376875	__SEG__	Chr18	{HomoSapiens}
+ olfactory receptor	7G3	OR7G3	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	1M1	OR1M1	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	10H4	OR10H4	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	10H5	OR10H5	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	2Z1	OR2Z1	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	1I1	OR1I1	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7A10	OR7A10	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7D4	OR7D4	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7G1	OR7G1	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7G2	OR7G2	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	4F17	OR4F17	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	835	ZNF835	__SEG__	Chr19	{HomoSapiens}
+ nanos homolog	2	NANOS2	__SEG__	Chr19	{HomoSapiens}
+ succinate dehydrogenase assembly factor 1,	mitochondrial	SDHAF1	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7E24	OR7E24	__SEG__	Chr19	{HomoSapiens}
+ galactoside 2-alpha-L-fucosyltransferase	2	FUT2	__SEG__	Chr19	{HomoSapiens}
+ galactoside	3(4)-L-fucosyltransferase	FUT3	__SEG__	Chr19	{HomoSapiens}
+ leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3	precursor	LINGO3	__SEG__	Chr19	{HomoSapiens}
+ serine/arginine repetitive matrix protein	5	SRRM5	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	580	ZNF580	__SEG__	Chr19	{HomoSapiens}
+ tumor necrosis factor alpha-induced protein 8-like protein	1	TNFAIP8L1	__SEG__	Chr19	{HomoSapiens}
+ transmembrane protein	238	TMEM238	__SEG__	Chr19	{HomoSapiens}
+ endogenous retrovirus group V member 2 Env polyprotein	precursor	ERVV-2	__SEG__	Chr19	{HomoSapiens}
+ fMet-Leu-Phe	receptor	FPR1	__SEG__	Chr19	{HomoSapiens}
+ RING finger protein	225	RNF225	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	865	ZNF865	__SEG__	Chr19	{HomoSapiens}
+ C5a anaphylatoxin chemotactic receptor	2	C5AR2	__SEG__	Chr19	{HomoSapiens}
+ leukocyte receptor cluster member 9 isoform	2	LENG9	__SEG__	Chr19	{HomoSapiens}
+ putative guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit	gamma-14	GNG14	__SEG__	Chr19	{HomoSapiens}
+ F-box only protein	46	FBXO46	__SEG__	Chr19	{HomoSapiens}
+ galactoside 2-alpha-L-fucosyltransferase	1	FUT1	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	83	ZNF83	__SEG__	Chr19	{HomoSapiens}
+ G-protein coupled receptor	42	GPR42	__SEG__	Chr19	{HomoSapiens}
+ putative zinc finger protein	56	ZNF56	__SEG__	Chr19	{HomoSapiens}
+ trafficking protein particle complex subunit	2B	TRAPPC2B	__SEG__	Chr19	{HomoSapiens}
+ ribosomal protein SA pseudogene	58	RPSAP58	__SEG__	Chr19	{HomoSapiens}
+ N-formyl peptide receptor	2	FPR2	__SEG__	Chr19	{HomoSapiens}
+ probable G-protein coupled receptor	32	GPR32	__SEG__	Chr19	{HomoSapiens}
+ N-formyl peptide receptor	3	FPR3	__SEG__	Chr19	{HomoSapiens}
+ alpha-(1,3)-fucosyltransferase	5	FUT5	__SEG__	Chr19	{HomoSapiens}
+ transcription factor	jun-B	JUNB	__SEG__	Chr19	{HomoSapiens}
+ sphingosine 1-phosphate receptor 4	precursor	S1PR4	__SEG__	Chr19	{HomoSapiens}
+ sphingosine 1-phosphate receptor	2	S1PR2	__SEG__	Chr19	{HomoSapiens}
+ CCAAT/enhancer-binding protein alpha isoform	a	CEBPA	__SEG__	Chr19	{HomoSapiens}
+ immediate early response gene 2	protein	IER2	__SEG__	Chr19	{HomoSapiens}
+ free fatty acid receptor	1	FFAR1	__SEG__	Chr19	{HomoSapiens}
+ transcription factor jun-D isoform	JunD-FL	JUND	__SEG__	Chr19	{HomoSapiens}
+ nuclear pore glycoprotein	p62	NUP62	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7C2	OR7C2	__SEG__	Chr19	{HomoSapiens}
+ SERTA domain-containing protein	3	SERTAD3	__SEG__	Chr19	{HomoSapiens}
+ SERTA domain-containing protein	1	SERTAD1	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	10H3	OR10H3	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	10H2	OR10H2	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	10H1	OR10H1	__SEG__	Chr19	{HomoSapiens}
+ interferon regulatory factor 2-binding protein	1	IRF2BP1	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	358	ZNF358	__SEG__	Chr19	{HomoSapiens}
+ putative uncharacterized protein	C19orf73	C19orf73	__SEG__	Chr19	{HomoSapiens}
+ protein fem-1 homolog	A	FEM1A	__SEG__	Chr19	{HomoSapiens}
+ vomeronasal type-1 receptor	1	VN1R1	__SEG__	Chr19	{HomoSapiens}
+ paraneoplastic antigen-like protein	8B	PNMA8B	__SEG__	Chr19	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase	29	USP29	__SEG__	Chr19	{HomoSapiens}
+ sphingosine 1-phosphate receptor	5	S1PR5	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7A17	OR7A17	__SEG__	Chr19	{HomoSapiens}
+ testis-specific serine/threonine-protein kinase	6	TSSK6	__SEG__	Chr19	{HomoSapiens}
+ coiled-coil domain-containing protein	8	CCDC8	__SEG__	Chr19	{HomoSapiens}
+ uncharacterized protein	C19orf48	C19orf48	__SEG__	Chr19	{HomoSapiens}
+ baculoviral IAP repeat-containing protein	8	BIRC8	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	526	ZNF526	__SEG__	Chr19	{HomoSapiens}
+ sperm acrosome membrane-associated protein 4	precursor	SPACA4	__SEG__	Chr19	{HomoSapiens}
+ myeloid-associated differentiation	marker	MYADM	__SEG__	Chr19	{HomoSapiens}
+ probable inactive tRNA-specific adenosine deaminase-like protein 3 isoform	1	ADAT3	__SEG__	Chr19	{HomoSapiens}
+ cdc42 effector protein	5	CDC42EP5	__SEG__	Chr19	{HomoSapiens}
+ methyl-CpG-binding domain protein 3-like	1	MBD3L1	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	491	ZNF491	__SEG__	Chr19	{HomoSapiens}
+ EP300-interacting inhibitor of differentiation	2B	EID2B	__SEG__	Chr19	{HomoSapiens}
+ endogenous retrovirus group V member 1 Env polyprotein	precursor	ERVV-1	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	781	ZNF781	__SEG__	Chr19	{HomoSapiens}
+ EP300-interacting inhibitor of differentiation	2	EID2	__SEG__	Chr19	{HomoSapiens}
+ vomeronasal type-1 receptor	2	VN1R2	__SEG__	Chr19	{HomoSapiens}
+ trafficking protein particle complex subunit	5	TRAPPC5	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor	7D2	OR7D2	__SEG__	Chr19	{HomoSapiens}
+ putative transmembrane protein	INAFM1	INAFM1	__SEG__	Chr19	{HomoSapiens}
+ actin-like protein	9	ACTL9	__SEG__	Chr19	{HomoSapiens}
+ E3 ubiquitin-protein ligase ZNRF4	precursor	ZNRF4	__SEG__	Chr19	{HomoSapiens}
+ TIR domain-containing adapter molecule	1	TICAM1	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	497	ZNF497	__SEG__	Chr19	{HomoSapiens}
+ UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8	precursor	B3GNT8	__SEG__	Chr19	{HomoSapiens}
+	cortexin-1	CTXN1	__SEG__	Chr19	{HomoSapiens}
+ regulator of G-protein signaling 9-binding	protein	RGS9BP	__SEG__	Chr19	{HomoSapiens}
+ biogenesis of lysosome-related organelles complex 1 subunit	3	BLOC1S3	__SEG__	Chr19	{HomoSapiens}
+ interferon-inducible GTPase 5 isoform	X1	IRGC	__SEG__	Chr19	{HomoSapiens}
+ endogenous retrovirus group K member 8 Gag	polyprotein-like	LOC105372269	__SEG__	Chr19	{HomoSapiens}
+ endogenous retrovirus group S71 member 1 Env	polyprotein	LOC105372315	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein 837 isoform	X1	ZNF837	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein 345 isoform	X1	ZNF345	__SEG__	Chr19	{HomoSapiens}
+ olfactory receptor 7A5 isoform	X1	OR7A5	__SEG__	Chr19	{HomoSapiens}
+ G-protein coupled receptor 4 isoform	X1	GPR4	__SEG__	Chr19	{HomoSapiens}
+ free fatty acid receptor 2 isoform	X1	FFAR2	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein 260 isoform	X1	ZNF260	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein 581 isoform	X1	ZNF581	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein OZF isoform	X1	ZNF146	__SEG__	Chr19	{HomoSapiens}
+ fukutin-related protein isoform	X1	FKRP	__SEG__	Chr19	{HomoSapiens}
+ gem-associated protein 7 isoform	X1	GEMIN7	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	791-like	LOC107984139	__SEG__	Chr19	{HomoSapiens}
+ methyl-CpG-binding domain protein 3-like	2B	MBD3L2B	__SEG__	Chr19	{HomoSapiens}
+ nuclear factor interleukin-3-regulated	protein-like	LOC107983991	__SEG__	Chr19	{HomoSapiens}
+ zinc finger protein	430-like	LOC105372319	__SEG__	Chr19	{HomoSapiens}
+ uncharacterized protein	LOC107985332	LOC107985332	__SEG__	Chr19	{HomoSapiens}
+ CCAAT/enhancer-binding protein gamma isoform	X1	CEBPG	__SEG__	Chr19	{HomoSapiens}
+		IGKC	__SEG__	Chr2	{HomoSapiens}
+		IGKJ1	__SEG__	Chr2	{HomoSapiens}
+		IGKJ2	__SEG__	Chr2	{HomoSapiens}
+		IGKJ3	__SEG__	Chr2	{HomoSapiens}
+		IGKJ4	__SEG__	Chr2	{HomoSapiens}
+		IGKJ5	__SEG__	Chr2	{HomoSapiens}
+		IGKV2-40	__SEG__	Chr2	{HomoSapiens}
+ C-X-C chemokine receptor type	1	CXCR1	__SEG__	Chr2	{HomoSapiens}
+ alpha-2B adrenergic	receptor	ADRA2B	__SEG__	Chr2	{HomoSapiens}
+ dnaJ homolog subfamily B member	3	DNAJB3	__SEG__	Chr2	{HomoSapiens}
+ testis-specific Y-encoded-like protein	6	TSPYL6	__SEG__	Chr2	{HomoSapiens}
+ olfactory receptor	6B2	OR6B2	__SEG__	Chr2	{HomoSapiens}
+	RAB6C-like	RAB6D	__SEG__	Chr2	{HomoSapiens}
+ G-protein coupled receptor	1	GPR1	__SEG__	Chr2	{HomoSapiens}
+ C1GALT1-specific chaperone 1-like	protein	C1GALT1C1L	__SEG__	Chr2	{HomoSapiens}
+ APC membrane recruitment protein	3	AMER3	__SEG__	Chr2	{HomoSapiens}
+ transmembrane protein	177	TMEM177	__SEG__	Chr2	{HomoSapiens}
+	mesogenin-1	MSGN1	__SEG__	Chr2	{HomoSapiens}
+ dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit	4	OST4	__SEG__	Chr2	{HomoSapiens}
+ pyridoxal phosphate phosphatase	PHOSPHO2	PHOSPHO2	__SEG__	Chr2	{HomoSapiens}
+ N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase	2	B3GNT2	__SEG__	Chr2	{HomoSapiens}
+ G-protein coupled bile acid receptor	1	GPBAR1	__SEG__	Chr2	{HomoSapiens}
+ small integral membrane protein	37	SMIM37	__SEG__	Chr2	{HomoSapiens}
+ potassium voltage-gated channel subfamily F member	1	KCNF1	__SEG__	Chr2	{HomoSapiens}
+ potassium voltage-gated channel subfamily S member	3	KCNS3	__SEG__	Chr2	{HomoSapiens}
+ neurogenic differentiation factor	1	NEUROD1	__SEG__	Chr2	{HomoSapiens}
+ transcription factor	SOX-11	SOX11	__SEG__	Chr2	{HomoSapiens}
+ urocortin	preproprotein	UCN	__SEG__	Chr2	{HomoSapiens}
+ secretogranin-2	precursor	SCG2	__SEG__	Chr2	{HomoSapiens}
+ frizzled-7	precursor	FZD7	__SEG__	Chr2	{HomoSapiens}
+ cyclin-dependent kinase 5 activator	2	CDK5R2	__SEG__	Chr2	{HomoSapiens}
+ N-acetyltransferase	8	NAT8	__SEG__	Chr2	{HomoSapiens}
+ rho-related GTP-binding protein RhoB	precursor	RHOB	__SEG__	Chr2	{HomoSapiens}
+ insulin receptor substrate	1	IRS1	__SEG__	Chr2	{HomoSapiens}
+ G-protein coupled receptor	55	GPR55	__SEG__	Chr2	{HomoSapiens}
+ poly(rC)-binding protein	1	PCBP1	__SEG__	Chr2	{HomoSapiens}
+ POU domain, class 3, transcription factor	3	POU3F3	__SEG__	Chr2	{HomoSapiens}
+ cdc42 effector protein	3	CDC42EP3	__SEG__	Chr2	{HomoSapiens}
+ probable G-protein coupled receptor	75	GPR75	__SEG__	Chr2	{HomoSapiens}
+ probable G-protein coupled receptor	45	GPR45	__SEG__	Chr2	{HomoSapiens}
+ forkhead box protein D4-like	1	FOXD4L1	__SEG__	Chr2	{HomoSapiens}
+ protein	reprimo	RPRM	__SEG__	Chr2	{HomoSapiens}
+ beta-1,3-galactosyltransferase	1	B3GALT1	__SEG__	Chr2	{HomoSapiens}
+ ankyrin repeat domain-containing protein	SOWAHC	SOWAHC	__SEG__	Chr2	{HomoSapiens}
+ transmembrane protein	185B	TMEM185B	__SEG__	Chr2	{HomoSapiens}
+ ras-related protein	Rab-6C	RAB6C	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	C2orf16	C2orf16	__SEG__	Chr2	{HomoSapiens}
+ vesicle transport protein	SFT2C	SFT2D3	__SEG__	Chr2	{HomoSapiens}
+ twist-related protein	2	TWIST2	__SEG__	Chr2	{HomoSapiens}
+ methionine--tRNA ligase, mitochondrial	precursor	MARS2	__SEG__	Chr2	{HomoSapiens}
+ suppressor of cytokine signaling	5	SOCS5	__SEG__	Chr2	{HomoSapiens}
+ lipoyltransferase 1, mitochondrial	precursor	LIPT1	__SEG__	Chr2	{HomoSapiens}
+ tigger transposable element-derived protein	1	TIGD1	__SEG__	Chr2	{HomoSapiens}
+ oxoeicosanoid receptor	1	OXER1	__SEG__	Chr2	{HomoSapiens}
+ tetratricopeptide repeat protein	30A	TTC30A	__SEG__	Chr2	{HomoSapiens}
+ tetratricopeptide repeat protein	30B	TTC30B	__SEG__	Chr2	{HomoSapiens}
+ testis-expressed protein	44	TEX44	__SEG__	Chr2	{HomoSapiens}
+ retroviral-like aspartic protease	1	ASPRV1	__SEG__	Chr2	{HomoSapiens}
+ coiled-coil domain-containing protein	140	CCDC140	__SEG__	Chr2	{HomoSapiens}
+ proline-rich protein	30	PRR30	__SEG__	Chr2	{HomoSapiens}
+ probable G-protein coupled receptor	148	GPR148	__SEG__	Chr2	{HomoSapiens}
+ SERTA domain-containing protein 2 isoform	X1	SERTAD2	__SEG__	Chr2	{HomoSapiens}
+ tudor domain-containing protein 15 isoform	X1	TDRD15	__SEG__	Chr2	{HomoSapiens}
+ disrupted in renal carcinoma protein 1 isoform	X1	DIRC1	__SEG__	Chr2	{HomoSapiens}
+ leucine-rich repeat transmembrane neuronal protein 1 isoform	X1	LRRTM1	__SEG__	Chr2	{HomoSapiens}
+ C-X-C chemokine receptor type 2 isoform	X1	CXCR2	__SEG__	Chr2	{HomoSapiens}
+ lysine-rich coiled-coil protein 1 isoform	X1	KRCC1	__SEG__	Chr2	{HomoSapiens}
+ transmembrane protein 127 isoform	X1	TMEM127	__SEG__	Chr2	{HomoSapiens}
+ atypical chemokine receptor 3 isoform	X1	ACKR3	__SEG__	Chr2	{HomoSapiens}
+ small membrane A-kinase anchor protein isoform	X1	C2orf88	__SEG__	Chr2	{HomoSapiens}
+ V-type proton ATPase subunit E 2 isoform	X1	ATP6V1E2	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	LOC107985773	LOC107985773	__SEG__	Chr2	{HomoSapiens}
+ melanoma-associated antigen	C1-like	LOC101927262	__SEG__	Chr2	{HomoSapiens}
+ adhesive plaque matrix	protein-like	LOC102723730	__SEG__	Chr2	{HomoSapiens}
+ 36.4 kDa proline-rich	protein	LOC107985837	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	LOC107985876	LOC107985876	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	LOC107985946	LOC107985946	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	LOC107985971	LOC107985971	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	LOC107986004	LOC107986004	__SEG__	Chr2	{HomoSapiens}
+ protein FAM84A isoform	X1	FAM84A	__SEG__	Chr2	{HomoSapiens}
+ frizzled-5 isoform	X1	FZD5	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	LOC112268321	LOC112268321	__SEG__	Chr2	{HomoSapiens}
+ uncharacterized protein	FLJ45252	LOC112268437	__SEG__	Chr2	{HomoSapiens}
+ thrombomodulin	precursor	THBD	__SEG__	Chr20	{HomoSapiens}
+ actin-like protein 10	precursor	ACTL10	__SEG__	Chr20	{HomoSapiens}
+ protein	FAM110A	FAM110A	__SEG__	Chr20	{HomoSapiens}
+ somatostatin receptor type	4	SSTR4	__SEG__	Chr20	{HomoSapiens}
+ humanin-like	3	MTRNR2L3	__SEG__	Chr20	{HomoSapiens}
+ alternative prion protein	AltPrp	PRNP	__SEG__	Chr20	{HomoSapiens}
+ MMP24 opposite	strand	MMP24OS	__SEG__	Chr20	{HomoSapiens}
+ protein GDF5OS, mitochondrial	precursor	GDF5OS	__SEG__	Chr20	{HomoSapiens}
+ major centromere autoantigen	B	CENPB	__SEG__	Chr20	{HomoSapiens}
+ insulinoma-associated protein	1	INSM1	__SEG__	Chr20	{HomoSapiens}
+ forkhead box protein	S1	FOXS1	__SEG__	Chr20	{HomoSapiens}
+ CCAAT/enhancer-binding protein beta isoform	a	CEBPB	__SEG__	Chr20	{HomoSapiens}
+ neuropeptides B/W receptor type	2	NPBWR2	__SEG__	Chr20	{HomoSapiens}
+ transcription factor	MafB	MAFB	__SEG__	Chr20	{HomoSapiens}
+ protein phosphatase 1 regulatory subunit	3D	PPP1R3D	__SEG__	Chr20	{HomoSapiens}
+ transcription factor	SOX-12	SOX12	__SEG__	Chr20	{HomoSapiens}
+ prion-like protein doppel	preproprotein	PRND	__SEG__	Chr20	{HomoSapiens}
+ NTF2-related export protein	1	NXT1	__SEG__	Chr20	{HomoSapiens}
+ adenylyltransferase and sulfurtransferase	MOCS3	MOCS3	__SEG__	Chr20	{HomoSapiens}
+ melanocortin receptor	3	MC3R	__SEG__	Chr20	{HomoSapiens}
+ FAST kinase domain-containing protein 5,	mitochondrial	FASTKD5	__SEG__	Chr20	{HomoSapiens}
+ zinc finger CCHC domain-containing protein	3	ZCCHC3	__SEG__	Chr20	{HomoSapiens}
+ class E basic helix-loop-helix protein	23	BHLHE23	__SEG__	Chr20	{HomoSapiens}
+ protein	ABHD16B	ABHD16B	__SEG__	Chr20	{HomoSapiens}
+ putative DPH3 homolog	B	DPH3P1	__SEG__	Chr20	{HomoSapiens}
+ SCP2 sterol-binding domain-containing protein	1	SCP2D1	__SEG__	Chr20	{HomoSapiens}
+ leucine-rich repeat transmembrane protein FLRT3	precursor	FLRT3	__SEG__	Chr20	{HomoSapiens}
+ zinc finger SWIM domain-containing protein 1 isoform	X1	ZSWIM1	__SEG__	Chr20	{HomoSapiens}
+ putative uncharacterized protein	FLJ44790	LOC105369209	__SEG__	Chr20	{HomoSapiens}
+ bladder cancer-associated protein isoform	X1	BLCAP	__SEG__	Chr20	{HomoSapiens}
+ uncharacterized protein	LOC107985381	LOC107985381	__SEG__	Chr20	{HomoSapiens}
+ uncharacterized protein	LOC107984104	LOC107984104	__SEG__	Chr20	{HomoSapiens}
+ uncharacterized protein	LOC107985410	LOC107985410	__SEG__	Chr20	{HomoSapiens}
+ uncharacterized protein	LOC107987285	LOC107987285	__SEG__	Chr20	{HomoSapiens}
+ uncharacterized protein	LOC107985428	LOC107985428	__SEG__	Chr20	{HomoSapiens}
+ uncharacterized protein	LOC107985384	LOC107985384	__SEG__	Chr20	{HomoSapiens}
+ keratin-associated protein	27-1	KRTAP27-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	24-1	KRTAP24-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	19-8	KRTAP19-8	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	20-3	KRTAP20-3	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	25-1	KRTAP25-1	__SEG__	Chr21	{HomoSapiens}
+ uncharacterized protein C21orf62	precursor	C21orf62	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	22-2	KRTAP22-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	21-3	KRTAP21-3	__SEG__	Chr21	{HomoSapiens}
+ uncharacterized protein	C21orf140	C21orf140	__SEG__	Chr21	{HomoSapiens}
+ suppressyn	precursor	ERVH48-1	__SEG__	Chr21	{HomoSapiens}
+ dnaJ homolog subfamily C member	28	DNAJC28	__SEG__	Chr21	{HomoSapiens}
+ putative keratin-associated protein	20-4	KRTAP20-4	__SEG__	Chr21	{HomoSapiens}
+ oligodendrocyte transcription factor	2	OLIG2	__SEG__	Chr21	{HomoSapiens}
+ sodium/myo-inositol	cotransporter	SLC5A3	__SEG__	Chr21	{HomoSapiens}
+	claudin-17	CLDN17	__SEG__	Chr21	{HomoSapiens}
+ histone H2B type	F-S	H2BFS	__SEG__	Chr21	{HomoSapiens}
+ leucine-rich repeat-containing protein 3	precursor	LRRC3	__SEG__	Chr21	{HomoSapiens}
+ oligodendrocyte transcription factor	1	OLIG1	__SEG__	Chr21	{HomoSapiens}
+	claudin-14	CLDN14	__SEG__	Chr21	{HomoSapiens}
+ potassium voltage-gated channel subfamily E member	2	KCNE2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	8-1	KRTAP8-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	11-1	KRTAP11-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	13-1	KRTAP13-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	13-4	KRTAP13-4	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	6-1	KRTAP6-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	6-2	KRTAP6-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	6-3	KRTAP6-3	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	7-1	KRTAP7-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	19-1	KRTAP19-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	19-2	KRTAP19-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	19-3	KRTAP19-3	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	19-4	KRTAP19-4	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	19-5	KRTAP19-5	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein 19-6 isoform	KRTAP19-6-V1	KRTAP19-6	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	19-7	KRTAP19-7	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	20-1	KRTAP20-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	20-2	KRTAP20-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	21-2	KRTAP21-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	21-1	KRTAP21-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	22-1	KRTAP22-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	13-2	KRTAP13-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	13-3	KRTAP13-3	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	15-1	KRTAP15-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	23-1	KRTAP23-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	12-2	KRTAP12-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	12-1	KRTAP12-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-10	KRTAP10-10	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-4	KRTAP10-4	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-6	KRTAP10-6	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-7	KRTAP10-7	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-9	KRTAP10-9	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-1	KRTAP10-1	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-11	KRTAP10-11	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-2	KRTAP10-2	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-5	KRTAP10-5	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-8	KRTAP10-8	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-3	KRTAP10-3	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	12-3	KRTAP12-3	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	12-4	KRTAP12-4	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	10-12	KRTAP10-12	__SEG__	Chr21	{HomoSapiens}
+	claudin-8	CLDN8	__SEG__	Chr21	{HomoSapiens}
+ keratin-associated protein	26-1	KRTAP26-1	__SEG__	Chr21	{HomoSapiens}
+ histone H2B type	F-S-like	LOC102724334	__SEG__	Chr21	{HomoSapiens}
+ uncharacterized protein	C21orf140	LOC102723451	__SEG__	Chr21	{HomoSapiens}
+ uncharacterized protein	LOC105372824	LOC105372824	__SEG__	Chr21	{HomoSapiens}
+ ATP-sensitive inward rectifier potassium channel 15 isoform	X1	KCNJ15	__SEG__	Chr21	{HomoSapiens}
+ nuclear receptor-interacting protein 1 isoform	X1	NRIP1	__SEG__	Chr21	{HomoSapiens}
+ uncharacterized protein	LOC105372798	LOC105372798	__SEG__	Chr21	{HomoSapiens}
+ putative uncharacterized protein encoded by	LINC00205	LOC107985476	__SEG__	Chr21	{HomoSapiens}
+ uncharacterized protein	CH507-42P11.6	CH507-42P11.6	__SEG__	Chr21	{HomoSapiens}
+		IGLC2	__SEG__	Chr22	{HomoSapiens}
+		IGLC3	__SEG__	Chr22	{HomoSapiens}
+		IGLC7	__SEG__	Chr22	{HomoSapiens}
+		IGLJ2	__SEG__	Chr22	{HomoSapiens}
+		IGLJ3	__SEG__	Chr22	{HomoSapiens}
+		IGLJ4	__SEG__	Chr22	{HomoSapiens}
+		IGLJ5	__SEG__	Chr22	{HomoSapiens}
+		IGLJ6	__SEG__	Chr22	{HomoSapiens}
+		IGLJ7	__SEG__	Chr22	{HomoSapiens}
+	sesquipedalian-2	PHETA2	__SEG__	Chr22	{HomoSapiens}
+ olfactory receptor	11H1	OR11H1	__SEG__	Chr22	{HomoSapiens}
+ RIMS-binding protein	3C	RIMBP3C	__SEG__	Chr22	{HomoSapiens}
+ RIMS-binding protein	3B	RIMBP3B	__SEG__	Chr22	{HomoSapiens}
+ ATP synthase subunit g 2,	mitochondrial	ATP5MGL	__SEG__	Chr22	{HomoSapiens}
+ protein SCO2 homolog, mitochondrial	precursor	SCO2	__SEG__	Chr22	{HomoSapiens}
+ histone	H1.0	H1F0	__SEG__	Chr22	{HomoSapiens}
+ polycystic kidney disease and receptor for egg jelly-related protein	precursor	PKDREJ	__SEG__	Chr22	{HomoSapiens}
+ T-complex protein 1 subunit theta-like	2	CCT8L2	__SEG__	Chr22	{HomoSapiens}
+ RIMS-binding protein	3A	RIMBP3	__SEG__	Chr22	{HomoSapiens}
+ protein	Bop	RTL10	__SEG__	Chr22	{HomoSapiens}
+ retrotransposon Gag-like protein	6	RTL6	__SEG__	Chr22	{HomoSapiens}
+ protein phosphatase 1 regulatory subunit 29	precursor	ELFN2	__SEG__	Chr22	{HomoSapiens}
+ testis-specific serine/threonine-protein kinase	2	TSSK2	__SEG__	Chr22	{HomoSapiens}
+ zinc finger protein	280A	ZNF280A	__SEG__	Chr22	{HomoSapiens}
+ zinc finger protein	280B	ZNF280B	__SEG__	Chr22	{HomoSapiens}
+ kelch domain-containing protein	7B	KLHDC7B	__SEG__	Chr22	{HomoSapiens}
+ dnaJ homolog subfamily B member	7	DNAJB7	__SEG__	Chr22	{HomoSapiens}
+ inward rectifier potassium channel	4	KCNJ4	__SEG__	Chr22	{HomoSapiens}
+ uncharacterized protein	LOC100652901	LOC100652901	__SEG__	Chr22	{HomoSapiens}
+ protein Tob2 isoform	X1	TOB2	__SEG__	Chr22	{HomoSapiens}
+ lactosylceramide 4-alpha-galactosyltransferase isoform	X1	A4GALT	__SEG__	Chr22	{HomoSapiens}
+ somatostatin receptor type 3 isoform	X1	SSTR3	__SEG__	Chr22	{HomoSapiens}
+ claudin-5 isoform	X1	CLDN5	__SEG__	Chr22	{HomoSapiens}
+ uncharacterized protein C22orf46 isoform	X1	C22orf46	__SEG__	Chr22	{HomoSapiens}
+ putative POM121-like protein	1	LOC101929738	__SEG__	Chr22	{HomoSapiens}
+ vegetative cell wall protein	gp1-like	LOC107985556	__SEG__	Chr22	{HomoSapiens}
+ zinc finger protein 70 isoform	X1	ZNF70	__SEG__	Chr22	{HomoSapiens}
+ zinc finger BED domain-containing protein 4 isoform	X1	ZBED4	__SEG__	Chr22	{HomoSapiens}
+ transmembrane protein	191A	LOC112268298	__SEG__	Chr22	{HomoSapiens}
+ platelet glycoprotein IX	precursor	GP9	__SEG__	Chr3	{HomoSapiens}
+	syntaxin-19	STX19	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5K1	OR5K1	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5K2	OR5K2	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5H1	OR5H1	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5H2	OR5H2	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5H14	OR5H14	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5H15	OR5H15	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5K3	OR5K3	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5K4	OR5K4	__SEG__	Chr3	{HomoSapiens}
+ putative uncharacterized protein	C3orf56	C3orf56	__SEG__	Chr3	{HomoSapiens}
+ proline-rich protein	23B	PRR23B	__SEG__	Chr3	{HomoSapiens}
+ transmembrane protein	183B	TMEM183B	__SEG__	Chr3	{HomoSapiens}
+ pyrin domain-containing protein	2	PYDC2	__SEG__	Chr3	{HomoSapiens}
+ C-C chemokine receptor type	5	CCR5	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized protein	ARIH2OS	ARIH2OS	__SEG__	Chr3	{HomoSapiens}
+ proline-rich protein	23C	PRR23C	__SEG__	Chr3	{HomoSapiens}
+ proline-rich protein	23A	PRR23A	__SEG__	Chr3	{HomoSapiens}
+ transmembrane protein with metallophosphoesterase domain isoform	2	TMPPE	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized membrane protein C3orf80	precursor	C3orf80	__SEG__	Chr3	{HomoSapiens}
+ zinc finger protein	501	ZNF501	__SEG__	Chr3	{HomoSapiens}
+ C-C chemokine receptor type	1	CCR1	__SEG__	Chr3	{HomoSapiens}
+ atypical chemokine receptor	2	ACKR2	__SEG__	Chr3	{HomoSapiens}
+ serine palmitoyltransferase small subunit	B	SPTSSB	__SEG__	Chr3	{HomoSapiens}
+ 5-hydroxytryptamine receptor	1F	HTR1F	__SEG__	Chr3	{HomoSapiens}
+ leucine-rich repeat neuronal protein 1	precursor	LRRN1	__SEG__	Chr3	{HomoSapiens}
+ hydroxyacyl-thioester dehydratase type 2,	mitochondrial	HTD2	__SEG__	Chr3	{HomoSapiens}
+ xin actin-binding repeat-containing protein 1 isoform	3	XIRP1	__SEG__	Chr3	{HomoSapiens}
+ putative uncharacterized protein	LINC00694	LINC00694	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized protein	NCBP2-AS2	NCBP2-AS2	__SEG__	Chr3	{HomoSapiens}
+ P2Y purinoceptor	1	P2RY1	__SEG__	Chr3	{HomoSapiens}
+ ras-related protein	Rap-2b	RAP2B	__SEG__	Chr3	{HomoSapiens}
+ transcription factor	SOX-2	SOX2	__SEG__	Chr3	{HomoSapiens}
+ transcription factor	SOX-14	SOX14	__SEG__	Chr3	{HomoSapiens}
+ carbohydrate sulfotransferase	2	CHST2	__SEG__	Chr3	{HomoSapiens}
+ 7-alpha-hydroxycholest-4-en-3-one	12-alpha-hydroxylase	CYP8B1	__SEG__	Chr3	{HomoSapiens}
+ platelet glycoprotein V	precursor	GP5	__SEG__	Chr3	{HomoSapiens}
+ C-C chemokine receptor type	8	CCR8	__SEG__	Chr3	{HomoSapiens}
+ G-protein coupled receptor	15	GPR15	__SEG__	Chr3	{HomoSapiens}
+ histone	H1x	H1FX	__SEG__	Chr3	{HomoSapiens}
+ zinc finger protein	80	ZNF80	__SEG__	Chr3	{HomoSapiens}
+ putative RNA-binding protein	15B	RBM15B	__SEG__	Chr3	{HomoSapiens}
+ EPM2A-interacting protein	1	EPM2AIP1	__SEG__	Chr3	{HomoSapiens}
+ SLIT and NTRK-like protein 3	precursor	SLITRK3	__SEG__	Chr3	{HomoSapiens}
+ transmembrane protein 158	precursor	TMEM158	__SEG__	Chr3	{HomoSapiens}
+ tRNA methyltransferase 10 homolog C	precursor	TRMT10C	__SEG__	Chr3	{HomoSapiens}
+ endogenous Bornavirus-like nucleoprotein	2	EBLN2	__SEG__	Chr3	{HomoSapiens}
+ probable G-protein coupled receptor	27	GPR27	__SEG__	Chr3	{HomoSapiens}
+ WD repeat-containing protein	5B	WDR5B	__SEG__	Chr3	{HomoSapiens}
+ melanoma-associated antigen	F1	MAGEF1	__SEG__	Chr3	{HomoSapiens}
+ P2Y purinoceptor	12	P2RY12	__SEG__	Chr3	{HomoSapiens}
+ coiled-coil domain-containing protein	71	CCDC71	__SEG__	Chr3	{HomoSapiens}
+ forkhead box protein	L2	FOXL2	__SEG__	Chr3	{HomoSapiens}
+ zinc finger BED domain-containing protein	2	ZBED2	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized protein	C3orf36	C3orf36	__SEG__	Chr3	{HomoSapiens}
+ ADP-ribosylation factor-like protein	14	ARL14	__SEG__	Chr3	{HomoSapiens}
+ coiled-coil domain-containing protein	54	CCDC54	__SEG__	Chr3	{HomoSapiens}
+ urocortin-2	preproprotein	UCN2	__SEG__	Chr3	{HomoSapiens}
+ three-prime repair exonuclease 1 isoform	b	TREX1	__SEG__	Chr3	{HomoSapiens}
+ 60S ribosomal protein	L39-like	RPL39L	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor	5AC2	OR5AC2	__SEG__	Chr3	{HomoSapiens}
+ probable G-protein coupled receptor	62	GPR62	__SEG__	Chr3	{HomoSapiens}
+ dnaJ homolog subfamily B member	8	DNAJB8	__SEG__	Chr3	{HomoSapiens}
+ protein	FAM43A	FAM43A	__SEG__	Chr3	{HomoSapiens}
+ tripartite motif-containing protein	59	TRIM59	__SEG__	Chr3	{HomoSapiens}
+ zinc finger protein	660	ZNF660	__SEG__	Chr3	{HomoSapiens}
+ dihydrofolate reductase 2,	mitochondrial	DHFR2	__SEG__	Chr3	{HomoSapiens}
+ atypical chemokine receptor	4	ACKR4	__SEG__	Chr3	{HomoSapiens}
+ membrane progestin receptor	epsilon	PAQR9	__SEG__	Chr3	{HomoSapiens}
+ amphoterin-induced protein 3	precursor	AMIGO3	__SEG__	Chr3	{HomoSapiens}
+ C-X-C chemokine receptor type 6 isoform	X1	CXCR6	__SEG__	Chr3	{HomoSapiens}
+ carboxypeptidase N subunit 2 isoform	X1	CPN2	__SEG__	Chr3	{HomoSapiens}
+ olfactory receptor 5H6 isoform	X1	OR5H6	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized protein	LOC105374089	LOC105374089	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized protein	LOC105377021	LOC105377021	__SEG__	Chr3	{HomoSapiens}
+ leucine-rich repeat-containing protein 3B isoform	X1	LRRC3B	__SEG__	Chr3	{HomoSapiens}
+ C-C chemokine receptor type 4 isoform	X1	CCR4	__SEG__	Chr3	{HomoSapiens}
+ serine palmitoyltransferase small subunit B isoform	X1	SPTSSB	__SEG__	Chr3	{HomoSapiens}
+ probable G-protein coupled receptor 160 isoform	X1	GPR160	__SEG__	Chr3	{HomoSapiens}
+ chemokine XC receptor 1 isoform	X1	XCR1	__SEG__	Chr3	{HomoSapiens}
+ probable G-protein coupled receptor 171 isoform	X1	GPR171	__SEG__	Chr3	{HomoSapiens}
+ histamine H1 receptor isoform	X1	HRH1	__SEG__	Chr3	{HomoSapiens}
+ zinc finger protein 860 isoform	X1	ZNF860	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized protein C3orf18 isoform	X3	C3orf18	__SEG__	Chr3	{HomoSapiens}
+ solute carrier family 35 member G2 isoform	X1	SLC35G2	__SEG__	Chr3	{HomoSapiens}
+ lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase isoform	X1	B3GNT5	__SEG__	Chr3	{HomoSapiens}
+ protein O-linked-mannose beta-1,4-N-acetylglucosaminyltransferase 2 isoform	X1	POMGNT2	__SEG__	Chr3	{HomoSapiens}
+ P2Y purinoceptor 14 isoform	X1	P2RY14	__SEG__	Chr3	{HomoSapiens}
+	mucin-1-like	LOC105374301	__SEG__	Chr3	{HomoSapiens}
+ Sjoegren syndrome nuclear autoantigen 1	homolog	LOC107986084	__SEG__	Chr3	{HomoSapiens}
+ endogenous retrovirus group K member 7 Gag	polyprotein	LOC107986113	__SEG__	Chr3	{HomoSapiens}
+ uncharacterized protein	LOC107986175	LOC107986175	__SEG__	Chr3	{HomoSapiens}
+ spermatogenesis-associated protein 12 isoform	X1	SPATA12	__SEG__	Chr3	{HomoSapiens}
+ FOXL2 neighbor protein isoform	X1	FOXL2NB	__SEG__	Chr3	{HomoSapiens}
+ CGG triplet repeat-binding protein 1 isoform	X1	CGGBP1	__SEG__	Chr3	{HomoSapiens}
+ endogenous retrovirus group PABLB member 1 Env	polyprotein	LOC105377641	__SEG__	Chr3	{HomoSapiens}
+ alpha-2C adrenergic	receptor	ADRA2C	__SEG__	Chr4	{HomoSapiens}
+ D(1B) dopamine	receptor	DRD5	__SEG__	Chr4	{HomoSapiens}
+ neuropeptide Y receptor type	2	NPY2R	__SEG__	Chr4	{HomoSapiens}
+ ankyrin repeat domain-containing protein	SOWAHB	SOWAHB	__SEG__	Chr4	{HomoSapiens}
+ DDB1- and CUL4-associated factor 4-like protein	1	DCAF4L1	__SEG__	Chr4	{HomoSapiens}
+ zinc finger CCHC domain-containing protein	23	ZCCHC23	__SEG__	Chr4	{HomoSapiens}
+ phosphatidylinositol N-acetylglucosaminyltransferase subunit	Y	PIGY	__SEG__	Chr4	{HomoSapiens}
+ proactivator polypeptide-like 1	preproprotein	PSAPL1	__SEG__	Chr4	{HomoSapiens}
+	claudin-22	CLDN22	__SEG__	Chr4	{HomoSapiens}
+ disintegrin and metalloproteinase domain-containing protein 29	preproprotein	ADAM29	__SEG__	Chr4	{HomoSapiens}
+ putative	claudin-24	CLDN24	__SEG__	Chr4	{HomoSapiens}
+ toll-like receptor 10 isoform	b	TLR10	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin specific peptidase 17-like family member	25	USP17L25	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	24	USP17L24	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin specific peptidase 17-like family member	26	USP17L26	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	5	USP17L5	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin specific peptidase 17-like family member	27	USP17L27	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin specific peptidase 17-like family member	28	USP17L28	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin specific peptidase 17-like family member	29	USP17L29	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	10	USP17L10	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	12	USP17L12	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	11	USP17L11	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	13	USP17L13	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	17	USP17L17	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	18	USP17L18	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	19	USP17L19	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	20	USP17L20	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	21	USP17L21	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	22	USP17L22	__SEG__	Chr4	{HomoSapiens}
+ ubiquitin specific peptidase 17-like family member	30	USP17L30	__SEG__	Chr4	{HomoSapiens}
+ protein sprouty homolog	1	SPRY1	__SEG__	Chr4	{HomoSapiens}
+ zinc finger protein 42	homolog	ZFP42	__SEG__	Chr4	{HomoSapiens}
+ DDB1- and CUL4-associated factor	16	DCAF16	__SEG__	Chr4	{HomoSapiens}
+ extracellular superoxide dismutase [Cu-Zn]	preproprotein	SOD3	__SEG__	Chr4	{HomoSapiens}
+ heparan sulfate glucosamine 3-O-sulfotransferase 1	precursor	HS3ST1	__SEG__	Chr4	{HomoSapiens}
+ fibroblast growth factor-binding protein 1	precursor	FGFBP1	__SEG__	Chr4	{HomoSapiens}
+ protein atonal homolog	1	ATOH1	__SEG__	Chr4	{HomoSapiens}
+ pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial	precursor	PDHA2	__SEG__	Chr4	{HomoSapiens}
+ protein mab-21-like	2	MAB21L2	__SEG__	Chr4	{HomoSapiens}
+	securin-2	PTTG2	__SEG__	Chr4	{HomoSapiens}
+ acidic leucine-rich nuclear phosphoprotein 32 family member	C	ANP32C	__SEG__	Chr4	{HomoSapiens}
+ biogenesis of lysosome-related organelles complex 1 subunit	4	BLOC1S4	__SEG__	Chr4	{HomoSapiens}
+ something about silencing protein	10	UTP3	__SEG__	Chr4	{HomoSapiens}
+	neurogenin-2	NEUROG2	__SEG__	Chr4	{HomoSapiens}
+ endogenous retrovirus group MER34 member 1 Env polyprotein	precursor	ERVMER34-1	__SEG__	Chr4	{HomoSapiens}
+ fibroblast growth factor-binding protein 2	precursor	FGFBP2	__SEG__	Chr4	{HomoSapiens}
+ transketolase-like protein	2	TKTL2	__SEG__	Chr4	{HomoSapiens}
+ calcium-binding and spermatid-specific protein	1	CABS1	__SEG__	Chr4	{HomoSapiens}
+ glycerol kinase	2	GK2	__SEG__	Chr4	{HomoSapiens}
+ TRAF-interacting protein with FHA domain-containing protein	A	TIFA	__SEG__	Chr4	{HomoSapiens}
+ cytochrome c oxidase subunit 7B2, mitochondrial	precursor	COX7B2	__SEG__	Chr4	{HomoSapiens}
+ tigger transposable element-derived protein	2	TIGD2	__SEG__	Chr4	{HomoSapiens}
+ tigger transposable element-derived protein	4	TIGD4	__SEG__	Chr4	{HomoSapiens}
+ translocating chain-associated membrane protein 1-like	1	TRAM1L1	__SEG__	Chr4	{HomoSapiens}
+ tripartite motif-containing protein	60	TRIM60	__SEG__	Chr4	{HomoSapiens}
+ protein	FAM218A	FAM218A	__SEG__	Chr4	{HomoSapiens}
+ coiled-coil domain-containing protein	96	CCDC96	__SEG__	Chr4	{HomoSapiens}
+ nucleosome assembly protein 1-like	5	NAP1L5	__SEG__	Chr4	{HomoSapiens}
+ cysteine-rich PAK1	inhibitor	CRIPAK	__SEG__	Chr4	{HomoSapiens}
+ uncharacterized protein	LOC389199	LOC389199	__SEG__	Chr4	{HomoSapiens}
+ MORF4 family-associated protein 1-like	1	MRFAP1L1	__SEG__	Chr4	{HomoSapiens}
+ uncharacterized protein	LOC101928548	LOC101928548	__SEG__	Chr4	{HomoSapiens}
+ polyadenylate-binding protein 4-like isoform	X1	PABPC4L	__SEG__	Chr4	{HomoSapiens}
+ Bardet-Biedl syndrome 12 protein isoform	X1	BBS12	__SEG__	Chr4	{HomoSapiens}
+ G protein-regulated inducer of neurite outgrowth 3 isoform	X1	GPRIN3	__SEG__	Chr4	{HomoSapiens}
+ rho-related GTP-binding protein RhoH isoform	X1	RHOH	__SEG__	Chr4	{HomoSapiens}
+ toll-like receptor 1 isoform	X1	TLR1	__SEG__	Chr4	{HomoSapiens}
+ toll-like receptor 2 isoform	X1	TLR2	__SEG__	Chr4	{HomoSapiens}
+ N-alpha-acetyltransferase 11 isoform	X1	NAA11	__SEG__	Chr4	{HomoSapiens}
+ zinc finger protein 518B isoform	X1	ZNF518B	__SEG__	Chr4	{HomoSapiens}
+ uncharacterized protein	LOC107986192	LOC107986192	__SEG__	Chr4	{HomoSapiens}
+ toll-like receptor 6 isoform	X1	TLR6	__SEG__	Chr4	{HomoSapiens}
+ protein FAM200B isoform	X2	FAM200B	__SEG__	Chr4	{HomoSapiens}
+ beta-2 adrenergic	receptor	ADRB2	__SEG__	Chr5	{HomoSapiens}
+ 5-hydroxytryptamine receptor	1A	HTR1A	__SEG__	Chr5	{HomoSapiens}
+ D(1A) dopamine	receptor	DRD1	__SEG__	Chr5	{HomoSapiens}
+ fibronectin type III domain-containing protein	9	FNDC9	__SEG__	Chr5	{HomoSapiens}
+ olfactory receptor	2Y1	OR2Y1	__SEG__	Chr5	{HomoSapiens}
+ ankyrin repeat domain-containing protein	34B	ANKRD34B	__SEG__	Chr5	{HomoSapiens}
+ IgA-inducing protein homolog	precursor	IGIP	__SEG__	Chr5	{HomoSapiens}
+ annexin-2	receptor	ANXA2R	__SEG__	Chr5	{HomoSapiens}
+ beta-actin-like protein	2	ACTBL2	__SEG__	Chr5	{HomoSapiens}
+	profilin-3	PFN3	__SEG__	Chr5	{HomoSapiens}
+ small integral membrane protein	15	SMIM15	__SEG__	Chr5	{HomoSapiens}
+	cortexin-3	CTXN3	__SEG__	Chr5	{HomoSapiens}
+ TRAF-interacting protein with FHA domain-containing protein	B	TIFAB	__SEG__	Chr5	{HomoSapiens}
+ chromosome-associated kinesin	KIF4B	KIF4B	__SEG__	Chr5	{HomoSapiens}
+ mediator of RNA polymerase II transcription subunit	7	MED7	__SEG__	Chr5	{HomoSapiens}
+ proline-rich basic protein	1	PROB1	__SEG__	Chr5	{HomoSapiens}
+ humanin-like	2	MTRNR2L2	__SEG__	Chr5	{HomoSapiens}
+ ectoderm-neural cortex protein 1 isoform	2	ENC1	__SEG__	Chr5	{HomoSapiens}
+ olfactory receptor	2V1	OR2V1	__SEG__	Chr5	{HomoSapiens}
+ zinc finger BED domain-containing protein	3	ZBED3	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized	LOC389332	SMIM32	__SEG__	Chr5	{HomoSapiens}
+ histone cluster 2, H3c	pseudogene	H3.Y	__SEG__	Chr5	{HomoSapiens}
+ rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein	1	FBLL1	__SEG__	Chr5	{HomoSapiens}
+ putative germ cell-less protein-like	1-like	GMCL2	__SEG__	Chr5	{HomoSapiens}
+ alpha-1,3-mannosyl-glycoprotein	2-beta-N-acetylglucosaminyltransferase	MGAT1	__SEG__	Chr5	{HomoSapiens}
+ transcription initiation factor TFIID subunit	9	TAF9	__SEG__	Chr5	{HomoSapiens}
+ forkhead box protein	D1	FOXD1	__SEG__	Chr5	{HomoSapiens}
+ transcription initiation factor TFIID subunit	7	TAF7	__SEG__	Chr5	{HomoSapiens}
+ transcriptional activator protein	Pur-alpha	PURA	__SEG__	Chr5	{HomoSapiens}
+	neurogenin-1	NEUROG1	__SEG__	Chr5	{HomoSapiens}
+ heat shock protein	beta-3	HSPB3	__SEG__	Chr5	{HomoSapiens}
+ brain acid soluble protein	1	BASP1	__SEG__	Chr5	{HomoSapiens}
+ heterogeneous nuclear ribonucleoprotein	A0	HNRNPA0	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-1	precursor	PCDHB1	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-5	precursor	PCDHB5	__SEG__	Chr5	{HomoSapiens}
+ relaxin-3 receptor	1	RXFP3	__SEG__	Chr5	{HomoSapiens}
+ beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase	4	GCNT4	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-10	precursor	PCDHB10	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-11	precursor	PCDHB11	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-12	precursor	PCDHB12	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-13	precursor	PCDHB13	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-14	precursor	PCDHB14	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-15	precursor	PCDHB15	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-2	precursor	PCDHB2	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-3	precursor	PCDHB3	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-4	precursor	PCDHB4	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-6 isoform 1	precursor	PCDHB6	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-7	precursor	PCDHB7	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-9	precursor	PCDHB9	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-8	precursor	PCDHB8	__SEG__	Chr5	{HomoSapiens}
+ taste receptor type 2 member	1	TAS2R1	__SEG__	Chr5	{HomoSapiens}
+ protocadherin beta-16	precursor	PCDHB16	__SEG__	Chr5	{HomoSapiens}
+ protein	ZBED8	ZBED8	__SEG__	Chr5	{HomoSapiens}
+ zinc finger protein 2	homolog	ZFP2	__SEG__	Chr5	{HomoSapiens}
+ tigger transposable element-derived protein	6	TIGD6	__SEG__	Chr5	{HomoSapiens}
+ mitochondrial ornithine transporter	2	SLC25A2	__SEG__	Chr5	{HomoSapiens}
+ testis-specific serine/threonine-protein kinase	1	TSSK1B	__SEG__	Chr5	{HomoSapiens}
+ spermatogenic leucine zipper protein	1	SPZ1	__SEG__	Chr5	{HomoSapiens}
+ small integral membrane protein	3	SMIM3	__SEG__	Chr5	{HomoSapiens}
+ UNC119-binding protein	C5orf30	C5orf30	__SEG__	Chr5	{HomoSapiens}
+ G protein-regulated inducer of neurite outgrowth	1	GPRIN1	__SEG__	Chr5	{HomoSapiens}
+ probable UDP-sugar transporter protein	SLC35A4	SLC35A4	__SEG__	Chr5	{HomoSapiens}
+ dendritic cell nuclear protein	1	DCANP1	__SEG__	Chr5	{HomoSapiens}
+ protein	GAPT	GAPT	__SEG__	Chr5	{HomoSapiens}
+ POU domain, class 5, transcription factor	2	POU5F2	__SEG__	Chr5	{HomoSapiens}
+ ankyrin repeat domain-containing protein SOWAHA	precursor	SOWAHA	__SEG__	Chr5	{HomoSapiens}
+ ferritin, mitochondrial	precursor	FTMT	__SEG__	Chr5	{HomoSapiens}
+ leucine-rich repeat-containing protein 70	precursor	LRRC70	__SEG__	Chr5	{HomoSapiens}
+ probable G-protein coupled receptor	151	GPR151	__SEG__	Chr5	{HomoSapiens}
+ probable G-protein coupled receptor	150	GPR150	__SEG__	Chr5	{HomoSapiens}
+ protein phosphatase inhibitor 2-like protein	3	PPP1R2B	__SEG__	Chr5	{HomoSapiens}
+ olfactory receptor	2V2	OR2V2	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC101929747	LOC101929747	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC105369214	LOC105369214	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC105377746	LOC105377746	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC105379045	LOC105379045	__SEG__	Chr5	{HomoSapiens}
+ putative POM121-like protein	1-like	LOC100652833	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC105379177	LOC105379177	__SEG__	Chr5	{HomoSapiens}
+ short transmembrane mitochondrial protein	1-like	LOC101060024	__SEG__	Chr5	{HomoSapiens}
+ olfactory receptor 4F3/4F16/4F29 isoform	X1	OR4F3	__SEG__	Chr5	{HomoSapiens}
+ putative POM121-like protein	1-like	LOC107986351	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC107986352	LOC107986352	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC107986353	LOC107986353	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC107986354	LOC107986354	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC101929895	LOC101929895	__SEG__	Chr5	{HomoSapiens}
+ putative POM121-like protein	1-like	LOC646652	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC112267934	LOC112267934	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC112267939	LOC112267939	__SEG__	Chr5	{HomoSapiens}
+ uncharacterized protein	LOC112267940	LOC112267940	__SEG__	Chr5	{HomoSapiens}
+ gap junction alpha-1	protein	GJA1	__SEG__	Chr6	{HomoSapiens}
+ 5-hydroxytryptamine receptor	1B	HTR1B	__SEG__	Chr6	{HomoSapiens}
+ 5-hydroxytryptamine receptor	1E	HTR1E	__SEG__	Chr6	{HomoSapiens}
+ claudin-20	precursor	CLDN20	__SEG__	Chr6	{HomoSapiens}
+ small ubiquitin-related modifier	4	SUMO4	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	2J3	OR2J3	__SEG__	Chr6	{HomoSapiens}
+ putative olfactory receptor	2B3	OR2B3	__SEG__	Chr6	{HomoSapiens}
+ NKAP-like	protein	NKAPL	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	C6orf226	C6orf226	__SEG__	Chr6	{HomoSapiens}
+ ret finger protein-like	4B	RFPL4B	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	LOC100128124	HGC6.3	__SEG__	Chr6	{HomoSapiens}
+ protein phosphatase 1 regulatory subunit	3G	PPP1R3G	__SEG__	Chr6	{HomoSapiens}
+ cTAGE family member	9	CTAGE9	__SEG__	Chr6	{HomoSapiens}
+ trophoblast glycoprotein	precursor	TPBG	__SEG__	Chr6	{HomoSapiens}
+ humanin-like	9	MTRNR2L9	__SEG__	Chr6	{HomoSapiens}
+ zinc finger protein	322	ZNF322	__SEG__	Chr6	{HomoSapiens}
+ zinc finger protein	391	ZNF391	__SEG__	Chr6	{HomoSapiens}
+ protein myomixer	precursor	MYMX	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	12D1	OR12D1	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	2J1	OR2J1	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	1F12	OR1F12	__SEG__	Chr6	{HomoSapiens}
+ testis development-related protein	1	TDRG1	__SEG__	Chr6	{HomoSapiens}
+ forkhead box protein	C1	FOXC1	__SEG__	Chr6	{HomoSapiens}
+ proto-oncogene	Mas	MAS1	__SEG__	Chr6	{HomoSapiens}
+ cardiac	phospholamban	PLN	__SEG__	Chr6	{HomoSapiens}
+ transcription factor	SOX-4	SOX4	__SEG__	Chr6	{HomoSapiens}
+ tubulin-specific chaperone	C	TBCC	__SEG__	Chr6	{HomoSapiens}
+ testis-specific Y-encoded-like protein	1	TSPYL1	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4I	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1	HIST1H2AI	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1	HIST1H2AK	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1	HIST1H2AL	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1-C	HIST1H2AC	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1-B/E	HIST1H2AB	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1	HIST1H2AM	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-C/E/F/G/I	HIST1H2BG	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-L	HIST1H2BL	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-N	HIST1H2BN	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-M	HIST1H2BM	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-C/E/F/G/I	HIST1H2BF	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-C/E/F/G/I	HIST1H2BE	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-H	HIST1H2BH	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-C/E/F/G/I	HIST1H2BI	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-C/E/F/G/I	HIST1H2BC	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-O	HIST1H2BO	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3A	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3D	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3C	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3E	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3I	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3G	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3J	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3H	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3B	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4A	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4D	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4F	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4K	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4C	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4H	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4B	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4E	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4L	__SEG__	Chr6	{HomoSapiens}
+ histone H4-like protein type	G	HIST1H4G	__SEG__	Chr6	{HomoSapiens}
+ beta-1,3-galactosyltransferase	4	B3GALT4	__SEG__	Chr6	{HomoSapiens}
+ trace amine-associated receptor	5	TAAR5	__SEG__	Chr6	{HomoSapiens}
+ 12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid	receptor	GPR31	__SEG__	Chr6	{HomoSapiens}
+ histone	H1.2	HIST1H1C	__SEG__	Chr6	{HomoSapiens}
+ histone	H1.3	HIST1H1D	__SEG__	Chr6	{HomoSapiens}
+ histone	H1.4	HIST1H1E	__SEG__	Chr6	{HomoSapiens}
+ histone	H1.5	HIST1H1B	__SEG__	Chr6	{HomoSapiens}
+ histone	H1t	HIST1H1T	__SEG__	Chr6	{HomoSapiens}
+ histone	H1.1	HIST1H1A	__SEG__	Chr6	{HomoSapiens}
+ heat shock 70 kDa protein	1A	HSPA1A	__SEG__	Chr6	{HomoSapiens}
+ heat shock 70 kDa protein	1B	HSPA1B	__SEG__	Chr6	{HomoSapiens}
+ zinc finger and BTB domain-containing protein	22	ZBTB22	__SEG__	Chr6	{HomoSapiens}
+ heat shock 70 kDa protein	1-like	HSPA1L	__SEG__	Chr6	{HomoSapiens}
+ POU domain, class 3, transcription factor	2	POU3F2	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	2B6	OR2B6	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	12D2	OR12D2	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	11A1	OR11A1	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	10C1	OR10C1	__SEG__	Chr6	{HomoSapiens}
+ histone	H3.1	HIST1H3F	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1-B/E	HIST1H2AE	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-J	HIST1H2BJ	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-B	HIST1H2BB	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1	HIST1H2AG	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1-D	HIST1H2AD	__SEG__	Chr6	{HomoSapiens}
+ histone cluster 1,	H2aj	HIST1H2AJ	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	C6orf47	C6orf47	__SEG__	Chr6	{HomoSapiens}
+ prostate and breast cancer overexpressed gene 1	protein	PBOV1	__SEG__	Chr6	{HomoSapiens}
+ testis-specific Y-encoded-like protein	4	TSPYL4	__SEG__	Chr6	{HomoSapiens}
+ histone	H4	HIST1H4J	__SEG__	Chr6	{HomoSapiens}
+ FK506-binding	protein-like	FKBPL	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	2W1	OR2W1	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	2J2	OR2J2	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	2A4	OR2A4	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	14J1	OR14J1	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	12D3	OR12D3	__SEG__	Chr6	{HomoSapiens}
+ splicing factor 3B subunit	5	SF3B5	__SEG__	Chr6	{HomoSapiens}
+ gap junction alpha-10	protein	GJA10	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor	2B2	OR2B2	__SEG__	Chr6	{HomoSapiens}
+ forkhead box protein	Q1	FOXQ1	__SEG__	Chr6	{HomoSapiens}
+ POM121-like protein	2	POM121L2	__SEG__	Chr6	{HomoSapiens}
+ mas-related G-protein coupled receptor	MRG	MAS1L	__SEG__	Chr6	{HomoSapiens}
+ trace amine-associated receptor	8	TAAR8	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-K	HIST1H2BK	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1-H	HIST1H2AH	__SEG__	Chr6	{HomoSapiens}
+ membrane progestin receptor	beta	PAQR8	__SEG__	Chr6	{HomoSapiens}
+ trace amine-associated receptor	1	TAAR1	__SEG__	Chr6	{HomoSapiens}
+ hepatoma-derived growth factor-like protein	1	HDGFL1	__SEG__	Chr6	{HomoSapiens}
+ phosphoglycerate kinase	2	PGK2	__SEG__	Chr6	{HomoSapiens}
+ checkpoint protein	HUS1B	HUS1B	__SEG__	Chr6	{HomoSapiens}
+ zinc finger and BTB domain-containing protein	9	ZBTB9	__SEG__	Chr6	{HomoSapiens}
+ inactive serine protease 35	precursor	PRSS35	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type	1-A	HIST1H2BA	__SEG__	Chr6	{HomoSapiens}
+ histone H2A type	1-A	HIST1H2AA	__SEG__	Chr6	{HomoSapiens}
+ trace amine-associated receptor	9	TAAR9	__SEG__	Chr6	{HomoSapiens}
+ trace amine-associated receptor	6	TAAR6	__SEG__	Chr6	{HomoSapiens}
+ oligodendrocyte transcription factor	3	OLIG3	__SEG__	Chr6	{HomoSapiens}
+ proline-rich protein	18	PRR18	__SEG__	Chr6	{HomoSapiens}
+ kidney-associated antigen	1	KAAG1	__SEG__	Chr6	{HomoSapiens}
+ gap junction beta-7	protein	GJB7	__SEG__	Chr6	{HomoSapiens}
+ E3 ubiquitin-protein ligase	NHLRC1	NHLRC1	__SEG__	Chr6	{HomoSapiens}
+ syncytin-2	preproprotein	ERVFRD-1	__SEG__	Chr6	{HomoSapiens}
+ histone H2B type 1-D isoform	X1	HIST1H2BD	__SEG__	Chr6	{HomoSapiens}
+ zinc finger and BTB domain-containing protein 12 isoform	X1	ZBTB12	__SEG__	Chr6	{HomoSapiens}
+ high mobility group nucleosome-binding domain-containing protein 4 isoform	X1	HMGN4	__SEG__	Chr6	{HomoSapiens}
+ alpha-(1,3)-fucosyltransferase 9 isoform	X1	FUT9	__SEG__	Chr6	{HomoSapiens}
+ transmembrane protein 200A isoform	X1	TMEM200A	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein C6orf141 isoform	X1	C6orf141	__SEG__	Chr6	{HomoSapiens}
+ E3 ubiquitin-protein ligase RNF182 isoform	X1	RNF182	__SEG__	Chr6	{HomoSapiens}
+ protein FAM50B isoform	X1	FAM50B	__SEG__	Chr6	{HomoSapiens}
+ zinc finger CCCH-type domain-containing-like isoform	X1	LOC441155	__SEG__	Chr6	{HomoSapiens}
+ dual specificity protein phosphatase 22 isoform	X1	DUSP22	__SEG__	Chr6	{HomoSapiens}
+ probable G-protein coupled receptor 63 isoform	X1	GPR63	__SEG__	Chr6	{HomoSapiens}
+ FAM10 family protein	At4g22670	LOC107986532	__SEG__	Chr6	{HomoSapiens}
+ putative protein	PRAC2	LOC102724665	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	LOC101927353	LOC101927353	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	LOC107986554	LOC107986554	__SEG__	Chr6	{HomoSapiens}
+ arf-GAP with GTPase, ANK repeat and PH domain-containing protein	2-like	LOC107986596	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor 2H1 isoform	X2	OR2H1	__SEG__	Chr6	{HomoSapiens}
+ olfactory receptor 5V1 isoform	X1	OR5V1	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	C9orf85-like	LOC112267959	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	LOC112267971	LOC112267971	__SEG__	Chr6	{HomoSapiens}
+ uncharacterized protein	LOC102724646	LOC102724646	__SEG__	Chr6	{HomoSapiens}
+ twist-related protein	1	TWIST1	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	9A4	OR9A4	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	9A2	OR9A2	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A14	OR2A14	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	6V1	OR6V1	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A1/2A42	OR2A42	__SEG__	Chr7	{HomoSapiens}
+ rho guanine nucleotide exchange factor	35	ARHGEF35	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A12	OR2A12	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A25	OR2A25	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2F2	OR2F2	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2AE1	OR2AE1	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	6B1	OR6B1	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A1/2A42	OR2A1	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A7	OR2A7	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A2	OR2A2	__SEG__	Chr7	{HomoSapiens}
+ endogenous retrovirus group 3 member 1 Env polyprotein	precursor	ERV3-1	__SEG__	Chr7	{HomoSapiens}
+ cTAGE family member	15	CTAGE15	__SEG__	Chr7	{HomoSapiens}
+ inactive Ufm1-specific protease	1	UFSP1	__SEG__	Chr7	{HomoSapiens}
+ protein	FAM220A	FAM220A	__SEG__	Chr7	{HomoSapiens}
+ G-protein coupled estrogen receptor	1	GPER1	__SEG__	Chr7	{HomoSapiens}
+ hypoxia-inducible lipid droplet-associated	protein	HILPDA	__SEG__	Chr7	{HomoSapiens}
+ leucine-rich repeat neuronal protein 3	precursor	LRRN3	__SEG__	Chr7	{HomoSapiens}
+ leucine zipper protein	6	LUZP6	__SEG__	Chr7	{HomoSapiens}
+ syncytin-1	precursor	ERVW-1	__SEG__	Chr7	{HomoSapiens}
+ transmembrane protein	229A	TMEM229A	__SEG__	Chr7	{HomoSapiens}
+ nuclear protein	2	NUPR2	__SEG__	Chr7	{HomoSapiens}
+	claudin-12	CLDN12	__SEG__	Chr7	{HomoSapiens}
+ humanin-like	6	MTRNR2L6	__SEG__	Chr7	{HomoSapiens}
+ sterile alpha motif domain-containing protein	9	SAMD9	__SEG__	Chr7	{HomoSapiens}
+ ADP-ribosylation factor-like protein	4A	ARL4A	__SEG__	Chr7	{HomoSapiens}
+ carbohydrate sulfotransferase	12	CHST12	__SEG__	Chr7	{HomoSapiens}
+ cTAGE family member	8	CTAGE8	__SEG__	Chr7	{HomoSapiens}
+	claudin-4	CLDN4	__SEG__	Chr7	{HomoSapiens}
+	claudin-3	CLDN3	__SEG__	Chr7	{HomoSapiens}
+ proline-rich protein	15	PRR15	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	10AC1	OR10AC1	__SEG__	Chr7	{HomoSapiens}
+ sterile alpha motif domain-containing protein	9-like	SAMD9L	__SEG__	Chr7	{HomoSapiens}
+ small integral membrane protein 30	precursor	SMIM30	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC100129484	LOC100129484	__SEG__	Chr7	{HomoSapiens}
+ neurosecretory protein VGF	precursor	VGF	__SEG__	Chr7	{HomoSapiens}
+	frizzled-1	FZD1	__SEG__	Chr7	{HomoSapiens}
+ frizzled-9	precursor	FZD9	__SEG__	Chr7	{HomoSapiens}
+ ribonuclease P protein subunit	p20	POP7	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor	2A5	OR2A5	__SEG__	Chr7	{HomoSapiens}
+ TLR4 interactor with leucine rich repeats	precursor	TRIL	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	3	TAS2R3	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	4	TAS2R4	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	16	TAS2R16	__SEG__	Chr7	{HomoSapiens}
+ transmembrane protein	140	TMEM140	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	5	TAS2R5	__SEG__	Chr7	{HomoSapiens}
+ poly(A) polymerase	beta	PAPOLB	__SEG__	Chr7	{HomoSapiens}
+ leucine-rich repeat-containing protein 4	precursor	LRRC4	__SEG__	Chr7	{HomoSapiens}
+ neurogenic differentiation factor	6	NEUROD6	__SEG__	Chr7	{HomoSapiens}
+ leucine-rich repeat-containing protein	61	LRRC61	__SEG__	Chr7	{HomoSapiens}
+ E3 ubiquitin-protein ligase	TRIM56	TRIM56	__SEG__	Chr7	{HomoSapiens}
+ dnaJ homolog subfamily C member 30	precursor	DNAJC30	__SEG__	Chr7	{HomoSapiens}
+ transmembrane protein	60	TMEM60	__SEG__	Chr7	{HomoSapiens}
+ transcriptional activator protein	Pur-beta	PURB	__SEG__	Chr7	{HomoSapiens}
+ ZBED6 C-terminal-like	protein	ZBED6CL	__SEG__	Chr7	{HomoSapiens}
+ Krueppel-like factor	14	KLF14	__SEG__	Chr7	{HomoSapiens}
+ E3 ubiquitin-protein ligase RNF133	precursor	RNF133	__SEG__	Chr7	{HomoSapiens}
+ dual specificity protein phosphatase	CDC14C	CDC14C	__SEG__	Chr7	{HomoSapiens}
+ testis-expressed protein	47	TEX47	__SEG__	Chr7	{HomoSapiens}
+ fer3-like	protein	FERD3L	__SEG__	Chr7	{HomoSapiens}
+ GTPase IMAP family member	7	GIMAP7	__SEG__	Chr7	{HomoSapiens}
+ coiled-coil domain-containing protein	71L	CCDC71L	__SEG__	Chr7	{HomoSapiens}
+ ribose-phosphate pyrophosphokinase	3	PRPS1L1	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	38	TAS2R38	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	39	TAS2R39	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	40	TAS2R40	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	41	TAS2R41	__SEG__	Chr7	{HomoSapiens}
+ taste receptor type 2 member	60	TAS2R60	__SEG__	Chr7	{HomoSapiens}
+ class A basic helix-loop-helix protein	15	BHLHA15	__SEG__	Chr7	{HomoSapiens}
+ cTAGE family member	6	CTAGE6	__SEG__	Chr7	{HomoSapiens}
+ POM121-like protein	12	POM121L12	__SEG__	Chr7	{HomoSapiens}
+ RING finger protein 148	precursor	RNF148	__SEG__	Chr7	{HomoSapiens}
+ cTAGE family member	4	CTAGE4	__SEG__	Chr7	{HomoSapiens}
+		TRBJ1-1	__SEG__	Chr7	{HomoSapiens}
+		TRBJ1-2	__SEG__	Chr7	{HomoSapiens}
+		TRBJ1-3	__SEG__	Chr7	{HomoSapiens}
+		TRBJ1-4	__SEG__	Chr7	{HomoSapiens}
+		TRBJ1-5	__SEG__	Chr7	{HomoSapiens}
+		TRBJ1-6	__SEG__	Chr7	{HomoSapiens}
+		TRBJ2-1	__SEG__	Chr7	{HomoSapiens}
+		TRBJ2-2	__SEG__	Chr7	{HomoSapiens}
+		TRBJ2-3	__SEG__	Chr7	{HomoSapiens}
+		TRBJ2-4	__SEG__	Chr7	{HomoSapiens}
+		TRBJ2-5	__SEG__	Chr7	{HomoSapiens}
+		TRBJ2-6	__SEG__	Chr7	{HomoSapiens}
+		TRBJ2-7	__SEG__	Chr7	{HomoSapiens}
+		TRGJ1	__SEG__	Chr7	{HomoSapiens}
+		TRGJ2	__SEG__	Chr7	{HomoSapiens}
+		TRGJP1	__SEG__	Chr7	{HomoSapiens}
+		TRGJP2	__SEG__	Chr7	{HomoSapiens}
+		TRGJP	__SEG__	Chr7	{HomoSapiens}
+ metallo-beta-lactamase domain-containing protein 1 isoform	X1	MBLAC1	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC100996365	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ92257	LOC100996414	__SEG__	Chr7	{HomoSapiens}
+ cyclic AMP-responsive element-binding protein 5 isoform	X7	CREB5	__SEG__	Chr7	{HomoSapiens}
+ olfactory receptor 2F1 isoform	X1	OR2F1	__SEG__	Chr7	{HomoSapiens}
+ probable G-protein coupled receptor 22 isoform	X1	GPR22	__SEG__	Chr7	{HomoSapiens}
+ transmembrane protein 184A isoform	X1	TMEM184A	__SEG__	Chr7	{HomoSapiens}
+ protein ELFN1 isoform	X1	ELFN1	__SEG__	Chr7	{HomoSapiens}
+ probable G-protein coupled receptor 85 isoform	X1	GPR85	__SEG__	Chr7	{HomoSapiens}
+ fidgetin-like protein 1 isoform	X1	FIGNL1	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	FLJ20712	FLJ20712	__SEG__	Chr7	{HomoSapiens}
+ enolase-phosphatase	E1	LOC107986752	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC107986755	LOC107986755	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC107986791	LOC107986791	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ46235	LOC107986794	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC107986797	LOC107986797	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC107986803	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC107986805	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC107986810	LOC107986810	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ46204	LOC105379752	__SEG__	Chr7	{HomoSapiens}
+ muscarinic acetylcholine receptor M2 isoform	X1	CHRM2	__SEG__	Chr7	{HomoSapiens}
+ protein FAM200A isoform	X1	FAM200A	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC107986729	__SEG__	Chr7	{HomoSapiens}
+ protein enabled	homolog	LOC112267983	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC112267991	LOC112267991	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC112267992	LOC112267992	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112267996	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC107986801	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112267997	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112268000	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112268001	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112268002	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112268003	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112268004	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112267919	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ44672	LOC112268005	__SEG__	Chr7	{HomoSapiens}
+ putative uncharacterized protein	FLJ92257	LOC107986804	__SEG__	Chr7	{HomoSapiens}
+ uncharacterized protein	LOC112268013	LOC112268013	__SEG__	Chr7	{HomoSapiens}
+ corticoliberin	preproprotein	CRH	__SEG__	Chr8	{HomoSapiens}
+ olfactory receptor	4F21	OR4F21	__SEG__	Chr8	{HomoSapiens}
+ uncharacterized protein	C8orf48	C8orf48	__SEG__	Chr8	{HomoSapiens}
+ sodium/bile acid cotransporter 5	precursor	SLC10A5	__SEG__	Chr8	{HomoSapiens}
+ putative uncharacterized protein	C8orf49	C8orf49	__SEG__	Chr8	{HomoSapiens}
+ peroxisome biogenesis factor	2	PEX2	__SEG__	Chr8	{HomoSapiens}
+ COMM domain-containing protein	5	COMMD5	__SEG__	Chr8	{HomoSapiens}
+ putative POU domain, class 5, transcription factor	1B	POU5F1B	__SEG__	Chr8	{HomoSapiens}
+ inactive ubiquitin carboxyl-terminal hydrolase 17-like protein	7	USP17L7	__SEG__	Chr8	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	3	USP17L3	__SEG__	Chr8	{HomoSapiens}
+ inactive ubiquitin carboxyl-terminal hydrolase 17-like protein	8	USP17L8	__SEG__	Chr8	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 17-like protein	1	USP17L1	__SEG__	Chr8	{HomoSapiens}
+ inactive ubiquitin carboxyl-terminal hydrolase 17-like protein	4	USP17L4	__SEG__	Chr8	{HomoSapiens}
+ CCAAT/enhancer-binding protein	delta	CEBPD	__SEG__	Chr8	{HomoSapiens}
+ neuropeptides B/W receptor type	1	NPBWR1	__SEG__	Chr8	{HomoSapiens}
+ G-protein coupled receptor	20	GPR20	__SEG__	Chr8	{HomoSapiens}
+ proto-oncogene serine/threonine-protein kinase	mos	MOS	__SEG__	Chr8	{HomoSapiens}
+ zinc fingers and homeoboxes protein	1	ZHX1	__SEG__	Chr8	{HomoSapiens}
+ paraneoplastic antigen	Ma2	PNMA2	__SEG__	Chr8	{HomoSapiens}
+ zinc finger protein 623 isoform	1	ZNF623	__SEG__	Chr8	{HomoSapiens}
+ ribosome biogenesis regulatory protein	homolog	RRS1	__SEG__	Chr8	{HomoSapiens}
+ activity-regulated cytoskeleton-associated	protein	ARC	__SEG__	Chr8	{HomoSapiens}
+ tRNA wybutosine-synthesizing protein 2	homolog	TRMT12	__SEG__	Chr8	{HomoSapiens}
+ transcriptional and immune response	regulator	TCIM	__SEG__	Chr8	{HomoSapiens}
+ potassium voltage-gated channel subfamily S member	2	KCNS2	__SEG__	Chr8	{HomoSapiens}
+ pleckstrin homology domain-containing family F member	2	PLEKHF2	__SEG__	Chr8	{HomoSapiens}
+ tigger transposable element-derived protein	5	TIGD5	__SEG__	Chr8	{HomoSapiens}
+ testis-specific Y-encoded-like protein	5	TSPYL5	__SEG__	Chr8	{HomoSapiens}
+ solute carrier family 35 member	G5	SLC35G5	__SEG__	Chr8	{HomoSapiens}
+ class E basic helix-loop-helix protein	22	BHLHE22	__SEG__	Chr8	{HomoSapiens}
+ DDB1- and CUL4-associated factor 4-like protein	2	DCAF4L2	__SEG__	Chr8	{HomoSapiens}
+ transmembrane protein	74	TMEM74	__SEG__	Chr8	{HomoSapiens}
+ zinc finger protein 41	homolog	ZFP41	__SEG__	Chr8	{HomoSapiens}
+	claudin-23	CLDN23	__SEG__	Chr8	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase	17	USP17L2	__SEG__	Chr8	{HomoSapiens}
+ transcription factor	MafA	MAFA	__SEG__	Chr8	{HomoSapiens}
+ putative exonuclease	GOR	LOC100288562	__SEG__	Chr8	{HomoSapiens}
+ zinc fingers and homeoboxes protein 2 isoform	X1	ZHX2	__SEG__	Chr8	{HomoSapiens}
+ putative exonuclease	GOR	LOC101929601	__SEG__	Chr8	{HomoSapiens}
+ putative exonuclease	GOR	LOC101929627	__SEG__	Chr8	{HomoSapiens}
+ arylamine N-acetyltransferase 2 isoform	X1	NAT2	__SEG__	Chr8	{HomoSapiens}
+ small integral membrane protein 18 isoform	X1	SMIM18	__SEG__	Chr8	{HomoSapiens}
+ glutamate-rich protein 1 isoform	X21	ERICH1	__SEG__	Chr8	{HomoSapiens}
+ RNA-binding protein 12B isoform	X1	RBM12B	__SEG__	Chr8	{HomoSapiens}
+ protein phosphatase 1 regulatory subunit 3B isoform	X1	PPP1R3B	__SEG__	Chr8	{HomoSapiens}
+ protein FAM110B isoform	X1	FAM110B	__SEG__	Chr8	{HomoSapiens}
+ kelch repeat and BTB domain-containing protein 11 isoform	X1	KBTBD11	__SEG__	Chr8	{HomoSapiens}
+ proline-rich proteoglycan	2-like	LOC107986876	__SEG__	Chr8	{HomoSapiens}
+ grainyhead-like protein 2 homolog isoform	X3	GRHL2	__SEG__	Chr8	{HomoSapiens}
+ uncharacterized protein	LOC105375683	LOC105375683	__SEG__	Chr8	{HomoSapiens}
+ interferon alpha-2	precursor	IFNA2	__SEG__	Chr9	{HomoSapiens}
+ aldehyde dehydrogenase X, mitochondrial	precursor	ALDH1B1	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13C4	OR13C4	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	5C1	OR5C1	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13C9	OR13C9	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13C3	OR13C3	__SEG__	Chr9	{HomoSapiens}
+ tumor suppressor candidate gene 1	protein	TUSC1	__SEG__	Chr9	{HomoSapiens}
+ notch-regulated ankyrin repeat-containing	protein	NRARP	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1J1	OR1J1	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1J4	OR1J4	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1L6	OR1L6	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1N2	OR1N2	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13C2	OR13C2	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13C5	OR13C5	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13C8	OR13C8	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13D1	OR13D1	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13F1	OR13F1	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	13J1	OR13J1	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1L3	OR1L3	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1L4	OR1L4	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1L1	OR1L1	__SEG__	Chr9	{HomoSapiens}
+ forkhead box protein	B2	FOXB2	__SEG__	Chr9	{HomoSapiens}
+ histidine-rich carboxyl terminus protein	1	HRCT1	__SEG__	Chr9	{HomoSapiens}
+ apical junction component 1	homolog	AJM1	__SEG__	Chr9	{HomoSapiens}
+ forkhead box protein D4-like	6	FOXD4L6	__SEG__	Chr9	{HomoSapiens}
+ beta-1,3-galactosyl-O-glycosyl-glycoprotein	beta-1,6-N-acetylglucosaminyltransferase	GCNT1	__SEG__	Chr9	{HomoSapiens}
+ zinc finger protein	883	ZNF883	__SEG__	Chr9	{HomoSapiens}
+ forkhead box protein D4-like	5	FOXD4L5	__SEG__	Chr9	{HomoSapiens}
+ zinc finger and BTB domain-containing protein	43	ZBTB43	__SEG__	Chr9	{HomoSapiens}
+ small regulatory polypeptide of amino acid	response	SPAAR	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC266655	BRD3OS	__SEG__	Chr9	{HomoSapiens}
+ growth arrest-specific protein 1	precursor	GAS1	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-5	precursor	IFNA5	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-8	precursor	IFNA8	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-10	precursor	IFNA10	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-14	precursor	IFNA14	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-16	precursor	IFNA16	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-21	precursor	IFNA21	__SEG__	Chr9	{HomoSapiens}
+ interferon beta	precursor	IFNB1	__SEG__	Chr9	{HomoSapiens}
+ interferon omega-1	precursor	IFNW1	__SEG__	Chr9	{HomoSapiens}
+ cAMP-dependent protein kinase catalytic subunit	gamma	PRKACG	__SEG__	Chr9	{HomoSapiens}
+ forkhead box protein	E1	FOXE1	__SEG__	Chr9	{HomoSapiens}
+ sphingosine 1-phosphate receptor	3	S1PR3	__SEG__	Chr9	{HomoSapiens}
+ probable G-protein coupled receptor	21	GPR21	__SEG__	Chr9	{HomoSapiens}
+ T-cell acute lymphocytic leukemia protein	2	TAL2	__SEG__	Chr9	{HomoSapiens}
+	calicin	CCIN	__SEG__	Chr9	{HomoSapiens}
+ ras-related GTP-binding protein	A	RRAGA	__SEG__	Chr9	{HomoSapiens}
+ zinc finger and BTB domain-containing protein	6	ZBTB6	__SEG__	Chr9	{HomoSapiens}
+ actin-like protein	7B	ACTL7B	__SEG__	Chr9	{HomoSapiens}
+ actin-like protein	7A	ACTL7A	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-1/13	precursor	IFNA13	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1N1	OR1N1	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1Q1	OR1Q1	__SEG__	Chr9	{HomoSapiens}
+ dolichol	kinase	DOLK	__SEG__	Chr9	{HomoSapiens}
+ GTP-binding protein	Di-Ras2	DIRAS2	__SEG__	Chr9	{HomoSapiens}
+	torsin-4A	TOR4A	__SEG__	Chr9	{HomoSapiens}
+ kelch-like protein	9	KLHL9	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	2S2	OR2S2	__SEG__	Chr9	{HomoSapiens}
+ interferon kappa	precursor	IFNK	__SEG__	Chr9	{HomoSapiens}
+ zinc finger and BTB domain-containing protein	26	ZBTB26	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-6	precursor	IFNA6	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-7	precursor	IFNA7	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-4	precursor	IFNA4	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-17	precursor	IFNA17	__SEG__	Chr9	{HomoSapiens}
+ interferon alpha-1/13	precursor	IFNA1	__SEG__	Chr9	{HomoSapiens}
+ haloacid dehalogenase-like hydrolase domain-containing protein	3	HDHD3	__SEG__	Chr9	{HomoSapiens}
+ RING finger protein	208	RNF208	__SEG__	Chr9	{HomoSapiens}
+ 39S ribosomal protein L41,	mitochondrial	MRPL41	__SEG__	Chr9	{HomoSapiens}
+ solute carrier family 25 member	51	SLC25A51	__SEG__	Chr9	{HomoSapiens}
+ transmembrane protein	203	TMEM203	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	1K1	OR1K1	__SEG__	Chr9	{HomoSapiens}
+ protein	FAM122A	FAM122A	__SEG__	Chr9	{HomoSapiens}
+ calcineurin subunit B type	2	PPP3R2	__SEG__	Chr9	{HomoSapiens}
+ ribonuclease P protein subunit p25-like	protein	RPP25L	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	C9orf66	C9orf66	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	C9orf163	C9orf163	__SEG__	Chr9	{HomoSapiens}
+ transcription initiation factor TFIID subunit	1-like	TAF1L	__SEG__	Chr9	{HomoSapiens}
+ interferon epsilon	precursor	IFNE	__SEG__	Chr9	{HomoSapiens}
+ orexigenic neuropeptide QRFP	preproprotein	QRFP	__SEG__	Chr9	{HomoSapiens}
+ adropin	precursor	ENHO	__SEG__	Chr9	{HomoSapiens}
+ forkhead box protein D4-like	3	FOXD4L3	__SEG__	Chr9	{HomoSapiens}
+ forkhead box protein D4-like	4	FOXD4L4	__SEG__	Chr9	{HomoSapiens}
+ immediate early response gene 5-like	protein	IER5L	__SEG__	Chr9	{HomoSapiens}
+ phospholipid phosphatase	6	PLPP6	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor	2K2	OR2K2	__SEG__	Chr9	{HomoSapiens}
+ forkhead box protein	D4	FOXD4	__SEG__	Chr9	{HomoSapiens}
+ transmembrane protein	215	TMEM215	__SEG__	Chr9	{HomoSapiens}
+ zinc finger and BTB domain-containing protein 5 isoform	X1	ZBTB5	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC100132874	LOC100132874	__SEG__	Chr9	{HomoSapiens}
+ probable E3 ubiquitin-protein ligase RNF183 isoform	X1	RNF183	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor 1L8 isoform	X1	OR1L8	__SEG__	Chr9	{HomoSapiens}
+ leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 2 isoform	X1	LINGO2	__SEG__	Chr9	{HomoSapiens}
+ E3 ubiquitin-protein ligase TRIM32 isoform	X1	TRIM32	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor 1B1 isoform	X1	OR1B1	__SEG__	Chr9	{HomoSapiens}
+ nuclear factor interleukin-3-regulated protein isoform	X1	NFIL3	__SEG__	Chr9	{HomoSapiens}
+ myogenesis-regulating glycosidase isoform	X1	MYORG	__SEG__	Chr9	{HomoSapiens}
+ recQ-mediated genome instability protein 1 isoform	X1	RMI1	__SEG__	Chr9	{HomoSapiens}
+ transmembrane protein 246 isoform	X1	TMEM246	__SEG__	Chr9	{HomoSapiens}
+ protein phosphatase 1 regulatory subunit 26 isoform	X1	PPP1R26	__SEG__	Chr9	{HomoSapiens}
+ zinc finger protein	658B-like	LOC107984126	__SEG__	Chr9	{HomoSapiens}
+ tubulin beta	chain-like	LOC107987035	__SEG__	Chr9	{HomoSapiens}
+ phosphatidylinositol 4,5-bisphosphate 5-phosphatase	A-like	LOC107987042	__SEG__	Chr9	{HomoSapiens}
+ thymosin	beta-11-like	LOC107987048	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC107987096	LOC107987096	__SEG__	Chr9	{HomoSapiens}
+ prothymosin	alpha-like	LOC728026	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC105376204	LOC105376204	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC107987125	LOC107987125	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC100996574	LOC100996574	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC107987142	LOC107987142	__SEG__	Chr9	{HomoSapiens}
+ olfactory receptor 1J2 isoform	X1	OR1J2	__SEG__	Chr9	{HomoSapiens}
+ transmembrane protein 250 isoform	X1	TMEM250	__SEG__	Chr9	{HomoSapiens}
+ coiled-coil domain-containing protein	86-like	LOC107987004	__SEG__	Chr9	{HomoSapiens}
+	formin-2-like	LOC107987070	__SEG__	Chr9	{HomoSapiens}
+ uncharacterized protein	LOC112268052	LOC112268052	__SEG__	Chr9	{HomoSapiens}
+ POU domain, class 3, transcription factor	4	POU3F4	__SEG__	ChrX	{HomoSapiens}
+ type-2 angiotensin II	receptor	AGTR2	__SEG__	ChrX	{HomoSapiens}
+ retrotransposon Gag-like protein	4	RTL4	__SEG__	ChrX	{HomoSapiens}
+ olfactory receptor	13H1	OR13H1	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	6	TCEAL6	__SEG__	ChrX	{HomoSapiens}
+ factor VIII intron 22	protein	F8A2	__SEG__	ChrX	{HomoSapiens}
+ factor VIII intron 22	protein	F8A3	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	10	MAGEA10	__SEG__	ChrX	{HomoSapiens}
+	spindlin-4	SPIN4	__SEG__	ChrX	{HomoSapiens}
+ polyadenylate-binding protein 1-like	2	PABPC1L2A	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	5	TCEAL5	__SEG__	ChrX	{HomoSapiens}
+ DDB1- and CUL4-associated factor 12-like protein	2	DCAF12L2	__SEG__	ChrX	{HomoSapiens}
+ putative protein	FAM47C	FAM47C	__SEG__	ChrX	{HomoSapiens}
+ DDB1- and CUL4-associated factor 8-like protein	1	DCAF8L1	__SEG__	ChrX	{HomoSapiens}
+ histone H2A-Bbd type	1	H2AFB1	__SEG__	ChrX	{HomoSapiens}
+ histone H2A-Bbd type	2/3	H2AFB2	__SEG__	ChrX	{HomoSapiens}
+ retrotransposon Gag-like protein	5	RTL5	__SEG__	ChrX	{HomoSapiens}
+ phosphoglycerate mutase	4	PGAM4	__SEG__	ChrX	{HomoSapiens}
+ ras-related protein	Rab-40A-like	RAB40AL	__SEG__	ChrX	{HomoSapiens}
+ polyadenylate-binding protein 1-like	2	PABPC1L2B	__SEG__	ChrX	{HomoSapiens}
+ retrotransposon Gag-like protein	8B	RTL8C	__SEG__	ChrX	{HomoSapiens}
+ retrotransposon Gag-like protein	8B	RTL8B	__SEG__	ChrX	{HomoSapiens}
+ protein	BEX4	BEX4	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	9	MAGEA9B	__SEG__	ChrX	{HomoSapiens}
+ probable G-protein coupled receptor	34	GPR34	__SEG__	ChrX	{HomoSapiens}
+ gap junction beta-1	protein	GJB1	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B16	MAGEB16	__SEG__	ChrX	{HomoSapiens}
+ ankyrin repeat domain-containing protein	SOWAHD	SOWAHD	__SEG__	ChrX	{HomoSapiens}
+ ataxin-3-like	protein	ATXN3L	__SEG__	ChrX	{HomoSapiens}
+ putative transcription factor SPT20 homolog-like 2	precursor	SUPT20HL2	__SEG__	ChrX	{HomoSapiens}
+ transcription factor SPT20 homolog-like 1	precursor	SUPT20HL1	__SEG__	ChrX	{HomoSapiens}
+ mortality factor 4-like protein	2	MORF4L2	__SEG__	ChrX	{HomoSapiens}
+ zinc finger CCHC domain-containing protein	18	ZCCHC18	__SEG__	ChrX	{HomoSapiens}
+ SLIT and NTRK-like protein 2	precursor	SLITRK2	__SEG__	ChrX	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase	27	USP27X	__SEG__	ChrX	{HomoSapiens}
+ RNA-binding motif protein,	X-linked-like-3	RBMXL3	__SEG__	ChrX	{HomoSapiens}
+ protein	BEX5	BEX5	__SEG__	ChrX	{HomoSapiens}
+ small integral membrane protein	10	SMIM10	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	12	MAGEA12	__SEG__	ChrX	{HomoSapiens}
+ armadillo repeat-containing X-linked protein	5	ARMCX5	__SEG__	ChrX	{HomoSapiens}
+	claudin-2	CLDN2	__SEG__	ChrX	{HomoSapiens}
+ zinc finger BED domain-containing protein	1	ZBED1	__SEG__	ChrX	{HomoSapiens}
+ transcriptional regulator	Kaiso	ZBTB33	__SEG__	ChrX	{HomoSapiens}
+ humanin-like	10	MTRNR2L10	__SEG__	ChrX	{HomoSapiens}
+ putative testis-expressed protein	13C	TEX13C	__SEG__	ChrX	{HomoSapiens}
+ ras-related protein	Rab-9A	RAB9A	__SEG__	ChrX	{HomoSapiens}
+ mitochondrial pyruvate carrier 1-like	protein	MPC1L	__SEG__	ChrX	{HomoSapiens}
+ putative uncharacterized protein	TRPC5OS	TRPC5OS	__SEG__	ChrX	{HomoSapiens}
+ armadillo repeat-containing X-linked protein	4	ARMCX4	__SEG__	ChrX	{HomoSapiens}
+ uncharacterized protein	LOC389895	LOC389895	__SEG__	ChrX	{HomoSapiens}
+ ferritin, heavy polypeptide-like	18	FTH1P18	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B5	MAGEB5	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B17	MAGEB17	__SEG__	ChrX	{HomoSapiens}
+ cysteinyl leukotriene receptor	1	CYSLTR1	__SEG__	ChrX	{HomoSapiens}
+ NLR family pyrin domain-containing protein	2B	NLRP2B	__SEG__	ChrX	{HomoSapiens}
+ protein	FAM156A/FAM156B	FAM156B	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	2	MAGEA2B	__SEG__	ChrX	{HomoSapiens}
+ negative regulator of P-body	association	NBDY	__SEG__	ChrX	{HomoSapiens}
+ small integral membrane protein 10-like protein	2B	SMIM10L2B	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	7	TCEAL7	__SEG__	ChrX	{HomoSapiens}
+ nuclear cap-binding protein subunit	2-like	NCBP2L	__SEG__	ChrX	{HomoSapiens}
+ protein BHLHb9	Bhlhb9	ARMCX5-GPRASP2	__SEG__	ChrX	{HomoSapiens}
+ DDB1- and CUL4-associated factor 8-like protein	2	DCAF8L2	__SEG__	ChrX	{HomoSapiens}
+ coiled-coil domain-containing protein	160	CCDC160	__SEG__	ChrX	{HomoSapiens}
+ long intergenic non-protein coding RNA	890	SERTM2	__SEG__	ChrX	{HomoSapiens}
+ paraneoplastic antigen	Ma6F	PNMA6F	__SEG__	ChrX	{HomoSapiens}
+ centromere protein V like	3	CENPVL3	__SEG__	ChrX	{HomoSapiens}
+ centromere protein V like	1	CENPVL1	__SEG__	ChrX	{HomoSapiens}
+ centromere protein V like	2	CENPVL2	__SEG__	ChrX	{HomoSapiens}
+ TEX13 family member	D	TEX13D	__SEG__	ChrX	{HomoSapiens}
+ embryonic testis differentiation homolog	C	ETDC	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B1	MAGEB1	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B2	MAGEB2	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B3	MAGEB3	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B4	MAGEB4	__SEG__	ChrX	{HomoSapiens}
+ P2Y purinoceptor	4	P2RY4	__SEG__	ChrX	{HomoSapiens}
+ transmembrane protein	187	TMEM187	__SEG__	ChrX	{HomoSapiens}
+ cerebellar degeneration-related antigen	1	CDR1	__SEG__	ChrX	{HomoSapiens}
+ nucleosome assembly protein 1-like	3	NAP1L3	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	1	TCEAL1	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	1	MAGEA1	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	3	MAGEA3	__SEG__	ChrX	{HomoSapiens}
+ transcription factor	SOX-3	SOX3	__SEG__	ChrX	{HomoSapiens}
+ protein sprouty homolog	3	SPRY3	__SEG__	ChrX	{HomoSapiens}
+ RING finger protein	113A	RNF113A	__SEG__	ChrX	{HomoSapiens}
+ zinc finger X-linked protein	ZXDA	ZXDA	__SEG__	ChrX	{HomoSapiens}
+ zinc finger X-linked protein	ZXDB	ZXDB	__SEG__	ChrX	{HomoSapiens}
+ glutamate dehydrogenase 2, mitochondrial	precursor	GLUD2	__SEG__	ChrX	{HomoSapiens}
+ factor VIII intron 22	protein	F8A1	__SEG__	ChrX	{HomoSapiens}
+ huntingtin-interacting protein	M	HYPM	__SEG__	ChrX	{HomoSapiens}
+ potassium voltage-gated channel subfamily E regulatory beta subunit	5	KCNE5	__SEG__	ChrX	{HomoSapiens}
+ protein	LDOC1	LDOC1	__SEG__	ChrX	{HomoSapiens}
+ replication protein A 30 kDa	subunit	RPA4	__SEG__	ChrX	{HomoSapiens}
+	ubiquilin-2	UBQLN2	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	H1	MAGEH1	__SEG__	ChrX	{HomoSapiens}
+ G-protein coupled receptor-associated sorting protein	1	GPRASP1	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	C2	MAGEC2	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	9	TCEAL9	__SEG__	ChrX	{HomoSapiens}
+ ras-related protein	Rab-9B	RAB9B	__SEG__	ChrX	{HomoSapiens}
+ transcription factor Dp family member	3	TFDP3	__SEG__	ChrX	{HomoSapiens}
+ armadillo repeat-containing X-linked protein	1	ARMCX1	__SEG__	ChrX	{HomoSapiens}
+ eukaryotic peptide chain release factor GTP-binding subunit	ERF3B	GSPT2	__SEG__	ChrX	{HomoSapiens}
+ protein	BEX1	BEX1	__SEG__	ChrX	{HomoSapiens}
+ carbohydrate sulfotransferase 7	precursor	CHST7	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	E1	MAGEE1	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	5	MAGEA5	__SEG__	ChrX	{HomoSapiens}
+ mid1-interacting protein	1	MID1IP1	__SEG__	ChrX	{HomoSapiens}
+ nucleosome assembly protein 1-like	2	NAP1L2	__SEG__	ChrX	{HomoSapiens}
+ dual specificity protein phosphatase	21	DUSP21	__SEG__	ChrX	{HomoSapiens}
+ uncharacterized protein	CXorf21	CXorf21	__SEG__	ChrX	{HomoSapiens}
+ putative type-1 protein phosphatase inhibitor	4	PPP1R2C	__SEG__	ChrX	{HomoSapiens}
+ ferritin heavy polypeptide-like	17	FTHL17	__SEG__	ChrX	{HomoSapiens}
+ probable G-protein coupled receptor	174	GPR174	__SEG__	ChrX	{HomoSapiens}
+ paraneoplastic antigen-like protein	6A	PNMA6A	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	3	TCEAL3	__SEG__	ChrX	{HomoSapiens}
+ CPX chromosomal region candidate gene 1	protein	CPXCR1	__SEG__	ChrX	{HomoSapiens}
+ probable G-protein coupled receptor	101	GPR101	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	2	TCEAL2	__SEG__	ChrX	{HomoSapiens}
+ three prime repair exonuclease	2	TREX2	__SEG__	ChrX	{HomoSapiens}
+ histone H2A-Bbd type	2/3	H2AFB3	__SEG__	ChrX	{HomoSapiens}
+ probable G-protein coupled receptor	82	GPR82	__SEG__	ChrX	{HomoSapiens}
+ polyadenylate-binding protein	5	PABPC5	__SEG__	ChrX	{HomoSapiens}
+ ras-related protein	Rab-40A	RAB40A	__SEG__	ChrX	{HomoSapiens}
+ actin-related protein	T1	ACTRT1	__SEG__	ChrX	{HomoSapiens}
+ G-protein coupled receptor-associated sorting protein	2	GPRASP2	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	E2	MAGEE2	__SEG__	ChrX	{HomoSapiens}
+ homeobox protein	TGIF2LX	TGIF2LX	__SEG__	ChrX	{HomoSapiens}
+ APC membrane recruitment protein	1	AMER1	__SEG__	ChrX	{HomoSapiens}
+ E3 ubiquitin-protein ligase	ZNF645	CBLL2	__SEG__	ChrX	{HomoSapiens}
+ protein	FAM47B	FAM47B	__SEG__	ChrX	{HomoSapiens}
+ C1GALT1-specific chaperone	1	C1GALT1C1	__SEG__	ChrX	{HomoSapiens}
+ retrotransposon Gag-like protein	3	RTL3	__SEG__	ChrX	{HomoSapiens}
+ kelch-like protein	34	KLHL34	__SEG__	ChrX	{HomoSapiens}
+ transcription elongation factor A protein-like	8	TCEAL8	__SEG__	ChrX	{HomoSapiens}
+ SLIT and NTRK-like protein 4	precursor	SLITRK4	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B6	MAGEB6	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B18	MAGEB18	__SEG__	ChrX	{HomoSapiens}
+ zinc finger CCHC domain-containing protein	12	ZCCHC12	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	6	MAGEA6	__SEG__	ChrX	{HomoSapiens}
+ armadillo repeat-containing X-linked protein	3	ARMCX3	__SEG__	ChrX	{HomoSapiens}
+ DDB1- and CUL4-associated factor 12-like protein	1	DCAF12L1	__SEG__	ChrX	{HomoSapiens}
+ glucose-dependent insulinotropic	receptor	GPR119	__SEG__	ChrX	{HomoSapiens}
+ GTPase ERas	precursor	ERAS	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen	B10	MAGEB10	__SEG__	ChrX	{HomoSapiens}
+ DEAD box protein	53	DDX53	__SEG__	ChrX	{HomoSapiens}
+ forkhead box protein	R2	FOXR2	__SEG__	ChrX	{HomoSapiens}
+ zinc finger CCHC domain-containing protein	13	ZCCHC13	__SEG__	ChrX	{HomoSapiens}
+ small integral membrane protein 10-like protein	2A	SMIM10L2A	__SEG__	ChrX	{HomoSapiens}
+ uncharacterized protein	CXorf67	CXorf67	__SEG__	ChrX	{HomoSapiens}
+ protein	FAM47A	FAM47A	__SEG__	ChrX	{HomoSapiens}
+ transcription factor	YY2	YY2	__SEG__	ChrX	{HomoSapiens}
+ protein	PPP4R3C	PPP4R3C	__SEG__	ChrX	{HomoSapiens}
+ OTU domain-containing protein	6A	OTUD6A	__SEG__	ChrX	{HomoSapiens}
+ probable G-protein coupled receptor 173 isoform	X1	GPR173	__SEG__	ChrX	{HomoSapiens}
+ endogenous retrovirus group FC1 Env	polyprotein	LOC105373297	__SEG__	ChrX	{HomoSapiens}
+ uncharacterized protein	LOC105373311	LOC105373311	__SEG__	ChrX	{HomoSapiens}
+ placenta-specific protein 1 isoform	X1	PLAC1	__SEG__	ChrX	{HomoSapiens}
+ paraneoplastic antigen-like protein 5 isoform	X1	PNMA5	__SEG__	ChrX	{HomoSapiens}
+ PWWP domain-containing protein MUM1L1 isoform	X1	MUM1L1	__SEG__	ChrX	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 51 isoform	X1	USP51	__SEG__	ChrX	{HomoSapiens}
+ spindlin-3 isoform	X1	SPIN3	__SEG__	ChrX	{HomoSapiens}
+ lysophosphatidic acid receptor 4 isoform	X1	LPAR4	__SEG__	ChrX	{HomoSapiens}
+ protein FAM133A isoform	X1	FAM133A	__SEG__	ChrX	{HomoSapiens}
+ protein FAM156A/FAM156B isoform	X1	FAM156A	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen 2 isoform	X1	MAGEA2	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen 8 isoform	X1	MAGEA8	__SEG__	ChrX	{HomoSapiens}
+ ubiquitin carboxyl-terminal hydrolase 26 isoform	X1	USP26	__SEG__	ChrX	{HomoSapiens}
+ armadillo repeat-containing X-linked protein 2 isoform	X1	ARMCX2	__SEG__	ChrX	{HomoSapiens}
+ uncharacterized protein	LOC107985657	LOC107985657	__SEG__	ChrX	{HomoSapiens}
+ uncharacterized protein	LOC107985687	LOC107985687	__SEG__	ChrX	{HomoSapiens}
+ A-kinase anchor protein	17B-like	LOC107985692	__SEG__	ChrX	{HomoSapiens}
+ putative nucleotidyltransferase FAM46D isoform	X1	FAM46D	__SEG__	ChrX	{HomoSapiens}
+ melanoma-associated antigen 9 isoform	X1	MAGEA9	__SEG__	ChrX	{HomoSapiens}
+ uncharacterized protein	LOC112268305	LOC112268305	__SEG__	ChrX	{HomoSapiens}
+ small integral membrane protein	30-like	LOC112268306	__SEG__	ChrX	{HomoSapiens}
+ testis-specific chromodomain protein Y	2	CDY2B	__SEG__	ChrY	{HomoSapiens}
+ testis-specific XK-related protein, Y-linked	2	XKRY2	__SEG__	ChrY	{HomoSapiens}
+ zinc finger BED domain-containing protein	1	ZBED1	__SEG__	ChrY	{HomoSapiens}
+ sex-determining region Y	protein	SRY	__SEG__	ChrY	{HomoSapiens}
+ testis-specific XK-related protein, Y-linked	2	XKRY	__SEG__	ChrY	{HomoSapiens}
+ testis-specific chromodomain protein Y	2	CDY2A	__SEG__	ChrY	{HomoSapiens}
+ protein sprouty homolog	3	SPRY3	__SEG__	ChrY	{HomoSapiens}
+ homeobox protein	TGIF2LY	TGIF2LY	__SEG__	ChrY	{HomoSapiens}
